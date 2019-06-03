@@ -5,9 +5,9 @@ library(tidyverse)
 
 
 ###### bring in the multiplier table and raw project data
-multiplier <- read.csv("infea_multiplier_tool_2015.csv", header = TRUE)
+multiplier <- read.csv("http://35.183.198.35/docs/infea_multiplier_tool_2015.csv", header = TRUE)
 
-data <- read.csv("sample_output2.csv",header=TRUE)
+data <- read.csv("http://35.183.198.35/docs/sample_output2.csv",header=TRUE)
 
 
 ## convert the "geo" column to "Region" to match the raw data and INFEA.Multiplier.Category
@@ -89,9 +89,12 @@ combined$Taxes.Contribution <- gsub("[ ]","",paste("$",format(round(combined$Tax
 combined$Total.Eligible.Costs <- gsub("[ ]","",paste("$",format(round(combined$Total.Eligible.Cost,0),nsmall=0,big.mark=","),sep=""))
 combined$Program.Contribution <- gsub("[ ]","",paste("$",format(round(combined$Program.Contribution,0),nsmall=0,big.mark=","),sep=""))
 
+####Remove multiplier value fields from the output and move Project number to the first column
+
 combined <- combined %>%
   select("Project.Num",everything()) %>%
   select(-one_of("year","value.GDPD","value.EMPL_DIR","value.EMPLT","value.GDPT","value.WSLID","value.WSLIT","value.IMPT","value.TAXFND","value.IMP_DIR","value.IMP_INI"))
 
+#### Write an output file
 
 write_csv(combined, "Output.csv", append = FALSE, quote_escape = "double")

@@ -8,7 +8,7 @@ library(tidyverse)
 multiplier <- read.csv("http://35.183.198.35/docs/infea_multiplier_tool_2015.csv", header = TRUE)
 
 data <- read.csv("http://35.183.198.35/docs/sample_output2.csv",header=TRUE)
-
+data$Project.Name <- gsub("[;]","-",data$Project.Name)
 
 ## convert the "geo" column to "Region" to match the raw data and INFEA.Multiplier.Category
 

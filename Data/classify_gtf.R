@@ -190,5 +190,5 @@ combined <- combined %>%
   select(-one_of("year","value.GDPD","value.EMPL_DIR","value.EMPLT","value.GDPT","value.WSLID","value.WSLIT","value.IMPT","value.TAXFND","value.IMP_DIR","value.IMP_INI"))
 
 #export dataset as csv
-write.csv(combined,"output.csv")
+write.csv(combined,"output_gtf.csv")
 

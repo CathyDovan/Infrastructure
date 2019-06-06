@@ -46,18 +46,13 @@ ui <- fluidPage(
       ),
       
       
-      radioButtons("radio", label = h4("Please identify the data source"),
-                   choices = list("GTF Data" = 1, "PIMS Data" = 2),
-                   selected = 1),
-      
-      
       
       tags$hr(),
       
       disabled(actionButton("multiplierbutton","Apply economic multiplier only")),
       disabled(actionButton("gtf","Apply classifier and economic multiplier (gtf)")),
       disabled(actionButton("pims","Apply classifier and economic multiplier (pims)"))
-    ),
+    , width = 5),
     
     
     

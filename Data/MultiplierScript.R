@@ -1,8 +1,10 @@
-
+remove.packages("shiny")
 
 library(dplyr)
 library(tidyverse)
 
+
+options(repos = c(CRAN = "https://cran.rstudio.org"
 
 ###### bring in the multiplier table and raw project data
 multiplier <- read.csv("http://35.183.198.35/docs/infea_multiplier_tool_2015.csv", header = TRUE)

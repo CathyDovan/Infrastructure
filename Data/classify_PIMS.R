@@ -25,8 +25,8 @@ library(openxlsx)
 ###########Apply to new Data############
 #Load and format data into DTM
 #read csv
-pims_raw <- read.csv("http://35.183.198.35/docs/pims_data.csv", stringsAsFactors = FALSE)
-#pims_raw<-read.csv(input$file1$datapath)
+#pims_raw <- read.csv("http://35.183.198.35/docs/pims_data.csv", stringsAsFactors = FALSE)
+pims_raw<-read.csv(input$file1$datapath)
 names(pims_raw)<-str_replace_all(names(pims_raw), c(" " = "." , "," = "" ))
 pims_raw<-pims_raw %>% 
   rename(Std.Cat=Standardized.Category,Title=Title..EN.,Descr=Description..EN.)

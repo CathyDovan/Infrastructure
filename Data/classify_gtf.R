@@ -17,16 +17,16 @@ library(tidytext)
 library(reshape2)
 library(class)
 library(e1071)
-library(gmodels)
-library(caret)
+#library(gmodels)
+#library(caret)
 library(stringr)
-library(openxlsx)
+#library(openxlsx)
 
 ###########Apply to new Data############
 #Load and format data into DTM
 #read csv
-#gtf_raw <- read.csv("http://35.183.198.35/docs/gtf_data.csv", stringsAsFactors = FALSE)
-gtf_raw<-read.csv(input$file1$datapath)
+gtf_raw <- read.csv("http://35.183.198.35/docs/gtf_data.csv", stringsAsFactors = FALSE)
+#gtf_raw<-read.csv(input$file1$datapath)
 names(gtf_raw)<-str_replace_all(names(gtf_raw), c(" " = "." , "," = "" ))
 gtf_raw<-gtf_raw %>% 
   rename(Std.Cat=Standardized.Category,Title=Project.Title,Descr=Project.Description)
@@ -187,7 +187,7 @@ combined$Total.Program.Contribution <- gsub("[ ]","",paste("$",format(round(comb
 #Remove multiplier value fields from the output and move Project number to the first column
 combined <- combined %>%
   select("Project..",everything()) %>%
-  select(-one_of("year","value.GDPD","value.EMPL_DIR","value.EMPLT","value.GDPT","value.WSLID","value.WSLIT","value.IMPT","value.TAXFND","value.IMP_DIR","value.IMP_INI"))
+  select(-one_of("year","value.GDPD","value.EMPL_DIR","value.EMPLT","value.GDPT","value.WSLID","value.WSLIT","value.IMPT","value.TAXFND","value.IMP_DIR","value.IMP_INI","text"))
 
 #export dataset as csv
 write.csv(combined,"output_gtf.csv")

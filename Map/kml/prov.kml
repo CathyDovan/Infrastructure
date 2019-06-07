@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Placemark id="3">
+            <name>Province.Territory</name>
+            <Point id="2">
+                <coordinates>Longitude,Latitude,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5">
+            <name>Alberta</name>
+            <Point id="4">
+                <coordinates>-116.5765035,53.9332706,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7">
+            <name>British Columbia</name>
+            <Point id="6">
+                <coordinates>-127.6476205,53.7266683,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9">
+            <name>Manitoba</name>
+            <Point id="8">
+                <coordinates>-98.8138762,53.7608608,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11">
+            <name>New Brunswick</name>
+            <Point id="10">
+                <coordinates>-66.4619164,46.5653163,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13">
+            <name>Newfoundland and Labrador</name>
+            <Point id="12">
+                <coordinates>-57.6604364,53.1355091,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15">
+            <name>Northwest Territories</name>
+            <Point id="14">
+                <coordinates>-124.8457334,64.8255441,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="17">
+            <name>Nova Scotia</name>
+            <Point id="16">
+                <coordinates>-63.744311,44.6819866,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="19">
+            <name>Nunavut</name>
+            <Point id="18">
+                <coordinates>-83.107577,70.2997711,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21">
+            <name>Ontario</name>
+            <Point id="20">
+                <coordinates>-85.323214,51.253775,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23">
+            <name>Prince Edward Island</name>
+            <Point id="22">
+                <coordinates>-63.4168136,46.510712,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="25">
+            <name>Saskatchewan</name>
+            <Point id="24">
+                <coordinates>-106.4508639,52.9399159,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="27">
+            <name>Yukon</name>
+            <Point id="26">
+                <coordinates>-135,64.2823274,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

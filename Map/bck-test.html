@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <title>INFC - Enhanced Google Map Concept</title>
+<link href="css/infc-gmap.css" rel="stylesheet" type="text/css" />	  
+<script
+  src="https://code.jquery.com/jquery-2.2.4.min.js"
+  integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+  crossorigin="anonymous"></script>
+	  
+<script src="js/infc-gmap.js"></script>
+</head>
+<body>
+
+<ul id="themenu">
+	<li><a href="#" class="ion-btnPanel" id="ion-btnPanel-hide" title="Hide filters">Hide filters</a></li>
+	<li>
+	<label for="searchfield" class="ion-hidden wb-inv">Search</label>
+	<input id="searchfield" name="searchfield" type="text" placeholder=" Search" />
+	</li>
+</ul>
+
+<section id="ion-panelLeft">
+<!--<a href="#" role="button" class="ion-pull-right" id="ion-btnPanel-hide">X</a>-->
+<h2 class="ion-heading ion-pull-left">Filters</h2>
+<div class="ion-clearfix"></div>
+<div class="ion-mrgn-tp-md">
+<label class="ion-block"><input type="checkbox" /> Filter 1</label>
+<label class="ion-block"><input type="checkbox" /> Filter 1</label>
+<label class="ion-block"><input type="checkbox" /> Filter 1</label>
+</div>
+</section>	  
+
+<div id="map"></div>
+
+<script>
+      var map;
+     // var src = 'https://developers.google.com/maps/documentation/javascript/examples/kml/westcampus.kml';
+		//var src = "http://35.183.198.35/gmap/westcampus.kml";
+	var src = "http://35.183.198.35/gmap/convertcsv-r3.kml";
+		
+      function initMap() {
+        map = new google.maps.Map(document.getElementById('map'), {
+          center: new google.maps.LatLng(-19.257753, 146.823688),
+          zoom: 2,
+          mapTypeId: 'terrain',
+mapTypeControl: true,
+    mapTypeControlOptions: {
+        style: google.maps.MapTypeControlStyle.DROPDOWN_MENU,
+        position: google.maps.ControlPosition.RIGHT_TOP
+    }			
+        });
+
+        var kmlLayer = new google.maps.KmlLayer(src, {
+          map: map
+        });
+       
+      }
+</script>
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA8WbqUM0ZmgCKzzgfPKfS3ArKIPa_MxVk&callback=initMap">
+    </script>
+  </body>
+</html>

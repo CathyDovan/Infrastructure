@@ -1,0 +1,2421 @@
+year,geo,Asset,type,value
+2015,AB,Buses,EMPLT,0.003954468805306
+2015,AB,Buses,EMPL_DIR,0.002441205539815
+2015,AB,Buses,GDPD,0.223135878867682
+2015,AB,Buses,GDPT,0.382590717483009
+2015,AB,Buses,IMPT,0.474337405335352
+2015,AB,Buses,IMP_DIR,0.417947144573765
+2015,AB,Buses,IMP_INI,0.113703209935557
+2015,AB,Buses,TAXFND,0.000751646699678
+2015,AB,Buses,WSLID,0.198557706440171
+2015,AB,Buses,WSLIT,0.294593787945761
+2015,AB,Communication engineering construction,EMPLT,0.005669366928614
+2015,AB,Communication engineering construction,EMPL_DIR,0.002010090179153
+2015,AB,Communication engineering construction,GDPD,0.282055819349004
+2015,AB,Communication engineering construction,GDPT,0.709863426420874
+2015,AB,Communication engineering construction,IMPT,0.273594639899419
+2015,AB,Communication engineering construction,IMP_DIR,0.150816665967054
+2015,AB,Communication engineering construction,IMP_INI,0
+2015,AB,Communication engineering construction,TAXFND,0
+2015,AB,Communication engineering construction,WSLID,0.178819188433722
+2015,AB,Communication engineering construction,WSLIT,0.437554221097844
+2015,AB,Electric power engineering construction,EMPLT,0.004795794360935
+2015,AB,Electric power engineering construction,EMPL_DIR,0.002777168876837
+2015,AB,Electric power engineering construction,GDPD,0.585550283861635
+2015,AB,Electric power engineering construction,GDPT,0.834583745076783
+2015,AB,Electric power engineering construction,IMPT,0.159357844108281
+2015,AB,Electric power engineering construction,IMP_DIR,0.116282236801746
+2015,AB,Electric power engineering construction,IMP_INI,0
+2015,AB,Electric power engineering construction,TAXFND,9.27123097931566E-05
+2015,AB,Electric power engineering construction,WSLID,0.250975573657417
+2015,AB,Electric power engineering construction,WSLIT,0.400825930802049
+2015,AB,"Highway, roads, streets, bridges and overpasses",EMPLT,0.006660262162131
+2015,AB,"Highway, roads, streets, bridges and overpasses",EMPL_DIR,0.002697892208043
+2015,AB,"Highway, roads, streets, bridges and overpasses",GDPD,0.260715620096517
+2015,AB,"Highway, roads, streets, bridges and overpasses",GDPT,0.774150972378381
+2015,AB,"Highway, roads, streets, bridges and overpasses",IMPT,0.209582409489164
+2015,AB,"Highway, roads, streets, bridges and overpasses",IMP_DIR,0.127475432099121
+2015,AB,"Highway, roads, streets, bridges and overpasses",IMP_INI,0
+2015,AB,"Highway, roads, streets, bridges and overpasses",TAXFND,0.000309562701952
+2015,AB,"Highway, roads, streets, bridges and overpasses",WSLID,0.222365687281328
+2015,AB,"Highway, roads, streets, bridges and overpasses",WSLIT,0.516756856467254
+2015,AB,"Hospitals, health centres, clinics, nursing homes and other health care buildings",EMPLT,0.006498039481166
+2015,AB,"Hospitals, health centres, clinics, nursing homes and other health care buildings",EMPL_DIR,0.003024483803577
+2015,AB,"Hospitals, health centres, clinics, nursing homes and other health care buildings",GDPD,0.367631235863255
+2015,AB,"Hospitals, health centres, clinics, nursing homes and other health care buildings",GDPT,0.751450136391058
+2015,AB,"Hospitals, health centres, clinics, nursing homes and other health care buildings",IMPT,0.213577049421838
+2015,AB,"Hospitals, health centres, clinics, nursing homes and other health care buildings",IMP_DIR,0.143569890970214
+2015,AB,"Hospitals, health centres, clinics, nursing homes and other health care buildings",IMP_INI,0
+2015,AB,"Hospitals, health centres, clinics, nursing homes and other health care buildings",TAXFND,0.023560821568512
+2015,AB,"Hospitals, health centres, clinics, nursing homes and other health care buildings",WSLID,0.228260387410884
+2015,AB,"Hospitals, health centres, clinics, nursing homes and other health care buildings",WSLIT,0.461912720934136
+2015,AB,Marine engineering construction,EMPLT,0.006092716010765
+2015,AB,Marine engineering construction,EMPL_DIR,0.00300348179712
+2015,AB,Marine engineering construction,GDPD,0.399674494259924
+2015,AB,Marine engineering construction,GDPT,0.780748115406475
+2015,AB,Marine engineering construction,IMPT,0.202505689700565
+2015,AB,Marine engineering construction,IMP_DIR,0.128727222317096
+2015,AB,Marine engineering construction,IMP_INI,0
+2015,AB,Marine engineering construction,TAXFND,0.000850195544975
+2015,AB,Marine engineering construction,WSLID,0.297360601690038
+2015,AB,Marine engineering construction,WSLIT,0.527364780441296
+2015,AB,Other commercial buildings,EMPLT,0.006645011956249
+2015,AB,Other commercial buildings,EMPL_DIR,0.003092891493581
+2015,AB,Other commercial buildings,GDPD,0.37594630886479
+2015,AB,Other commercial buildings,GDPT,0.768446414540365
+2015,AB,Other commercial buildings,IMPT,0.21840772914693
+2015,AB,Other commercial buildings,IMP_DIR,0.14681715074518
+2015,AB,Other commercial buildings,IMP_INI,0
+2015,AB,Other commercial buildings,TAXFND,0.001475747564525
+2015,AB,Other commercial buildings,WSLID,0.233423174463577
+2015,AB,Other commercial buildings,WSLIT,0.472360249925754
+2015,AB,Other engine and power transmission equipment,EMPLT,0.002078342277672
+2015,AB,Other engine and power transmission equipment,EMPL_DIR,0.001514083576725
+2015,AB,Other engine and power transmission equipment,GDPD,0.165058782064211
+2015,AB,Other engine and power transmission equipment,GDPT,0.229056766696892
+2015,AB,Other engine and power transmission equipment,IMPT,0.023341858601643
+2015,AB,Other engine and power transmission equipment,IMP_DIR,0.014443596212303
+2015,AB,Other engine and power transmission equipment,IMP_INI,0.739565877282375
+2015,AB,Other engine and power transmission equipment,TAXFND,0.007491251093613
+2015,AB,Other engine and power transmission equipment,WSLID,0.119140277440774
+2015,AB,Other engine and power transmission equipment,WSLIT,0.154700581147931
+2015,AB,Other engineering construction,EMPLT,0.006096068966302
+2015,AB,Other engineering construction,EMPL_DIR,0.003005134679169
+2015,AB,Other engineering construction,GDPD,0.39989444391884
+2015,AB,Other engineering construction,GDPT,0.781177778254992
+2015,AB,Other engineering construction,IMPT,0.202617133032621
+2015,AB,Other engineering construction,IMP_DIR,0.128798063736923
+2015,AB,Other engineering construction,IMP_INI,0
+2015,AB,Other engineering construction,TAXFND,0.000300341446572
+2015,AB,Other engineering construction,WSLID,0.297524245765045
+2015,AB,Other engineering construction,WSLIT,0.527655000871293
+2015,AB,Other institutional buildings,EMPLT,0.006634842029775
+2015,AB,Other institutional buildings,EMPL_DIR,0.003088157946178
+2015,AB,Other institutional buildings,GDPD,0.375370937993432
+2015,AB,Other institutional buildings,GDPT,0.767270337870105
+2015,AB,Other institutional buildings,IMPT,0.218073464805274
+2015,AB,Other institutional buildings,IMP_DIR,0.146592452936044
+2015,AB,Other institutional buildings,IMP_INI,0
+2015,AB,Other institutional buildings,TAXFND,0.003003949213667
+2015,AB,Other institutional buildings,WSLID,0.233065929580147
+2015,AB,Other institutional buildings,WSLIT,0.471637321352747
+2015,AB,Other miscellaneous general-purpose machinery,EMPLT,0.002341392548578
+2015,AB,Other miscellaneous general-purpose machinery,EMPL_DIR,0.001670757374296
+2015,AB,Other miscellaneous general-purpose machinery,GDPD,0.178462335978832
+2015,AB,Other miscellaneous general-purpose machinery,GDPT,0.254425955790852
+2015,AB,Other miscellaneous general-purpose machinery,IMPT,0.035160984791395
+2015,AB,Other miscellaneous general-purpose machinery,IMP_DIR,0.023397613002052
+2015,AB,Other miscellaneous general-purpose machinery,IMP_INI,0.691509426370514
+2015,AB,Other miscellaneous general-purpose machinery,TAXFND,0.001931686475922
+2015,AB,Other miscellaneous general-purpose machinery,WSLID,0.127165310284332
+2015,AB,Other miscellaneous general-purpose machinery,WSLIT,0.170174105647306
+2015,AB,Other oil and gas engineering construction,EMPLT,0.006409317320988
+2015,AB,Other oil and gas engineering construction,EMPL_DIR,0.00352444383437
+2015,AB,Other oil and gas engineering construction,GDPD,0.415705254837044
+2015,AB,Other oil and gas engineering construction,GDPT,0.793589745975529
+2015,AB,Other oil and gas engineering construction,IMPT,0.201204944092763
+2015,AB,Other oil and gas engineering construction,IMP_DIR,0.141303006938967
+2015,AB,Other oil and gas engineering construction,IMP_INI,0
+2015,AB,Other oil and gas engineering construction,TAXFND,5.61263873981652E-05
+2015,AB,Other oil and gas engineering construction,WSLID,0.333580587306213
+2015,AB,Other oil and gas engineering construction,WSLIT,0.565920431457079
+2015,AB,Other transportation construction,EMPLT,0.006658926904111
+2015,AB,Other transportation construction,EMPL_DIR,0.002697351331105
+2015,AB,Other transportation construction,GDPD,0.260663351489955
+2015,AB,Other transportation construction,GDPT,0.7739957695847
+2015,AB,Other transportation construction,IMPT,0.209540392135161
+2015,AB,Other transportation construction,IMP_DIR,0.127449875658719
+2015,AB,Other transportation construction,IMP_INI,0
+2015,AB,Other transportation construction,TAXFND,0.000509981940859
+2015,AB,Other transportation construction,WSLID,0.222321107119168
+2015,AB,Other transportation construction,WSLIT,0.516653256380658
+2015,AB,Railroad rolling stocks,EMPLT,0.000435228750914
+2015,AB,Railroad rolling stocks,EMPL_DIR,0.000262846277036
+2015,AB,Railroad rolling stocks,GDPD,0.03427199496195
+2015,AB,Railroad rolling stocks,GDPT,0.054750106937211
+2015,AB,Railroad rolling stocks,IMPT,0.006585681291452
+2015,AB,Railroad rolling stocks,IMP_DIR,0.003411051284109
+2015,AB,Railroad rolling stocks,IMP_INI,0.930805768025798
+2015,AB,Railroad rolling stocks,TAXFND,0.007528048049993
+2015,AB,Railroad rolling stocks,WSLID,0.021992141843981
+2015,AB,Railroad rolling stocks,WSLIT,0.03328017606868
+2015,AB,"Schools, colleges, universities and other educational buildings",EMPLT,0.006562154187191
+2015,AB,"Schools, colleges, universities and other educational buildings",EMPL_DIR,0.003054325710587
+2015,AB,"Schools, colleges, universities and other educational buildings",GDPD,0.371258571259029
+2015,AB,"Schools, colleges, universities and other educational buildings",GDPT,0.758864527258825
+2015,AB,"Schools, colleges, universities and other educational buildings",IMPT,0.215684366525276
+2015,AB,"Schools, colleges, universities and other educational buildings",IMP_DIR,0.144986463057895
+2015,AB,"Schools, colleges, universities and other educational buildings",IMP_INI,0
+2015,AB,"Schools, colleges, universities and other educational buildings",TAXFND,0.013926514011843
+2015,AB,"Schools, colleges, universities and other educational buildings",WSLID,0.230512581734809
+2015,AB,"Schools, colleges, universities and other educational buildings",WSLIT,0.46647031071148
+2015,AB,Sewage engineering construction,EMPLT,0.006097268356846
+2015,AB,Sewage engineering construction,EMPL_DIR,0.003005725933982
+2015,AB,Sewage engineering construction,GDPD,0.39997312242746
+2015,AB,Sewage engineering construction,GDPT,0.781331473570079
+2015,AB,Sewage engineering construction,IMPT,0.202656997587106
+2015,AB,Sewage engineering construction,IMP_DIR,0.128823404523028
+2015,AB,Sewage engineering construction,IMP_INI,0
+2015,AB,Sewage engineering construction,TAXFND,0.000103652346738
+2015,AB,Sewage engineering construction,WSLID,0.297582783122317
+2015,AB,Sewage engineering construction,WSLIT,0.527758816038434
+2015,AB,Transformers,EMPLT,0.00374297709917
+2015,AB,Transformers,EMPL_DIR,0.002316574801175
+2015,AB,Transformers,GDPD,0.277055091295445
+2015,AB,Transformers,GDPT,0.428740317806632
+2015,AB,Transformers,IMPT,0.251594135550264
+2015,AB,Transformers,IMP_DIR,0.209861882445262
+2015,AB,Transformers,IMP_INI,0.281042883844427
+2015,AB,Transformers,TAXFND,6.59848234905972E-05
+2015,AB,Transformers,WSLID,0.191579440246584
+2015,AB,Transformers,WSLIT,0.281235496842999
+2015,AB,Turbines and turbine generator set units,EMPLT,0.002617872132552
+2015,AB,Turbines and turbine generator set units,EMPL_DIR,0.001825903791501
+2015,AB,Turbines and turbine generator set units,GDPD,0.235665570728776
+2015,AB,Turbines and turbine generator set units,GDPT,0.322089429541239
+2015,AB,Turbines and turbine generator set units,IMPT,0.043553731451456
+2015,AB,Turbines and turbine generator set units,IMP_DIR,0.028802779455321
+2015,AB,Turbines and turbine generator set units,IMP_INI,0.622173395916229
+2015,AB,Turbines and turbine generator set units,TAXFND,3.19070865639258E-05
+2015,AB,Turbines and turbine generator set units,WSLID,0.168676940781459
+2015,AB,Turbines and turbine generator set units,WSLIT,0.218219891589583
+2015,AB,Waterworks engineering construction,EMPLT,0.006097871943898
+2015,AB,Waterworks engineering construction,EMPL_DIR,0.003006023479891
+2015,AB,Waterworks engineering construction,GDPD,0.400012716977613
+2015,AB,Waterworks engineering construction,GDPT,0.781408819937827
+2015,AB,Waterworks engineering construction,IMPT,0.202677059216763
+2015,AB,Waterworks engineering construction,IMP_DIR,0.128836157141805
+2015,AB,Waterworks engineering construction,IMP_INI,0
+2015,AB,Waterworks engineering construction,TAXFND,4.66958048488924E-06
+2015,AB,Waterworks engineering construction,WSLID,0.297612241742835
+2015,AB,Waterworks engineering construction,WSLIT,0.527811060481219
+2015,BC,Buses,EMPLT,0.001813927221137
+2015,BC,Buses,EMPL_DIR,0.001075955847369
+2015,BC,Buses,GDPD,0.105485103611337
+2015,BC,Buses,GDPT,0.180546542438803
+2015,BC,Buses,IMPT,0.194789686290634
+2015,BC,Buses,IMP_DIR,0.171965388064463
+2015,BC,Buses,IMP_INI,0.589490754894368
+2015,BC,Buses,TAXFND,0.028185461543101
+2015,BC,Buses,WSLID,0.084006274648793
+2015,BC,Buses,WSLIT,0.128503467874091
+2015,BC,Communication engineering construction,EMPLT,0.005708399855895
+2015,BC,Communication engineering construction,EMPL_DIR,0.001928163242501
+2015,BC,Communication engineering construction,GDPD,0.268751923320062
+2015,BC,Communication engineering construction,GDPT,0.655597370908537
+2015,BC,Communication engineering construction,IMPT,0.333111882153319
+2015,BC,Communication engineering construction,IMP_DIR,0.247168623727412
+2015,BC,Communication engineering construction,IMP_INI,0
+2015,BC,Communication engineering construction,TAXFND,0
+2015,BC,Communication engineering construction,WSLID,0.167882880841227
+2015,BC,Communication engineering construction,WSLIT,0.397263068791356
+2015,BC,Electric power engineering construction,EMPLT,0.005415017859639
+2015,BC,Electric power engineering construction,EMPL_DIR,0.002373677892875
+2015,BC,Electric power engineering construction,GDPD,0.421669991917084
+2015,BC,Electric power engineering construction,GDPT,0.740412196658349
+2015,BC,Electric power engineering construction,IMPT,0.250261380444713
+2015,BC,Electric power engineering construction,IMP_DIR,0.192603117146425
+2015,BC,Electric power engineering construction,IMP_INI,0
+2015,BC,Electric power engineering construction,TAXFND,1.22778476932994E-05
+2015,BC,Electric power engineering construction,WSLID,0.188489927049122
+2015,BC,Electric power engineering construction,WSLIT,0.386695647499999
+2015,BC,"Highway, roads, streets, bridges and overpasses",EMPLT,0.00729694706583
+2015,BC,"Highway, roads, streets, bridges and overpasses",EMPL_DIR,0.003527131957182
+2015,BC,"Highway, roads, streets, bridges and overpasses",GDPD,0.403907132020836
+2015,BC,"Highway, roads, streets, bridges and overpasses",GDPT,0.826054428137046
+2015,BC,"Highway, roads, streets, bridges and overpasses",IMPT,0.162049432635301
+2015,BC,"Highway, roads, streets, bridges and overpasses",IMP_DIR,0.096985396274852
+2015,BC,"Highway, roads, streets, bridges and overpasses",IMP_INI,0
+2015,BC,"Highway, roads, streets, bridges and overpasses",TAXFND,0.000226497858234
+2015,BC,"Highway, roads, streets, bridges and overpasses",WSLID,0.261080547593569
+2015,BC,"Highway, roads, streets, bridges and overpasses",WSLIT,0.505421825543685
+2015,BC,"Hospitals, health centres, clinics, nursing homes and other health care buildings",EMPLT,0.007468530186806
+2015,BC,"Hospitals, health centres, clinics, nursing homes and other health care buildings",EMPL_DIR,0.004292399200977
+2015,BC,"Hospitals, health centres, clinics, nursing homes and other health care buildings",GDPD,0.454264302978658
+2015,BC,"Hospitals, health centres, clinics, nursing homes and other health care buildings",GDPT,0.76916656475265
+2015,BC,"Hospitals, health centres, clinics, nursing homes and other health care buildings",IMPT,0.196671662820613
+2015,BC,"Hospitals, health centres, clinics, nursing homes and other health care buildings",IMP_DIR,0.143744178791164
+2015,BC,"Hospitals, health centres, clinics, nursing homes and other health care buildings",IMP_INI,0
+2015,BC,"Hospitals, health centres, clinics, nursing homes and other health care buildings",TAXFND,0.02712894947794
+2015,BC,"Hospitals, health centres, clinics, nursing homes and other health care buildings",WSLID,0.259889538524945
+2015,BC,"Hospitals, health centres, clinics, nursing homes and other health care buildings",WSLIT,0.452903766331839
+2015,BC,Marine engineering construction,EMPLT,0.006970357825345
+2015,BC,Marine engineering construction,EMPL_DIR,0.003126583182615
+2015,BC,Marine engineering construction,GDPD,0.329882975601354
+2015,BC,Marine engineering construction,GDPT,0.743385354718244
+2015,BC,Marine engineering construction,IMPT,0.243024137928206
+2015,BC,Marine engineering construction,IMP_DIR,0.168821077639038
+2015,BC,Marine engineering construction,IMP_INI,0
+2015,BC,Marine engineering construction,TAXFND,0.000722254794497
+2015,BC,Marine engineering construction,WSLID,0.233937623613893
+2015,BC,Marine engineering construction,WSLIT,0.487066982504256
+2015,BC,Other commercial buildings,EMPLT,0.007156596217944
+2015,BC,Other commercial buildings,EMPL_DIR,0.004113120938025
+2015,BC,Other commercial buildings,GDPD,0.435291297126646
+2015,BC,Other commercial buildings,GDPT,0.737041210331153
+2015,BC,Other commercial buildings,IMPT,0.188457386274662
+2015,BC,Other commercial buildings,IMP_DIR,0.137740495192179
+2015,BC,Other commercial buildings,IMP_INI,0
+2015,BC,Other commercial buildings,TAXFND,0.067762316471066
+2015,BC,Other commercial buildings,WSLID,0.249034875935395
+2015,BC,Other commercial buildings,WSLIT,0.43398758526133
+2015,BC,Other engine and power transmission equipment,EMPLT,0.001655175437958
+2015,BC,Other engine and power transmission equipment,EMPL_DIR,0.001197934155307
+2015,BC,Other engine and power transmission equipment,GDPD,0.117042209882957
+2015,BC,Other engine and power transmission equipment,GDPT,0.163917620321102
+2015,BC,Other engine and power transmission equipment,IMPT,0.017940099311394
+2015,BC,Other engine and power transmission equipment,IMP_DIR,0.011241051502617
+2015,BC,Other engine and power transmission equipment,IMP_INI,0.765465279131899
+2015,BC,Other engine and power transmission equipment,TAXFND,0.051866918494842
+2015,BC,Other engine and power transmission equipment,WSLID,0.085425872006589
+2015,BC,Other engine and power transmission equipment,WSLIT,0.110815471368945
+2015,BC,Other engineering construction,EMPLT,0.006967622810326
+2015,BC,Other engineering construction,EMPL_DIR,0.003125356380178
+2015,BC,Other engineering construction,GDPD,0.329753536781204
+2015,BC,Other engineering construction,GDPT,0.743093666664151
+2015,BC,Other engineering construction,IMPT,0.242928780604524
+2015,BC,Other engineering construction,IMP_DIR,0.168754835963286
+2015,BC,Other engineering construction,IMP_INI,0
+2015,BC,Other engineering construction,TAXFND,0.001114349391394
+2015,BC,Other engineering construction,WSLID,0.233845831638469
+2015,BC,Other engineering construction,WSLIT,0.486875868138823
+2015,BC,Other institutional buildings,EMPLT,0.00763749969649
+2015,BC,Other institutional buildings,EMPL_DIR,0.004389511292677
+2015,BC,Other institutional buildings,GDPD,0.464541668754997
+2015,BC,Other institutional buildings,GDPT,0.786568341817365
+2015,BC,Other institutional buildings,IMPT,0.201121201565777
+2015,BC,Other institutional buildings,IMP_DIR,0.146996275629876
+2015,BC,Other institutional buildings,IMP_INI,0
+2015,BC,Other institutional buildings,TAXFND,0.005118521685431
+2015,BC,Other institutional buildings,WSLID,0.26576933104078
+2015,BC,Other institutional buildings,WSLIT,0.463150351056971
+2015,BC,Other miscellaneous general-purpose machinery,EMPLT,0.002440263216608
+2015,BC,Other miscellaneous general-purpose machinery,EMPL_DIR,0.001733136802866
+2015,BC,Other miscellaneous general-purpose machinery,GDPD,0.165615296960407
+2015,BC,Other miscellaneous general-purpose machinery,GDPT,0.238494240031216
+2015,BC,Other miscellaneous general-purpose machinery,IMPT,0.043028194584369
+2015,BC,Other miscellaneous general-purpose machinery,IMP_DIR,0.03145195014029
+2015,BC,Other miscellaneous general-purpose machinery,IMP_INI,0.669781641371781
+2015,BC,Other miscellaneous general-purpose machinery,TAXFND,0.037471775587644
+2015,BC,Other miscellaneous general-purpose machinery,WSLID,0.116653824052776
+2015,BC,Other miscellaneous general-purpose machinery,WSLIT,0.157067103268331
+2015,BC,Other oil and gas engineering construction,EMPLT,0.007980705394791
+2015,BC,Other oil and gas engineering construction,EMPL_DIR,0.005080844836841
+2015,BC,Other oil and gas engineering construction,GDPD,0.442757372573548
+2015,BC,Other oil and gas engineering construction,GDPT,0.804381096250528
+2015,BC,Other oil and gas engineering construction,IMPT,0.190903603608384
+2015,BC,Other oil and gas engineering construction,IMP_DIR,0.130067640157707
+2015,BC,Other oil and gas engineering construction,IMP_INI,0
+2015,BC,Other oil and gas engineering construction,TAXFND,0.000137836056905
+2015,BC,Other oil and gas engineering construction,WSLID,0.319875527931432
+2015,BC,Other oil and gas engineering construction,WSLIT,0.548154095636156
+2015,BC,Other transportation construction,EMPLT,0.007296365699885
+2015,BC,Other transportation construction,EMPL_DIR,0.003526850941795
+2015,BC,Other transportation construction,GDPD,0.403874951733758
+2015,BC,Other transportation construction,GDPT,0.825988614323592
+2015,BC,Other transportation construction,IMPT,0.162036521753443
+2015,BC,Other transportation construction,IMP_DIR,0.096977669206803
+2015,BC,Other transportation construction,IMP_INI,0
+2015,BC,Other transportation construction,TAXFND,0.000306152302934
+2015,BC,Other transportation construction,WSLID,0.26105974665616
+2015,BC,Other transportation construction,WSLIT,0.505381557328167
+2015,BC,Railroad rolling stocks,EMPLT,0.002883160447212
+2015,BC,Railroad rolling stocks,EMPL_DIR,0.001726164501677
+2015,BC,Railroad rolling stocks,GDPD,0.194614894761711
+2015,BC,Railroad rolling stocks,GDPT,0.322254797543413
+2015,BC,Railroad rolling stocks,IMPT,0.12907519029424
+2015,BC,Railroad rolling stocks,IMP_DIR,0.090480609174482
+2015,BC,Railroad rolling stocks,IMP_INI,0.481185979282977
+2015,BC,Railroad rolling stocks,TAXFND,0.042935427938334
+2015,BC,Railroad rolling stocks,WSLID,0.136534535849245
+2015,BC,Railroad rolling stocks,WSLIT,0.215955851951879
+2015,BC,"Schools, colleges, universities and other educational buildings",EMPLT,0.00758554826051
+2015,BC,"Schools, colleges, universities and other educational buildings",EMPL_DIR,0.004359653168425
+2015,BC,"Schools, colleges, universities and other educational buildings",GDPD,0.461381785583338
+2015,BC,"Schools, colleges, universities and other educational buildings",GDPT,0.781217984177048
+2015,BC,"Schools, colleges, universities and other educational buildings",IMPT,0.199753144525824
+2015,BC,"Schools, colleges, universities and other educational buildings",IMP_DIR,0.145996384578327
+2015,BC,"Schools, colleges, universities and other educational buildings",IMP_INI,0
+2015,BC,"Schools, colleges, universities and other educational buildings",TAXFND,0.011885857002298
+2015,BC,"Schools, colleges, universities and other educational buildings",WSLID,0.263961527579468
+2015,BC,"Schools, colleges, universities and other educational buildings",WSLIT,0.459999931840164
+2015,BC,Sewage engineering construction,EMPLT,0.006974545519617
+2015,BC,Sewage engineering construction,EMPL_DIR,0.003128461590412
+2015,BC,Sewage engineering construction,GDPD,0.330081164716185
+2015,BC,Sewage engineering construction,GDPT,0.743831970325376
+2015,BC,Sewage engineering construction,IMPT,0.243170143458472
+2015,BC,Sewage engineering construction,IMP_DIR,0.168922503000202
+2015,BC,Sewage engineering construction,IMP_INI,0
+2015,BC,Sewage engineering construction,TAXFND,0.0001219025895
+2015,BC,Sewage engineering construction,WSLID,0.234078170092429
+2015,BC,Sewage engineering construction,WSLIT,0.48735960558961
+2015,BC,Transformers,EMPLT,0.004875750097009
+2015,BC,Transformers,EMPL_DIR,0.003035412672658
+2015,BC,Transformers,GDPD,0.346403323356077
+2015,BC,Transformers,GDPT,0.537464418017276
+2015,BC,Transformers,IMPT,0.340564992350419
+2015,BC,Transformers,IMP_DIR,0.283732012797265
+2015,BC,Transformers,IMP_INI,0.033748670513013
+2015,BC,Transformers,TAXFND,0.051716671821837
+2015,BC,Transformers,WSLID,0.25308124658134
+2015,BC,Transformers,WSLIT,0.36677973074111
+2015,BC,Turbines and turbine generator set units,EMPLT,0.003222203560163
+2015,BC,Turbines and turbine generator set units,EMPL_DIR,0.002204740460642
+2015,BC,Turbines and turbine generator set units,GDPD,0.249747236492208
+2015,BC,Turbines and turbine generator set units,GDPT,0.354797670438672
+2015,BC,Turbines and turbine generator set units,IMPT,0.07426158179661
+2015,BC,Turbines and turbine generator set units,IMP_DIR,0.056569416923312
+2015,BC,Turbines and turbine generator set units,IMP_INI,0.504823817146932
+2015,BC,Turbines and turbine generator set units,TAXFND,0.050780950922594
+2015,BC,Turbines and turbine generator set units,WSLID,0.177845195331383
+2015,BC,Turbines and turbine generator set units,WSLIT,0.237726562324005
+2015,BC,Waterworks engineering construction,EMPLT,0.006974810205905
+2015,BC,Waterworks engineering construction,EMPL_DIR,0.003128580316554
+2015,BC,Waterworks engineering construction,GDPD,0.330093691404523
+2015,BC,Waterworks engineering construction,GDPT,0.743860198992333
+2015,BC,Waterworks engineering construction,IMPT,0.243179371845081
+2015,BC,Waterworks engineering construction,IMP_DIR,0.168928913664531
+2015,BC,Waterworks engineering construction,IMP_INI,0
+2015,BC,Waterworks engineering construction,TAXFND,8.39568881379412E-05
+2015,BC,Waterworks engineering construction,WSLID,0.23408705343567
+2015,BC,Waterworks engineering construction,WSLIT,0.487378101046303
+2015,MB,Buses,EMPLT,0.002835309913903
+2015,MB,Buses,EMPL_DIR,0.001798166064892
+2015,MB,Buses,GDPD,0.149321147584554
+2015,MB,Buses,GDPT,0.25799851610099
+2015,MB,Buses,IMPT,0.286980081180348
+2015,MB,Buses,IMP_DIR,0.246487708093576
+2015,MB,Buses,IMP_INI,0.395063524800189
+2015,MB,Buses,TAXFND,0.048281960586155
+2015,MB,Buses,WSLID,0.142957741168046
+2015,MB,Buses,WSLIT,0.208871243412416
+2015,MB,Communication engineering construction,EMPLT,0.006272344898207
+2015,MB,Communication engineering construction,EMPL_DIR,0.002526280495234
+2015,MB,Communication engineering construction,GDPD,0.29936543300743
+2015,MB,Communication engineering construction,GDPT,0.687365733359628
+2015,MB,Communication engineering construction,IMPT,0.302629330042072
+2015,MB,Communication engineering construction,IMP_DIR,0.223877775502744
+2015,MB,Communication engineering construction,IMP_INI,0
+2015,MB,Communication engineering construction,TAXFND,4.97309555305796E-06
+2015,MB,Communication engineering construction,WSLID,0.211540565540426
+2015,MB,Communication engineering construction,WSLIT,0.436592601364804
+2015,MB,Electric power engineering construction,EMPLT,0.007293227245574
+2015,MB,Electric power engineering construction,EMPL_DIR,0.004130815953666
+2015,MB,Electric power engineering construction,GDPD,0.469133906897842
+2015,MB,Electric power engineering construction,GDPT,0.794866709659414
+2015,MB,Electric power engineering construction,IMPT,0.194142945328051
+2015,MB,Electric power engineering construction,IMP_DIR,0.126837385962914
+2015,MB,Electric power engineering construction,IMP_INI,0
+2015,MB,Electric power engineering construction,TAXFND,1.08853888862471E-05
+2015,MB,Electric power engineering construction,WSLID,0.286286300623504
+2015,MB,Electric power engineering construction,WSLIT,0.486605582929416
+2015,MB,"Highway, roads, streets, bridges and overpasses",EMPLT,0.007971201221588
+2015,MB,"Highway, roads, streets, bridges and overpasses",EMPL_DIR,0.004494474713006
+2015,MB,"Highway, roads, streets, bridges and overpasses",GDPD,0.467660640606415
+2015,MB,"Highway, roads, streets, bridges and overpasses",GDPT,0.83099501747434
+2015,MB,"Highway, roads, streets, bridges and overpasses",IMPT,0.158999519344603
+2015,MB,"Highway, roads, streets, bridges and overpasses",IMP_DIR,0.100426617815913
+2015,MB,"Highway, roads, streets, bridges and overpasses",IMP_INI,0
+2015,MB,"Highway, roads, streets, bridges and overpasses",TAXFND,0.000279726751132
+2015,MB,"Highway, roads, streets, bridges and overpasses",WSLID,0.282483686129865
+2015,MB,"Highway, roads, streets, bridges and overpasses",WSLIT,0.48429978983326
+2015,MB,"Hospitals, health centres, clinics, nursing homes and other health care buildings",EMPLT,0.007731918150999
+2015,MB,"Hospitals, health centres, clinics, nursing homes and other health care buildings",EMPL_DIR,0.003618242918857
+2015,MB,"Hospitals, health centres, clinics, nursing homes and other health care buildings",GDPD,0.321825318898879
+2015,MB,"Hospitals, health centres, clinics, nursing homes and other health care buildings",GDPT,0.723477581838339
+2015,MB,"Hospitals, health centres, clinics, nursing homes and other health care buildings",IMPT,0.239650445297578
+2015,MB,"Hospitals, health centres, clinics, nursing homes and other health care buildings",IMP_DIR,0.166908397495203
+2015,MB,"Hospitals, health centres, clinics, nursing homes and other health care buildings",IMP_INI,0
+2015,MB,"Hospitals, health centres, clinics, nursing homes and other health care buildings",TAXFND,0.026801657902066
+2015,MB,"Hospitals, health centres, clinics, nursing homes and other health care buildings",WSLID,0.221312495408425
+2015,MB,"Hospitals, health centres, clinics, nursing homes and other health care buildings",WSLIT,0.460259258240373
+2015,MB,Marine engineering construction,EMPLT,0.007878752727971
+2015,MB,Marine engineering construction,EMPL_DIR,0.004217817398911
+2015,MB,Marine engineering construction,GDPD,0.418715250697546
+2015,MB,Marine engineering construction,GDPT,0.841366802092144
+2015,MB,Marine engineering construction,IMPT,0.150887460925514
+2015,MB,Marine engineering construction,IMP_DIR,0.085141513940288
+2015,MB,Marine engineering construction,IMP_INI,0
+2015,MB,Marine engineering construction,TAXFND,0
+2015,MB,Marine engineering construction,WSLID,0.300474088909819
+2015,MB,Marine engineering construction,WSLIT,0.543214183129528
+2015,MB,Other commercial buildings,EMPLT,0.007701428423781
+2015,MB,Other commercial buildings,EMPL_DIR,0.003603974888926
+2015,MB,Other commercial buildings,GDPD,0.320556246206539
+2015,MB,Other commercial buildings,GDPT,0.720624650174129
+2015,MB,Other commercial buildings,IMPT,0.238705417613384
+2015,MB,Other commercial buildings,IMP_DIR,0.166250217802853
+2015,MB,Other commercial buildings,IMP_INI,0
+2015,MB,Other commercial buildings,TAXFND,0.030639328115249
+2015,MB,Other commercial buildings,WSLID,0.220439780839673
+2015,MB,Other commercial buildings,WSLIT,0.458444290859847
+2015,MB,Other engine and power transmission equipment,EMPLT,0.0008632945161
+2015,MB,Other engine and power transmission equipment,EMPL_DIR,0.000608993120595
+2015,MB,Other engine and power transmission equipment,GDPD,0.072429398466724
+2015,MB,Other engine and power transmission equipment,GDPT,0.098268668599344
+2015,MB,Other engine and power transmission equipment,IMPT,0.010213887769635
+2015,MB,Other engine and power transmission equipment,IMP_DIR,0.006252184191624
+2015,MB,Other engine and power transmission equipment,IMP_INI,0.821530782584508
+2015,MB,Other engine and power transmission equipment,TAXFND,0.069692974194764
+2015,MB,Other engine and power transmission equipment,WSLID,0.047745758166571
+2015,MB,Other engine and power transmission equipment,WSLIT,0.062023992827051
+2015,MB,Other engineering construction,EMPLT,0.007875930701365
+2015,MB,Other engineering construction,EMPL_DIR,0.00421630665307
+2015,MB,Other engineering construction,GDPD,0.41856527447436
+2015,MB,Other engineering construction,GDPT,0.841065439734121
+2015,MB,Other engineering construction,IMPT,0.150833415768387
+2015,MB,Other engineering construction,IMP_DIR,0.085111017791233
+2015,MB,Other engineering construction,IMP_INI,0
+2015,MB,Other engineering construction,TAXFND,0.000358181897925
+2015,MB,Other engineering construction,WSLID,0.300366464530376
+2015,MB,Other engineering construction,WSLIT,0.543019613642435
+2015,MB,Other institutional buildings,EMPLT,0.007933787700481
+2015,MB,Other institutional buildings,EMPL_DIR,0.003712710171832
+2015,MB,Other institutional buildings,GDPD,0.330227727055466
+2015,MB,Other institutional buildings,GDPT,0.742366567812299
+2015,MB,Other institutional buildings,IMPT,0.245907382642308
+2015,MB,Other institutional buildings,IMP_DIR,0.171266141893049
+2015,MB,Other institutional buildings,IMP_INI,0
+2015,MB,Other institutional buildings,TAXFND,0.001392812769561
+2015,MB,Other institutional buildings,WSLID,0.227090654575444
+2015,MB,Other institutional buildings,WSLIT,0.472275982588898
+2015,MB,Other miscellaneous general-purpose machinery,EMPLT,0.00258463220789
+2015,MB,Other miscellaneous general-purpose machinery,EMPL_DIR,0.001866038834407
+2015,MB,Other miscellaneous general-purpose machinery,GDPD,0.170760889153096
+2015,MB,Other miscellaneous general-purpose machinery,GDPT,0.245105143403668
+2015,MB,Other miscellaneous general-purpose machinery,IMPT,0.044052550593129
+2015,MB,Other miscellaneous general-purpose machinery,IMP_DIR,0.030220955652775
+2015,MB,Other miscellaneous general-purpose machinery,IMP_INI,0.64701273097177
+2015,MB,Other miscellaneous general-purpose machinery,TAXFND,0.051519644180875
+2015,MB,Other miscellaneous general-purpose machinery,WSLID,0.117335442826852
+2015,MB,Other miscellaneous general-purpose machinery,WSLIT,0.158686695697195
+2015,MB,Other oil and gas engineering construction,EMPLT,0.006359192135653
+2015,MB,Other oil and gas engineering construction,EMPL_DIR,0.002841390027045
+2015,MB,Other oil and gas engineering construction,GDPD,0.315927670425982
+2015,MB,Other oil and gas engineering construction,GDPT,0.738093436799973
+2015,MB,Other oil and gas engineering construction,IMPT,0.252498758352539
+2015,MB,Other oil and gas engineering construction,IMP_DIR,0.172853779511719
+2015,MB,Other oil and gas engineering construction,IMP_INI,0
+2015,MB,Other oil and gas engineering construction,TAXFND,8.49929172568953E-05
+2015,MB,Other oil and gas engineering construction,WSLID,0.167581618532037
+2015,MB,Other oil and gas engineering construction,WSLIT,0.419908956533785
+2015,MB,Other transportation construction,EMPLT,0.007971891956005
+2015,MB,Other transportation construction,EMPL_DIR,0.00449486417606
+2015,MB,Other transportation construction,GDPD,0.467701165151048
+2015,MB,Other transportation construction,GDPT,0.831067026302433
+2015,MB,Other transportation construction,IMPT,0.159013297247977
+2015,MB,Other transportation construction,IMP_DIR,0.100435320158173
+2015,MB,Other transportation construction,IMP_INI,0
+2015,MB,Other transportation construction,TAXFND,0.000193097248206
+2015,MB,Other transportation construction,WSLID,0.282508164398406
+2015,MB,Other transportation construction,WSLIT,0.484341756222442
+2015,MB,Railroad rolling stocks,EMPLT,0.000579953705658
+2015,MB,Railroad rolling stocks,EMPL_DIR,0.000347201965582
+2015,MB,Railroad rolling stocks,GDPD,0.038246273956532
+2015,MB,Railroad rolling stocks,GDPT,0.062590990057709
+2015,MB,Railroad rolling stocks,IMPT,0.0108979469332
+2015,MB,Railroad rolling stocks,IMP_DIR,0.006544743830693
+2015,MB,Railroad rolling stocks,IMP_INI,0.851417412797733
+2015,MB,Railroad rolling stocks,TAXFND,0.074101963409192
+2015,MB,Railroad rolling stocks,WSLID,0.024703410525265
+2015,MB,Railroad rolling stocks,WSLIT,0.038271107785419
+2015,MB,"Schools, colleges, universities and other educational buildings",EMPLT,0.007833135568507
+2015,MB,"Schools, colleges, universities and other educational buildings",EMPL_DIR,0.003665608811384
+2015,MB,"Schools, colleges, universities and other educational buildings",GDPD,0.326038287405734
+2015,MB,"Schools, colleges, universities and other educational buildings",GDPT,0.732948521782186
+2015,MB,"Schools, colleges, universities and other educational buildings",IMPT,0.242787674469438
+2015,MB,"Schools, colleges, universities and other educational buildings",IMP_DIR,0.169093371084549
+2015,MB,"Schools, colleges, universities and other educational buildings",IMP_INI,0
+2015,MB,"Schools, colleges, universities and other educational buildings",TAXFND,0.014061659755832
+2015,MB,"Schools, colleges, universities and other educational buildings",WSLID,0.224209665141744
+2015,MB,"Schools, colleges, universities and other educational buildings",WSLIT,0.466284445340599
+2015,MB,Sewage engineering construction,EMPLT,0.007858222311231
+2015,MB,Sewage engineering construction,EMPL_DIR,0.004206826630204
+2015,MB,Sewage engineering construction,GDPD,0.417624164469962
+2015,MB,Sewage engineering construction,GDPT,0.839174372443167
+2015,MB,Sewage engineering construction,IMPT,0.150494279090707
+2015,MB,Sewage engineering construction,IMP_DIR,0.084919652584388
+2015,MB,Sewage engineering construction,IMP_INI,0
+2015,MB,Sewage engineering construction,TAXFND,0.002605795288722
+2015,MB,Sewage engineering construction,WSLID,0.299691114944555
+2015,MB,Sewage engineering construction,WSLIT,0.541798678170363
+2015,MB,Transformers,EMPLT,0.002206053054746
+2015,MB,Transformers,EMPL_DIR,0.001385628073873
+2015,MB,Transformers,GDPD,0.157518907569778
+2015,MB,Transformers,GDPT,0.240998089171576
+2015,MB,Transformers,IMPT,0.134912743308316
+2015,MB,Transformers,IMP_DIR,0.113337678055561
+2015,MB,Transformers,IMP_INI,0.54524528590632
+2015,MB,Transformers,TAXFND,0.068368910092747
+2015,MB,Transformers,WSLID,0.109048793215323
+2015,MB,Transformers,WSLIT,0.158078109439609
+2015,MB,Turbines and turbine generator set units,EMPLT,0.003888719726852
+2015,MB,Turbines and turbine generator set units,EMPL_DIR,0.002513762443235
+2015,MB,Turbines and turbine generator set units,GDPD,0.308707081989671
+2015,MB,Turbines and turbine generator set units,GDPT,0.448301246364742
+2015,MB,Turbines and turbine generator set units,IMPT,0.122839038437721
+2015,MB,Turbines and turbine generator set units,IMP_DIR,0.08829187735178
+2015,MB,Turbines and turbine generator set units,IMP_INI,0.307154851942499
+2015,MB,Turbines and turbine generator set units,TAXFND,0.074593128390597
+2015,MB,Turbines and turbine generator set units,WSLID,0.217599064120654
+2015,MB,Turbines and turbine generator set units,WSLIT,0.300076831759341
+2015,MB,Waterworks engineering construction,EMPLT,0.007878752727971
+2015,MB,Waterworks engineering construction,EMPL_DIR,0.004217817398911
+2015,MB,Waterworks engineering construction,GDPD,0.418715250697546
+2015,MB,Waterworks engineering construction,GDPT,0.841366802092144
+2015,MB,Waterworks engineering construction,IMPT,0.150887460925514
+2015,MB,Waterworks engineering construction,IMP_DIR,0.085141513940288
+2015,MB,Waterworks engineering construction,IMP_INI,0
+2015,MB,Waterworks engineering construction,TAXFND,0
+2015,MB,Waterworks engineering construction,WSLID,0.300474088909819
+2015,MB,Waterworks engineering construction,WSLIT,0.543214183129528
+2015,NB,Buses,EMPLT,0.001870068616446
+2015,NB,Buses,EMPL_DIR,0.001106056825612
+2015,NB,Buses,GDPD,0.119255180216548
+2015,NB,Buses,GDPT,0.194903112961453
+2015,NB,Buses,IMPT,0.225301536571021
+2015,NB,Buses,IMP_DIR,0.203686725338953
+2015,NB,Buses,IMP_INI,0.573241391190193
+2015,NB,Buses,TAXFND,0.004954642284401
+2015,NB,Buses,WSLID,0.080386907249833
+2015,NB,Buses,WSLIT,0.124892868973262
+2015,NB,Communication engineering construction,EMPLT,0.008035375485727
+2015,NB,Communication engineering construction,EMPL_DIR,0.003830381307348
+2015,NB,Communication engineering construction,GDPD,0.309697069476457
+2015,NB,Communication engineering construction,GDPT,0.703237427620497
+2015,NB,Communication engineering construction,IMPT,0.287114037629419
+2015,NB,Communication engineering construction,IMP_DIR,0.21077106248153
+2015,NB,Communication engineering construction,IMP_INI,0
+2015,NB,Communication engineering construction,TAXFND,0
+2015,NB,Communication engineering construction,WSLID,0.234491274283833
+2015,NB,Communication engineering construction,WSLIT,0.471248796808607
+2015,NB,Electric power engineering construction,EMPLT,0.004878346053138
+2015,NB,Electric power engineering construction,EMPL_DIR,0.002635782558815
+2015,NB,Electric power engineering construction,GDPD,0.631834019477306
+2015,NB,Electric power engineering construction,GDPT,0.837375821532074
+2015,NB,Electric power engineering construction,IMPT,0.152482676867846
+2015,NB,Electric power engineering construction,IMP_DIR,0.099891601419348
+2015,NB,Electric power engineering construction,IMP_INI,0
+2015,NB,Electric power engineering construction,TAXFND,6.12173061324437E-05
+2015,NB,Electric power engineering construction,WSLID,0.161577978094407
+2015,NB,Electric power engineering construction,WSLIT,0.294315087674115
+2015,NB,"Highway, roads, streets, bridges and overpasses",EMPLT,0.007989634498276
+2015,NB,"Highway, roads, streets, bridges and overpasses",EMPL_DIR,0.004301140923356
+2015,NB,"Highway, roads, streets, bridges and overpasses",GDPD,0.45516946569863
+2015,NB,"Highway, roads, streets, bridges and overpasses",GDPT,0.795713147424011
+2015,NB,"Highway, roads, streets, bridges and overpasses",IMPT,0.190540788153628
+2015,NB,"Highway, roads, streets, bridges and overpasses",IMP_DIR,0.087608706510704
+2015,NB,"Highway, roads, streets, bridges and overpasses",IMP_INI,0
+2015,NB,"Highway, roads, streets, bridges and overpasses",TAXFND,0.006904942608777
+2015,NB,"Highway, roads, streets, bridges and overpasses",WSLID,0.271138887677952
+2015,NB,"Highway, roads, streets, bridges and overpasses",WSLIT,0.474508049074895
+2015,NB,"Hospitals, health centres, clinics, nursing homes and other health care buildings",EMPLT,0.009079350398472
+2015,NB,"Hospitals, health centres, clinics, nursing homes and other health care buildings",EMPL_DIR,0.005433447439485
+2015,NB,"Hospitals, health centres, clinics, nursing homes and other health care buildings",GDPD,0.392682274177571
+2015,NB,"Hospitals, health centres, clinics, nursing homes and other health care buildings",GDPT,0.705825225289139
+2015,NB,"Hospitals, health centres, clinics, nursing homes and other health care buildings",IMPT,0.189605440256343
+2015,NB,"Hospitals, health centres, clinics, nursing homes and other health care buildings",IMP_DIR,0.121179631836352
+2015,NB,"Hospitals, health centres, clinics, nursing homes and other health care buildings",IMP_INI,0
+2015,NB,"Hospitals, health centres, clinics, nursing homes and other health care buildings",TAXFND,0.096425776729525
+2015,NB,"Hospitals, health centres, clinics, nursing homes and other health care buildings",WSLID,0.300075471384495
+2015,NB,"Hospitals, health centres, clinics, nursing homes and other health care buildings",WSLIT,0.494690949467454
+2015,NB,Marine engineering construction,EMPLT,0.010739515523645
+2015,NB,Marine engineering construction,EMPL_DIR,0.007248675944481
+2015,NB,Marine engineering construction,GDPD,0.479228994544966
+2015,NB,Marine engineering construction,GDPT,0.831486581496945
+2015,NB,Marine engineering construction,IMPT,0.161713295773213
+2015,NB,Marine engineering construction,IMP_DIR,0.0900754742054
+2015,NB,Marine engineering construction,IMP_INI,0
+2015,NB,Marine engineering construction,TAXFND,0.000863238377112
+2015,NB,Marine engineering construction,WSLID,0.393218875631821
+2015,NB,Marine engineering construction,WSLIT,0.614491807469809
+2015,NB,Other commercial buildings,EMPLT,0.009773092884942
+2015,NB,Other commercial buildings,EMPL_DIR,0.005848610768506
+2015,NB,Other commercial buildings,GDPD,0.422686664946158
+2015,NB,Other commercial buildings,GDPT,0.759756500690495
+2015,NB,Other commercial buildings,IMPT,0.204092968966968
+2015,NB,Other commercial buildings,IMP_DIR,0.130438824995571
+2015,NB,Other commercial buildings,IMP_INI,0
+2015,NB,Other commercial buildings,TAXFND,0.027384732948745
+2015,NB,Other commercial buildings,WSLID,0.323003885258906
+2015,NB,Other commercial buildings,WSLIT,0.53248970315093
+2015,NB,Other engine and power transmission equipment,EMPLT,0.002842435335144
+2015,NB,Other engine and power transmission equipment,EMPL_DIR,0.002092324425867
+2015,NB,Other engine and power transmission equipment,GDPD,0.183729044293858
+2015,NB,Other engine and power transmission equipment,GDPT,0.254125224863898
+2015,NB,Other engine and power transmission equipment,IMPT,0.028811013362521
+2015,NB,Other engine and power transmission equipment,IMP_DIR,0.016220625953823
+2015,NB,Other engine and power transmission equipment,IMP_INI,0.704584802886488
+2015,NB,Other engine and power transmission equipment,TAXFND,0.011627906976744
+2015,NB,Other engine and power transmission equipment,WSLID,0.120138714839544
+2015,NB,Other engine and power transmission equipment,WSLIT,0.158778478620261
+2015,NB,Other engineering construction,EMPLT,0.010676344840705
+2015,NB,Other engineering construction,EMPL_DIR,0.00720603865709
+2015,NB,Other engineering construction,GDPD,0.476410131552178
+2015,NB,Other engineering construction,GDPT,0.826595711411326
+2015,NB,Other engineering construction,IMPT,0.160762085328758
+2015,NB,Other engineering construction,IMP_DIR,0.089545643114866
+2015,NB,Other engineering construction,IMP_INI,0
+2015,NB,Other engineering construction,TAXFND,0.006740240132288
+2015,NB,Other engineering construction,WSLID,0.390905930986983
+2015,NB,Other engineering construction,WSLIT,0.610877317872633
+2015,NB,Other institutional buildings,EMPLT,0.009911503605163
+2015,NB,Other institutional buildings,EMPL_DIR,0.005931441294961
+2015,NB,Other institutional buildings,GDPD,0.428672934227708
+2015,NB,Other institutional buildings,GDPT,0.770516497110351
+2015,NB,Other institutional buildings,IMPT,0.206983420859656
+2015,NB,Other institutional buildings,IMP_DIR,0.132286155408258
+2015,NB,Other institutional buildings,IMP_INI,0
+2015,NB,Other institutional buildings,TAXFND,0.013610139665427
+2015,NB,Other institutional buildings,WSLID,0.327578404392111
+2015,NB,Other institutional buildings,WSLIT,0.540031050009175
+2015,NB,Other miscellaneous general-purpose machinery,EMPLT,0.002903625254597
+2015,NB,Other miscellaneous general-purpose machinery,EMPL_DIR,0.002180964993509
+2015,NB,Other miscellaneous general-purpose machinery,GDPD,0.178591732036479
+2015,NB,Other miscellaneous general-purpose machinery,GDPT,0.246491324942073
+2015,NB,Other miscellaneous general-purpose machinery,IMPT,0.035421792229952
+2015,NB,Other miscellaneous general-purpose machinery,IMP_DIR,0.02257462810116
+2015,NB,Other miscellaneous general-purpose machinery,IMP_INI,0.706554269543356
+2015,NB,Other miscellaneous general-purpose machinery,TAXFND,0.004618102109004
+2015,NB,Other miscellaneous general-purpose machinery,WSLID,0.128192216346937
+2015,NB,Other miscellaneous general-purpose machinery,WSLIT,0.16654948169342
+2015,NB,Other oil and gas engineering construction,EMPLT,0.006187876337255
+2015,NB,Other oil and gas engineering construction,EMPL_DIR,0.002146878216544
+2015,NB,Other oil and gas engineering construction,GDPD,0.411514520777951
+2015,NB,Other oil and gas engineering construction,GDPT,0.76412133879682
+2015,NB,Other oil and gas engineering construction,IMPT,0.230994973371092
+2015,NB,Other oil and gas engineering construction,IMP_DIR,0.163702336694968
+2015,NB,Other oil and gas engineering construction,IMP_INI,0
+2015,NB,Other oil and gas engineering construction,TAXFND,0.000157542339504
+2015,NB,Other oil and gas engineering construction,WSLID,0.154130893236833
+2015,NB,Other oil and gas engineering construction,WSLIT,0.373177782341988
+2015,NB,Other transportation construction,EMPLT,0.008033865262003
+2015,NB,Other transportation construction,EMPL_DIR,0.004324952118722
+2015,NB,Other transportation construction,GDPD,0.457689292243538
+2015,NB,Other transportation construction,GDPT,0.8001182300627
+2015,NB,Other transportation construction,IMPT,0.191595625466013
+2015,NB,Other transportation construction,IMP_DIR,0.088093709923426
+2015,NB,Other transportation construction,IMP_INI,0
+2015,NB,Other transportation construction,TAXFND,0.001407150081351
+2015,NB,Other transportation construction,WSLID,0.272639917553668
+2015,NB,Other transportation construction,WSLIT,0.477134934373528
+2015,NB,Railroad rolling stocks,EMPLT,0.000677733286298
+2015,NB,Railroad rolling stocks,EMPL_DIR,0.000416388453512
+2015,NB,Railroad rolling stocks,GDPD,0.044505115068773
+2015,NB,Railroad rolling stocks,GDPT,0.070138999382905
+2015,NB,Railroad rolling stocks,IMPT,0.014747361216046
+2015,NB,Railroad rolling stocks,IMP_DIR,0.007817906016265
+2015,NB,Railroad rolling stocks,IMP_INI,0.910462884067399
+2015,NB,Railroad rolling stocks,TAXFND,0.003519281168102
+2015,NB,Railroad rolling stocks,WSLID,0.028105904395986
+2015,NB,Railroad rolling stocks,WSLIT,0.042493503438273
+2015,NB,"Schools, colleges, universities and other educational buildings",EMPLT,0.009905968261968
+2015,NB,"Schools, colleges, universities and other educational buildings",EMPL_DIR,0.005928128723578
+2015,NB,"Schools, colleges, universities and other educational buildings",GDPD,0.428433530409305
+2015,NB,"Schools, colleges, universities and other educational buildings",GDPT,0.770086181648791
+2015,NB,"Schools, colleges, universities and other educational buildings",IMPT,0.206867825454993
+2015,NB,"Schools, colleges, universities and other educational buildings",IMP_DIR,0.13221227668115
+2015,NB,"Schools, colleges, universities and other educational buildings",IMP_INI,0
+2015,NB,"Schools, colleges, universities and other educational buildings",TAXFND,0.014161015356759
+2015,NB,"Schools, colleges, universities and other educational buildings",WSLID,0.327395459506684
+2015,NB,"Schools, colleges, universities and other educational buildings",WSLIT,0.53972945528484
+2015,NB,Sewage engineering construction,EMPLT,0.010591542071846
+2015,NB,Sewage engineering construction,EMPL_DIR,0.007148800712855
+2015,NB,Sewage engineering construction,GDPD,0.472625980808548
+2015,NB,Sewage engineering construction,GDPT,0.820030018180102
+2015,NB,Sewage engineering construction,IMPT,0.159485143625688
+2015,NB,Sewage engineering construction,IMP_DIR,0.088834377359711
+2015,NB,Sewage engineering construction,IMP_INI,0
+2015,NB,Sewage engineering construction,TAXFND,0.014629754670268
+2015,NB,Sewage engineering construction,WSLID,0.387800944607674
+2015,NB,Sewage engineering construction,WSLIT,0.606025087192393
+2015,NB,Transformers,EMPLT,0.00328237137881
+2015,NB,Transformers,EMPL_DIR,0.001810223832195
+2015,NB,Transformers,GDPD,0.219656924954155
+2015,NB,Transformers,GDPT,0.365465584426318
+2015,NB,Transformers,IMPT,0.222752215903836
+2015,NB,Transformers,IMP_DIR,0.182850035578493
+2015,NB,Transformers,IMP_INI,0.395415578905299
+2015,NB,Transformers,TAXFND,0
+2015,NB,Transformers,WSLID,0.136826596420667
+2015,NB,Transformers,WSLIT,0.22002964130394
+2015,NB,Turbines and turbine generator set units,EMPLT,0.004367177048106
+2015,NB,Turbines and turbine generator set units,EMPL_DIR,0.003014624828646
+2015,NB,Turbines and turbine generator set units,GDPD,0.344382600453181
+2015,NB,Turbines and turbine generator set units,GDPT,0.474591782933288
+2015,NB,Turbines and turbine generator set units,IMPT,0.106744925134014
+2015,NB,Turbines and turbine generator set units,IMP_DIR,0.076616946127477
+2015,NB,Turbines and turbine generator set units,IMP_INI,0.342439931998816
+2015,NB,Turbines and turbine generator set units,TAXFND,0
+2015,NB,Turbines and turbine generator set units,WSLID,0.238972555796167
+2015,NB,Turbines and turbine generator set units,WSLIT,0.314984764228299
+2015,NB,Waterworks engineering construction,EMPLT,0.010667421191076
+2015,NB,Waterworks engineering construction,EMPL_DIR,0.007200015606585
+2015,NB,Waterworks engineering construction,GDPD,0.47601193187272
+2015,NB,Waterworks engineering construction,GDPT,0.825904814796148
+2015,NB,Waterworks engineering construction,IMPT,0.160627714947846
+2015,NB,Waterworks engineering construction,IMP_DIR,0.089470797841804
+2015,NB,Waterworks engineering construction,IMP_INI,0
+2015,NB,Waterworks engineering construction,TAXFND,0.007570440188509
+2015,NB,Waterworks engineering construction,WSLID,0.390579198606396
+2015,NB,Waterworks engineering construction,WSLIT,0.610366725977005
+2015,NL,Buses,EMPLT,0.003924744083766
+2015,NL,Buses,EMPL_DIR,0.00225631130244
+2015,NL,Buses,GDPD,0.244246693126463
+2015,NL,Buses,GDPT,0.414781177862497
+2015,NL,Buses,IMPT,0.577243879956995
+2015,NL,Buses,IMP_DIR,0.524759309877748
+2015,NL,Buses,IMP_INI,6.04445804788543E-05
+2015,NL,Buses,TAXFND,0.001051893408135
+2015,NL,Buses,WSLID,0.172655622290318
+2015,NL,Buses,WSLIT,0.27327082098947
+2015,NL,Communication engineering construction,EMPLT,0.005087321503528
+2015,NL,Communication engineering construction,EMPL_DIR,0.001482857389464
+2015,NL,Communication engineering construction,GDPD,0.215991516436903
+2015,NL,Communication engineering construction,GDPT,0.580589598709761
+2015,NL,Communication engineering construction,IMPT,0.401320736665057
+2015,NL,Communication engineering construction,IMP_DIR,0.322532740541362
+2015,NL,Communication engineering construction,IMP_INI,0
+2015,NL,Communication engineering construction,TAXFND,0
+2015,NL,Communication engineering construction,WSLID,0.146341463414634
+2015,NL,Communication engineering construction,WSLIT,0.367547025001478
+2015,NL,Electric power engineering construction,EMPLT,0.005862373556159
+2015,NL,Electric power engineering construction,EMPL_DIR,0.003808509283283
+2015,NL,Electric power engineering construction,GDPD,0.637723866031696
+2015,NL,Electric power engineering construction,GDPT,0.857322335457685
+2015,NL,Electric power engineering construction,IMPT,0.135120371072416
+2015,NL,Electric power engineering construction,IMP_DIR,0.084819214802788
+2015,NL,Electric power engineering construction,IMP_INI,0
+2015,NL,Electric power engineering construction,TAXFND,2.26403310172535E-05
+2015,NL,Electric power engineering construction,WSLID,0.355077289405886
+2015,NL,Electric power engineering construction,WSLIT,0.490225183979402
+2015,NL,"Highway, roads, streets, bridges and overpasses",EMPLT,0.006954281224721
+2015,NL,"Highway, roads, streets, bridges and overpasses",EMPL_DIR,0.00413379734014
+2015,NL,"Highway, roads, streets, bridges and overpasses",GDPD,0.479177913217156
+2015,NL,"Highway, roads, streets, bridges and overpasses",GDPT,0.797798733572946
+2015,NL,"Highway, roads, streets, bridges and overpasses",IMPT,0.174773190055635
+2015,NL,"Highway, roads, streets, bridges and overpasses",IMP_DIR,0.097829602294118
+2015,NL,"Highway, roads, streets, bridges and overpasses",IMP_INI,0
+2015,NL,"Highway, roads, streets, bridges and overpasses",TAXFND,0.021425484525116
+2015,NL,"Highway, roads, streets, bridges and overpasses",WSLID,0.365792709168284
+2015,NL,"Highway, roads, streets, bridges and overpasses",WSLIT,0.549375000208704
+2015,NL,"Hospitals, health centres, clinics, nursing homes and other health care buildings",EMPLT,0.006228745101877
+2015,NL,"Hospitals, health centres, clinics, nursing homes and other health care buildings",EMPL_DIR,0.002399196049944
+2015,NL,"Hospitals, health centres, clinics, nursing homes and other health care buildings",GDPD,0.296827944882143
+2015,NL,"Hospitals, health centres, clinics, nursing homes and other health care buildings",GDPT,0.661290367026188
+2015,NL,"Hospitals, health centres, clinics, nursing homes and other health care buildings",IMPT,0.260272153875359
+2015,NL,"Hospitals, health centres, clinics, nursing homes and other health care buildings",IMP_DIR,0.186805588766719
+2015,NL,"Hospitals, health centres, clinics, nursing homes and other health care buildings",IMP_INI,0
+2015,NL,"Hospitals, health centres, clinics, nursing homes and other health care buildings",TAXFND,0.070265453797723
+2015,NL,"Hospitals, health centres, clinics, nursing homes and other health care buildings",WSLID,0.241581089726663
+2015,NL,"Hospitals, health centres, clinics, nursing homes and other health care buildings",WSLIT,0.472875671586239
+2015,NL,Marine engineering construction,EMPLT,0.006994997879425
+2015,NL,Marine engineering construction,EMPL_DIR,0.004613241969362
+2015,NL,Marine engineering construction,GDPD,0.525685434476267
+2015,NL,Marine engineering construction,GDPT,0.834846243350226
+2015,NL,Marine engineering construction,IMPT,0.157949507765827
+2015,NL,Marine engineering construction,IMP_DIR,0.104733532838715
+2015,NL,Marine engineering construction,IMP_INI,0
+2015,NL,Marine engineering construction,TAXFND,0.001475923989915
+2015,NL,Marine engineering construction,WSLID,0.354044141934396
+2015,NL,Marine engineering construction,WSLIT,0.528233944314644
+2015,NL,Other commercial buildings,EMPLT,0.006599134411306
+2015,NL,Other commercial buildings,EMPL_DIR,0.002541863080556
+2015,NL,Other commercial buildings,GDPD,0.314478674800585
+2015,NL,Other commercial buildings,GDPT,0.70061367828208
+2015,NL,Other commercial buildings,IMPT,0.275749111394198
+2015,NL,Other commercial buildings,IMP_DIR,0.197913892588605
+2015,NL,Other commercial buildings,IMP_INI,0
+2015,NL,Other commercial buildings,TAXFND,0.014979239498128
+2015,NL,Other commercial buildings,WSLID,0.255946592172403
+2015,NL,Other commercial buildings,WSLIT,0.500994994271592
+2015,NL,Other engine and power transmission equipment,EMPLT,0.001725678375594
+2015,NL,Other engine and power transmission equipment,EMPL_DIR,0.001233010967891
+2015,NL,Other engine and power transmission equipment,GDPD,0.126692992629752
+2015,NL,Other engine and power transmission equipment,GDPT,0.1746352183533
+2015,NL,Other engine and power transmission equipment,IMPT,0.016787909461558
+2015,NL,Other engine and power transmission equipment,IMP_DIR,0.008575403554914
+2015,NL,Other engine and power transmission equipment,IMP_INI,0.804207082086673
+2015,NL,Other engine and power transmission equipment,TAXFND,0.004106776180698
+2015,NL,Other engine and power transmission equipment,WSLID,0.085536595495
+2015,NL,Other engine and power transmission equipment,WSLIT,0.11309569690932
+2015,NL,Other engineering construction,EMPLT,0.006839408023315
+2015,NL,Other engineering construction,EMPL_DIR,0.004510629550233
+2015,NL,Other engineering construction,GDPD,0.513992604468497
+2015,NL,Other engineering construction,GDPT,0.81627674424313
+2015,NL,Other engineering construction,IMPT,0.154436234193853
+2015,NL,Other engineering construction,IMP_DIR,0.102403943096864
+2015,NL,Other engineering construction,IMP_INI,0
+2015,NL,Other engineering construction,TAXFND,0.02368611189646
+2015,NL,Other engineering construction,WSLID,0.346169132098884
+2015,NL,Other engineering construction,WSLIT,0.516484427759447
+2015,NL,Other institutional buildings,EMPLT,0.006551936896588
+2015,NL,Other institutional buildings,EMPL_DIR,0.00252368348113
+2015,NL,Other institutional buildings,GDPD,0.312229499233413
+2015,NL,Other institutional buildings,GDPT,0.695602835597062
+2015,NL,Other institutional buildings,IMPT,0.273776932630692
+2015,NL,Other institutional buildings,IMP_DIR,0.196498397271168
+2015,NL,Other institutional buildings,IMP_INI,0
+2015,NL,Other institutional buildings,TAXFND,0.022024183417086
+2015,NL,Other institutional buildings,WSLID,0.254116042542988
+2015,NL,Other institutional buildings,WSLIT,0.497411839702826
+2015,NL,Other miscellaneous general-purpose machinery,EMPLT,0.007014978099474
+2015,NL,Other miscellaneous general-purpose machinery,EMPL_DIR,0.005041857520189
+2015,NL,Other miscellaneous general-purpose machinery,GDPD,0.484347613741719
+2015,NL,Other miscellaneous general-purpose machinery,GDPT,0.682544184942673
+2015,NL,Other miscellaneous general-purpose machinery,IMPT,0.219268986387036
+2015,NL,Other miscellaneous general-purpose machinery,IMP_DIR,0.160400414646043
+2015,NL,Other miscellaneous general-purpose machinery,IMP_INI,0.067646908842329
+2015,NL,Other miscellaneous general-purpose machinery,TAXFND,0.01016173252509
+2015,NL,Other miscellaneous general-purpose machinery,WSLID,0.409960644112194
+2015,NL,Other miscellaneous general-purpose machinery,WSLIT,0.528233873424203
+2015,NL,Other oil and gas engineering construction,EMPLT,0.006853373747356
+2015,NL,Other oil and gas engineering construction,EMPL_DIR,0.003062695931162
+2015,NL,Other oil and gas engineering construction,GDPD,0.302123065489226
+2015,NL,Other oil and gas engineering construction,GDPT,0.727103598683603
+2015,NL,Other oil and gas engineering construction,IMPT,0.265106669238336
+2015,NL,Other oil and gas engineering construction,IMP_DIR,0.160948924166306
+2015,NL,Other oil and gas engineering construction,IMP_INI,0
+2015,NL,Other oil and gas engineering construction,TAXFND,5.51340253021069E-06
+2015,NL,Other oil and gas engineering construction,WSLID,0.232194717625568
+2015,NL,Other oil and gas engineering construction,WSLIT,0.513712781851957
+2015,NL,Other transportation construction,EMPLT,0.007091870815496
+2015,NL,Other transportation construction,EMPL_DIR,0.004215584007374
+2015,NL,Other transportation construction,GDPD,0.488658388748355
+2015,NL,Other transportation construction,GDPT,0.813583082483519
+2015,NL,Other transportation construction,IMPT,0.178231055925762
+2015,NL,Other transportation construction,IMP_DIR,0.099765148831623
+2015,NL,Other transportation construction,IMP_INI,0
+2015,NL,Other transportation construction,TAXFND,0.002064509209856
+2015,NL,Other transportation construction,WSLID,0.373029872512225
+2015,NL,Other transportation construction,WSLIT,0.560244316392254
+2015,NL,Railroad rolling stocks,EMPLT,0.000247709590134
+2015,NL,Railroad rolling stocks,EMPL_DIR,0.0001660937171
+2015,NL,Railroad rolling stocks,GDPD,0.020094959165251
+2015,NL,Railroad rolling stocks,GDPT,0.028409017295958
+2015,NL,Railroad rolling stocks,IMPT,0.003940319460131
+2015,NL,Railroad rolling stocks,IMP_DIR,0.001696243332995
+2015,NL,Railroad rolling stocks,IMP_INI,0.957844216662032
+2015,NL,Railroad rolling stocks,TAXFND,0.00974025974026
+2015,NL,Railroad rolling stocks,WSLID,0.011638546558296
+2015,NL,Railroad rolling stocks,WSLIT,0.01623161285347
+2015,NL,"Schools, colleges, universities and other educational buildings",EMPLT,0.006260933702185
+2015,NL,"Schools, colleges, universities and other educational buildings",EMPL_DIR,0.002411594496413
+2015,NL,"Schools, colleges, universities and other educational buildings",GDPD,0.298361877628106
+2015,NL,"Schools, colleges, universities and other educational buildings",GDPT,0.664707750618472
+2015,NL,"Schools, colleges, universities and other educational buildings",IMPT,0.261617175415868
+2015,NL,"Schools, colleges, universities and other educational buildings",IMP_DIR,0.187770953432272
+2015,NL,"Schools, colleges, universities and other educational buildings",IMP_INI,0
+2015,NL,"Schools, colleges, universities and other educational buildings",TAXFND,0.065460817677498
+2015,NL,"Schools, colleges, universities and other educational buildings",WSLID,0.242829520511994
+2015,NL,"Schools, colleges, universities and other educational buildings",WSLIT,0.475319375051234
+2015,NL,Sewage engineering construction,EMPLT,0.006790124774576
+2015,NL,Sewage engineering construction,EMPL_DIR,0.004478126959755
+2015,NL,Sewage engineering construction,GDPD,0.510288888402736
+2015,NL,Sewage engineering construction,GDPT,0.810394836088273
+2015,NL,Sewage engineering construction,IMPT,0.153323401136049
+2015,NL,Sewage engineering construction,IMP_DIR,0.101666043123308
+2015,NL,Sewage engineering construction,IMP_INI,0
+2015,NL,Sewage engineering construction,TAXFND,0.03072121201494
+2015,NL,Sewage engineering construction,WSLID,0.343674714543303
+2015,NL,Sewage engineering construction,WSLIT,0.512762756170833
+2015,NL,Transformers,EMPLT,0.003079739549832
+2015,NL,Transformers,EMPL_DIR,0.001892940887496
+2015,NL,Transformers,GDPD,0.227275331164973
+2015,NL,Transformers,GDPT,0.346959679900305
+2015,NL,Transformers,IMPT,0.206789447289279
+2015,NL,Transformers,IMP_DIR,0.173873973796979
+2015,NL,Transformers,IMP_INI,0.415041470472632
+2015,NL,Transformers,TAXFND,0
+2015,NL,Transformers,WSLID,0.14968963293801
+2015,NL,Transformers,WSLIT,0.220310055659956
+2015,NL,Turbines and turbine generator set units,EMPLT,0.004741819347865
+2015,NL,Turbines and turbine generator set units,EMPL_DIR,0.002965723584812
+2015,NL,Turbines and turbine generator set units,GDPD,0.455464061186141
+2015,NL,Turbines and turbine generator set units,GDPT,0.630198643449536
+2015,NL,Turbines and turbine generator set units,IMPT,0.149708614168285
+2015,NL,Turbines and turbine generator set units,IMP_DIR,0.110402341378061
+2015,NL,Turbines and turbine generator set units,IMP_INI,0.155665627345119
+2015,NL,Turbines and turbine generator set units,TAXFND,0
+2015,NL,Turbines and turbine generator set units,WSLID,0.25941554048647
+2015,NL,Turbines and turbine generator set units,WSLIT,0.361508402001839
+2015,NL,Waterworks engineering construction,EMPLT,0.006785547701656
+2015,NL,Waterworks engineering construction,EMPL_DIR,0.004475108353423
+2015,NL,Waterworks engineering construction,GDPD,0.509944913950127
+2015,NL,Waterworks engineering construction,GDPT,0.809848566854363
+2015,NL,Waterworks engineering construction,IMPT,0.153220049222699
+2015,NL,Waterworks engineering construction,IMP_DIR,0.101597512292387
+2015,NL,Waterworks engineering construction,IMP_INI,0
+2015,NL,Waterworks engineering construction,TAXFND,0.031374581406474
+2015,NL,Waterworks engineering construction,WSLID,0.34344305101996
+2015,NL,Waterworks engineering construction,WSLIT,0.512417114138682
+2015,NS,Buses,EMPLT,0.002878320020668
+2015,NS,Buses,EMPL_DIR,0.001740413152567
+2015,NS,Buses,GDPD,0.150294916727407
+2015,NS,Buses,GDPT,0.264954858157874
+2015,NS,Buses,IMPT,0.330505883816602
+2015,NS,Buses,IMP_DIR,0.289530605985131
+2015,NS,Buses,IMP_INI,0.390451923087489
+2015,NS,Buses,TAXFND,0.004739776951673
+2015,NS,Buses,WSLID,0.135554860693896
+2015,NS,Buses,WSLIT,0.20513134753541
+2015,NS,Communication engineering construction,EMPLT,0.009065950593307
+2015,NS,Communication engineering construction,EMPL_DIR,0.005196704254526
+2015,NS,Communication engineering construction,GDPD,0.266542347179245
+2015,NS,Communication engineering construction,GDPT,0.605358149368277
+2015,NS,Communication engineering construction,IMPT,0.383371598909305
+2015,NS,Communication engineering construction,IMP_DIR,0.310715020601041
+2015,NS,Communication engineering construction,IMP_INI,0
+2015,NS,Communication engineering construction,TAXFND,0
+2015,NS,Communication engineering construction,WSLID,0.246746859566794
+2015,NS,Communication engineering construction,WSLIT,0.459854671241227
+2015,NS,Electric power engineering construction,EMPLT,0.008153126314629
+2015,NS,Electric power engineering construction,EMPL_DIR,0.005152909630717
+2015,NS,Electric power engineering construction,GDPD,0.527921307459716
+2015,NS,Electric power engineering construction,GDPT,0.795462187767219
+2015,NS,Electric power engineering construction,IMPT,0.191740630541427
+2015,NS,Electric power engineering construction,IMP_DIR,0.125701687944051
+2015,NS,Electric power engineering construction,IMP_INI,0
+2015,NS,Electric power engineering construction,TAXFND,0.000256986478137
+2015,NS,Electric power engineering construction,WSLID,0.263181492599336
+2015,NS,Electric power engineering construction,WSLIT,0.43214364104732
+2015,NS,"Highway, roads, streets, bridges and overpasses",EMPLT,0.009815774950215
+2015,NS,"Highway, roads, streets, bridges and overpasses",EMPL_DIR,0.006807448628831
+2015,NS,"Highway, roads, streets, bridges and overpasses",GDPD,0.533857465182662
+2015,NS,"Highway, roads, streets, bridges and overpasses",GDPT,0.822443834463358
+2015,NS,"Highway, roads, streets, bridges and overpasses",IMPT,0.152791734598169
+2015,NS,"Highway, roads, streets, bridges and overpasses",IMP_DIR,0.074260620334137
+2015,NS,"Highway, roads, streets, bridges and overpasses",IMP_INI,0
+2015,NS,"Highway, roads, streets, bridges and overpasses",TAXFND,0.01088454211898
+2015,NS,"Highway, roads, streets, bridges and overpasses",WSLID,0.353435068388359
+2015,NS,"Highway, roads, streets, bridges and overpasses",WSLIT,0.520032846390202
+2015,NS,"Hospitals, health centres, clinics, nursing homes and other health care buildings",EMPLT,0.009335800258716
+2015,NS,"Hospitals, health centres, clinics, nursing homes and other health care buildings",EMPL_DIR,0.004680318380047
+2015,NS,"Hospitals, health centres, clinics, nursing homes and other health care buildings",GDPD,0.333860536559402
+2015,NS,"Hospitals, health centres, clinics, nursing homes and other health care buildings",GDPT,0.723393882488496
+2015,NS,"Hospitals, health centres, clinics, nursing homes and other health care buildings",IMPT,0.226937152972194
+2015,NS,"Hospitals, health centres, clinics, nursing homes and other health care buildings",IMP_DIR,0.1483148424633
+2015,NS,"Hospitals, health centres, clinics, nursing homes and other health care buildings",IMP_INI,0
+2015,NS,"Hospitals, health centres, clinics, nursing homes and other health care buildings",TAXFND,0.039993145256303
+2015,NS,"Hospitals, health centres, clinics, nursing homes and other health care buildings",WSLID,0.254788024634836
+2015,NS,"Hospitals, health centres, clinics, nursing homes and other health care buildings",WSLIT,0.500473410482888
+2015,NS,Marine engineering construction,EMPLT,0.009435140064139
+2015,NS,Marine engineering construction,EMPL_DIR,0.007454562640442
+2015,NS,Marine engineering construction,GDPD,0.659546951949063
+2015,NS,Marine engineering construction,GDPT,0.845597928121701
+2015,NS,Marine engineering construction,IMPT,0.148384835426775
+2015,NS,Marine engineering construction,IMP_DIR,0.116741387697648
+2015,NS,Marine engineering construction,IMP_INI,0
+2015,NS,Marine engineering construction,TAXFND,0.000700958664055
+2015,NS,Marine engineering construction,WSLID,0.409261234096843
+2015,NS,Marine engineering construction,WSLIT,0.519520328264036
+2015,NS,Other commercial buildings,EMPLT,0.009385498872529
+2015,NS,Other commercial buildings,EMPL_DIR,0.00470523379482
+2015,NS,Other commercial buildings,GDPD,0.335637824570507
+2015,NS,Other commercial buildings,GDPT,0.727244829617209
+2015,NS,Other commercial buildings,IMPT,0.228145240293351
+2015,NS,Other commercial buildings,IMP_DIR,0.149104388284125
+2015,NS,Other commercial buildings,IMP_INI,0
+2015,NS,Other commercial buildings,TAXFND,0.034882602120243
+2015,NS,Other commercial buildings,WSLID,0.256144374523395
+2015,NS,Other commercial buildings,WSLIT,0.503137652868332
+2015,NS,Other engine and power transmission equipment,EMPLT,0.002049996181719
+2015,NS,Other engine and power transmission equipment,EMPL_DIR,0.001556010473664
+2015,NS,Other engine and power transmission equipment,GDPD,0.12194103128523
+2015,NS,Other engine and power transmission equipment,GDPT,0.168236917057495
+2015,NS,Other engine and power transmission equipment,IMPT,0.017403107515699
+2015,NS,Other engine and power transmission equipment,IMP_DIR,0.009296973639959
+2015,NS,Other engine and power transmission equipment,IMP_INI,0.799371112689923
+2015,NS,Other engine and power transmission equipment,TAXFND,0.014598540145985
+2015,NS,Other engine and power transmission equipment,WSLID,0.094010250869925
+2015,NS,Other engine and power transmission equipment,WSLIT,0.119644759626871
+2015,NS,Other engineering construction,EMPLT,0.00938189577646
+2015,NS,Other engineering construction,EMPL_DIR,0.007412495127395
+2015,NS,Other engineering construction,GDPD,0.655825003211809
+2015,NS,Other engineering construction,GDPT,0.840826058383698
+2015,NS,Other engineering construction,IMPT,0.147547471613308
+2015,NS,Other engineering construction,IMP_DIR,0.1160825938707
+2015,NS,Other engineering construction,IMP_INI,0
+2015,NS,Other engineering construction,TAXFND,0.006340192980958
+2015,NS,Other engineering construction,WSLID,0.406951695209653
+2015,NS,Other engineering construction,WSLIT,0.516588576363664
+2015,NS,Other institutional buildings,EMPLT,0.0096363683139
+2015,NS,Other institutional buildings,EMPL_DIR,0.004831002215835
+2015,NS,Other institutional buildings,GDPD,0.344609246835518
+2015,NS,Other institutional buildings,GDPT,0.746683700861505
+2015,NS,Other institutional buildings,IMPT,0.23424344239868
+2015,NS,Other institutional buildings,IMP_DIR,0.153089870047317
+2015,NS,Other institutional buildings,IMP_INI,0
+2015,NS,Other institutional buildings,TAXFND,0.009085522417539
+2015,NS,Other institutional buildings,WSLID,0.262990978739106
+2015,NS,Other institutional buildings,WSLIT,0.51658625731893
+2015,NS,Other miscellaneous general-purpose machinery,EMPLT,0.002525610694057
+2015,NS,Other miscellaneous general-purpose machinery,EMPL_DIR,0.001889047704441
+2015,NS,Other miscellaneous general-purpose machinery,GDPD,0.149146025379823
+2015,NS,Other miscellaneous general-purpose machinery,GDPT,0.208830230163641
+2015,NS,Other miscellaneous general-purpose machinery,IMPT,0.027629659910542
+2015,NS,Other miscellaneous general-purpose machinery,IMP_DIR,0.016469110345219
+2015,NS,Other miscellaneous general-purpose machinery,IMP_INI,0.754888850506301
+2015,NS,Other miscellaneous general-purpose machinery,TAXFND,0.002764606606124
+2015,NS,Other miscellaneous general-purpose machinery,WSLID,0.113283116133232
+2015,NS,Other miscellaneous general-purpose machinery,WSLIT,0.146769270665567
+2015,NS,Other oil and gas engineering construction,EMPLT,0.008778935451837
+2015,NS,Other oil and gas engineering construction,EMPL_DIR,0.006550870263188
+2015,NS,Other oil and gas engineering construction,GDPD,0.614891025784299
+2015,NS,Other oil and gas engineering construction,GDPT,0.833493234582384
+2015,NS,Other oil and gas engineering construction,IMPT,0.157955284144491
+2015,NS,Other oil and gas engineering construction,IMP_DIR,0.114164167422295
+2015,NS,Other oil and gas engineering construction,IMP_INI,0
+2015,NS,Other oil and gas engineering construction,TAXFND,0.002838585518403
+2015,NS,Other oil and gas engineering construction,WSLID,0.511014090423701
+2015,NS,Other oil and gas engineering construction,WSLIT,0.647308614512117
+2015,NS,Other transportation construction,EMPLT,0.009879382497887
+2015,NS,Other transportation construction,EMPL_DIR,0.006851561815551
+2015,NS,Other transportation construction,GDPD,0.537316933674865
+2015,NS,Other transportation construction,GDPT,0.8277733816131
+2015,NS,Other transportation construction,IMPT,0.153781845678719
+2015,NS,Other transportation construction,IMP_DIR,0.074741839185632
+2015,NS,Other transportation construction,IMP_INI,0
+2015,NS,Other transportation construction,TAXFND,0.004474940334129
+2015,NS,Other transportation construction,WSLID,0.355725375376406
+2015,NS,Other transportation construction,WSLIT,0.523402729485087
+2015,NS,Railroad rolling stocks,EMPLT,0.000405783117597
+2015,NS,Railroad rolling stocks,EMPL_DIR,0.000265113468282
+2015,NS,Railroad rolling stocks,GDPD,0.026570401949953
+2015,NS,Railroad rolling stocks,GDPT,0.040224424244619
+2015,NS,Railroad rolling stocks,IMPT,0.006276486262313
+2015,NS,Railroad rolling stocks,IMP_DIR,0.002846036551986
+2015,NS,Railroad rolling stocks,IMP_INI,0.946619733067178
+2015,NS,Railroad rolling stocks,TAXFND,0.006750807161726
+2015,NS,Railroad rolling stocks,WSLID,0.017580753008794
+2015,NS,Railroad rolling stocks,WSLIT,0.024996425641554
+2015,NS,"Schools, colleges, universities and other educational buildings",EMPLT,0.009382951413997
+2015,NS,"Schools, colleges, universities and other educational buildings",EMPL_DIR,0.004703956676988
+2015,NS,"Schools, colleges, universities and other educational buildings",GDPD,0.335546724091852
+2015,NS,"Schools, colleges, universities and other educational buildings",GDPT,0.72704743722807
+2015,NS,"Schools, colleges, universities and other educational buildings",IMPT,0.228083315983658
+2015,NS,"Schools, colleges, universities and other educational buildings",IMP_DIR,0.149063917633478
+2015,NS,"Schools, colleges, universities and other educational buildings",IMP_INI,0
+2015,NS,"Schools, colleges, universities and other educational buildings",TAXFND,0.03514455905855
+2015,NS,"Schools, colleges, universities and other educational buildings",WSLID,0.256074850550185
+2015,NS,"Schools, colleges, universities and other educational buildings",WSLIT,0.503001088757704
+2015,NS,Sewage engineering construction,EMPLT,0.009310996176239
+2015,NS,Sewage engineering construction,EMPL_DIR,0.007356478416733
+2015,NS,Sewage engineering construction,GDPD,0.650868890753215
+2015,NS,Sewage engineering construction,GDPT,0.834471880846922
+2015,NS,Sewage engineering construction,IMPT,0.14643244571659
+2015,NS,Sewage engineering construction,IMP_DIR,0.115205350113766
+2015,NS,Sewage engineering construction,IMP_INI,0
+2015,NS,Sewage engineering construction,TAXFND,0.01384934515578
+2015,NS,Sewage engineering construction,WSLID,0.403876334622916
+2015,NS,Sewage engineering construction,WSLIT,0.512684682692725
+2015,NS,Transformers,EMPLT,0.005362019522286
+2015,NS,Transformers,EMPL_DIR,0.003316578799225
+2015,NS,Transformers,GDPD,0.366582838061354
+2015,NS,Transformers,GDPT,0.566821921638673
+2015,NS,Transformers,IMPT,0.394910687908919
+2015,NS,Transformers,IMP_DIR,0.337000185788831
+2015,NS,Transformers,IMP_INI,0.00662024607752
+2015,NS,Transformers,TAXFND,0.001732673267327
+2015,NS,Transformers,WSLID,0.267849591197468
+2015,NS,Transformers,WSLIT,0.387526289065638
+2015,NS,Turbines and turbine generator set units,EMPLT,0.003226905198152
+2015,NS,Turbines and turbine generator set units,EMPL_DIR,0.002002621240914
+2015,NS,Turbines and turbine generator set units,GDPD,0.290111941166083
+2015,NS,Turbines and turbine generator set units,GDPT,0.411809959769077
+2015,NS,Turbines and turbine generator set units,IMPT,0.046726138849062
+2015,NS,Turbines and turbine generator set units,IMP_DIR,0.02749386632881
+2015,NS,Turbines and turbine generator set units,IMP_INI,0.528895631274915
+2015,NS,Turbines and turbine generator set units,TAXFND,8.7500546878418E-05
+2015,NS,Turbines and turbine generator set units,WSLID,0.149403430119335
+2015,NS,Turbines and turbine generator set units,WSLIT,0.216918511885137
+2015,NS,Waterworks engineering construction,EMPLT,0.009267719512453
+2015,NS,Waterworks engineering construction,EMPL_DIR,0.007322286173812
+2015,NS,Waterworks engineering construction,GDPD,0.647843711317992
+2015,NS,Waterworks engineering construction,GDPT,0.830593331404668
+2015,NS,Waterworks engineering construction,IMPT,0.145751841020737
+2015,NS,Waterworks engineering construction,IMP_DIR,0.114669886119491
+2015,NS,Waterworks engineering construction,IMP_INI,0
+2015,NS,Waterworks engineering construction,TAXFND,0.018432883750803
+2015,NS,Waterworks engineering construction,WSLID,0.401999154135059
+2015,NS,Waterworks engineering construction,WSLIT,0.510301770894557
+2015,NT,Buses,EMPLT,0.004604600432053
+2015,NT,Buses,EMPL_DIR,0.002909876304069
+2015,NT,Buses,GDPD,0.231375228173933
+2015,NT,Buses,GDPT,0.410228374844857
+2015,NT,Buses,IMPT,0.493435152082775
+2015,NT,Buses,IMP_DIR,0.424409135207608
+2015,NT,Buses,IMP_INI,0.072607260726073
+2015,NT,Buses,TAXFND,0
+2015,NT,Buses,WSLID,0.235911442426564
+2015,NT,Buses,WSLIT,0.344975140739205
+2015,NT,Communication engineering construction,EMPLT,0.003824760885347
+2015,NT,Communication engineering construction,EMPL_DIR,0.001334294233669
+2015,NT,Communication engineering construction,GDPD,0.265585218593148
+2015,NT,Communication engineering construction,GDPT,0.579185301783454
+2015,NT,Communication engineering construction,IMPT,0.409984700142798
+2015,NT,Communication engineering construction,IMP_DIR,0.356104376110437
+2015,NT,Communication engineering construction,IMP_INI,0
+2015,NT,Communication engineering construction,TAXFND,0
+2015,NT,Communication engineering construction,WSLID,0.159416599985451
+2015,NT,Communication engineering construction,WSLIT,0.341573826503873
+2015,NT,Electric power engineering construction,EMPLT,0.003125320288467
+2015,NT,Electric power engineering construction,EMPL_DIR,0.000971587140503
+2015,NT,Electric power engineering construction,GDPD,0.443877270980844
+2015,NT,Electric power engineering construction,GDPT,0.700267780868602
+2015,NT,Electric power engineering construction,IMPT,0.290671988483892
+2015,NT,Electric power engineering construction,IMP_DIR,0.240241696870247
+2015,NT,Electric power engineering construction,IMP_INI,0
+2015,NT,Electric power engineering construction,TAXFND,0
+2015,NT,Electric power engineering construction,WSLID,0.120259070201438
+2015,NT,Electric power engineering construction,WSLIT,0.277027117818531
+2015,NT,"Highway, roads, streets, bridges and overpasses",EMPLT,0.005420754519021
+2015,NT,"Highway, roads, streets, bridges and overpasses",EMPL_DIR,0.0023601684131
+2015,NT,"Highway, roads, streets, bridges and overpasses",GDPD,0.384382772685294
+2015,NT,"Highway, roads, streets, bridges and overpasses",GDPT,0.770084371741578
+2015,NT,"Highway, roads, streets, bridges and overpasses",IMPT,0.221625855655571
+2015,NT,"Highway, roads, streets, bridges and overpasses",IMP_DIR,0.155487446232496
+2015,NT,"Highway, roads, streets, bridges and overpasses",IMP_INI,0
+2015,NT,"Highway, roads, streets, bridges and overpasses",TAXFND,0.00029163021289
+2015,NT,"Highway, roads, streets, bridges and overpasses",WSLID,0.230394350689646
+2015,NT,"Highway, roads, streets, bridges and overpasses",WSLIT,0.434741920957668
+2015,NT,"Hospitals, health centres, clinics, nursing homes and other health care buildings",EMPLT,0.004806878896887
+2015,NT,"Hospitals, health centres, clinics, nursing homes and other health care buildings",EMPL_DIR,0.000973348051672
+2015,NT,"Hospitals, health centres, clinics, nursing homes and other health care buildings",GDPD,0.182564639405969
+2015,NT,"Hospitals, health centres, clinics, nursing homes and other health care buildings",GDPT,0.594059275636711
+2015,NT,"Hospitals, health centres, clinics, nursing homes and other health care buildings",IMPT,0.38042988744628
+2015,NT,"Hospitals, health centres, clinics, nursing homes and other health care buildings",IMP_DIR,0.306800385018226
+2015,NT,"Hospitals, health centres, clinics, nursing homes and other health care buildings",IMP_INI,0
+2015,NT,"Hospitals, health centres, clinics, nursing homes and other health care buildings",TAXFND,0.007271525367708
+2015,NT,"Hospitals, health centres, clinics, nursing homes and other health care buildings",WSLID,0.096255698053947
+2015,NT,"Hospitals, health centres, clinics, nursing homes and other health care buildings",WSLIT,0.340733510210676
+2015,NT,Marine engineering construction,EMPLT,0.005252333094252
+2015,NT,Marine engineering construction,EMPL_DIR,0.00142539542071
+2015,NT,Marine engineering construction,GDPD,0.26422311712911
+2015,NT,Marine engineering construction,GDPT,0.729650884597023
+2015,NT,Marine engineering construction,IMPT,0.261417810416345
+2015,NT,Marine engineering construction,IMP_DIR,0.164566383348773
+2015,NT,Marine engineering construction,IMP_INI,0
+2015,NT,Marine engineering construction,TAXFND,0
+2015,NT,Marine engineering construction,WSLID,0.167919241510657
+2015,NT,Marine engineering construction,WSLIT,0.475478558075547
+2015,NT,Other commercial buildings,EMPLT,0.004822407232547
+2015,NT,Other commercial buildings,EMPL_DIR,0.000976492394516
+2015,NT,Other commercial buildings,GDPD,0.183154403587892
+2015,NT,Other commercial buildings,GDPT,0.59597834870502
+2015,NT,Other commercial buildings,IMPT,0.381658843513999
+2015,NT,Other commercial buildings,IMP_DIR,0.307791485368615
+2015,NT,Other commercial buildings,IMP_INI,0
+2015,NT,Other commercial buildings,TAXFND,0.004064575223265
+2015,NT,Other commercial buildings,WSLID,0.096566646347126
+2015,NT,Other commercial buildings,WSLIT,0.341834229498688
+2015,NT,Other engine and power transmission equipment,EMPLT,0.00203367953902
+2015,NT,Other engine and power transmission equipment,EMPL_DIR,0.001515646617984
+2015,NT,Other engine and power transmission equipment,GDPD,0.236511397484681
+2015,NT,Other engine and power transmission equipment,GDPT,0.294427554822648
+2015,NT,Other engine and power transmission equipment,IMPT,0.019419405434319
+2015,NT,Other engine and power transmission equipment,IMP_DIR,0.009639929904703
+2015,NT,Other engine and power transmission equipment,IMP_INI,0.680792339202129
+2015,NT,Other engine and power transmission equipment,TAXFND,0.000166333998669
+2015,NT,Other engine and power transmission equipment,WSLID,0.148193704922285
+2015,NT,Other engine and power transmission equipment,WSLIT,0.180773997646529
+2015,NT,Other engineering construction,EMPLT,0.00525224927514
+2015,NT,Other engineering construction,EMPL_DIR,0.001425372673603
+2015,NT,Other engineering construction,GDPD,0.264218900536833
+2015,NT,Other engineering construction,GDPT,0.72963924049745
+2015,NT,Other engineering construction,IMPT,0.261413638592424
+2015,NT,Other engineering construction,IMP_DIR,0.164563757123828
+2015,NT,Other engineering construction,IMP_INI,0
+2015,NT,Other engineering construction,TAXFND,1.59584533067055E-05
+2015,NT,Other engineering construction,WSLID,0.167916561779282
+2015,NT,Other engineering construction,WSLIT,0.475470970173181
+2015,NT,Other institutional buildings,EMPLT,0.004795402676393
+2015,NT,Other institutional buildings,EMPL_DIR,0.000971024224278
+2015,NT,Other institutional buildings,GDPD,0.182128774034435
+2015,NT,Other institutional buildings,GDPT,0.592640984188097
+2015,NT,Other institutional buildings,IMPT,0.379521627145852
+2015,NT,Other institutional buildings,IMP_DIR,0.306067912047349
+2015,NT,Other institutional buildings,IMP_INI,0
+2015,NT,Other institutional buildings,TAXFND,0.009641622703293
+2015,NT,Other institutional buildings,WSLID,0.096025891637266
+2015,NT,Other institutional buildings,WSLIT,0.339920023335532
+2015,NT,Other miscellaneous general-purpose machinery,EMPLT,0.001658316963362
+2015,NT,Other miscellaneous general-purpose machinery,EMPL_DIR,0.001175185042029
+2015,NT,Other miscellaneous general-purpose machinery,GDPD,0.145494798463087
+2015,NT,Other miscellaneous general-purpose machinery,GDPT,0.199666840153105
+2015,NT,Other miscellaneous general-purpose machinery,IMPT,0.022342721328599
+2015,NT,Other miscellaneous general-purpose machinery,IMP_DIR,0.012491083948789
+2015,NT,Other miscellaneous general-purpose machinery,IMP_INI,0.762182666337835
+2015,NT,Other miscellaneous general-purpose machinery,TAXFND,0.00059215396003
+2015,NT,Other miscellaneous general-purpose machinery,WSLID,0.108437069818833
+2015,NT,Other miscellaneous general-purpose machinery,WSLIT,0.138682275577692
+2015,NT,Other oil and gas engineering construction,EMPLT,0.004892332000115
+2015,NT,Other oil and gas engineering construction,EMPL_DIR,0.003168697909304
+2015,NT,Other oil and gas engineering construction,GDPD,0.61083479990818
+2015,NT,Other oil and gas engineering construction,GDPT,0.84817526759609
+2015,NT,Other oil and gas engineering construction,IMPT,0.148317374405211
+2015,NT,Other oil and gas engineering construction,IMP_DIR,0.099218302508549
+2015,NT,Other oil and gas engineering construction,IMP_INI,0
+2015,NT,Other oil and gas engineering construction,TAXFND,0
+2015,NT,Other oil and gas engineering construction,WSLID,0.405463310123192
+2015,NT,Other oil and gas engineering construction,WSLIT,0.543880174967129
+2015,NT,Other transportation construction,EMPLT,0.005422335835975
+2015,NT,Other transportation construction,EMPL_DIR,0.002360856910304
+2015,NT,Other transportation construction,GDPD,0.384494903015716
+2015,NT,Other transportation construction,GDPT,0.770309017124233
+2015,NT,Other transportation construction,IMPT,0.221690507305412
+2015,NT,Other transportation construction,IMP_DIR,0.155532804297325
+2015,NT,Other transportation construction,IMP_INI,0
+2015,NT,Other transportation construction,TAXFND,0
+2015,NT,Other transportation construction,WSLID,0.230461560243523
+2015,NT,Other transportation construction,WSLIT,0.434868741821425
+2015,NT,Railroad rolling stocks,EMPLT,0.00026172779558
+2015,NT,Railroad rolling stocks,EMPL_DIR,0.000154814516606
+2015,NT,Railroad rolling stocks,GDPD,0.019627109132143
+2015,NT,Railroad rolling stocks,GDPT,0.032343790071073
+2015,NT,Railroad rolling stocks,IMPT,0.004209859963634
+2015,NT,Railroad rolling stocks,IMP_DIR,0.002036649997625
+2015,NT,Railroad rolling stocks,IMP_INI,0.963284307064034
+2015,NT,Railroad rolling stocks,TAXFND,0
+2015,NT,Railroad rolling stocks,WSLID,0.013927929110055
+2015,NT,Railroad rolling stocks,WSLIT,0.020949182089441
+2015,NT,"Schools, colleges, universities and other educational buildings",EMPLT,0.00483819955759
+2015,NT,"Schools, colleges, universities and other educational buildings",EMPL_DIR,0.000979690192743
+2015,NT,"Schools, colleges, universities and other educational buildings",GDPD,0.183754194052524
+2015,NT,"Schools, colleges, universities and other educational buildings",GDPT,0.5979300469644
+2015,NT,"Schools, colleges, universities and other educational buildings",IMPT,0.382908692442541
+2015,NT,"Schools, colleges, universities and other educational buildings",IMP_DIR,0.308799434915022
+2015,NT,"Schools, colleges, universities and other educational buildings",IMP_INI,0
+2015,NT,"Schools, colleges, universities and other educational buildings",TAXFND,0.000803105340651
+2015,NT,"Schools, colleges, universities and other educational buildings",WSLID,0.096882880915042
+2015,NT,"Schools, colleges, universities and other educational buildings",WSLIT,0.34295366155886
+2015,NT,Sewage engineering construction,EMPLT,0.005252333094252
+2015,NT,Sewage engineering construction,EMPL_DIR,0.00142539542071
+2015,NT,Sewage engineering construction,GDPD,0.26422311712911
+2015,NT,Sewage engineering construction,GDPT,0.729650884597023
+2015,NT,Sewage engineering construction,IMPT,0.261417810416345
+2015,NT,Sewage engineering construction,IMP_DIR,0.164566383348773
+2015,NT,Sewage engineering construction,IMP_INI,0
+2015,NT,Sewage engineering construction,TAXFND,0
+2015,NT,Sewage engineering construction,WSLID,0.167919241510657
+2015,NT,Sewage engineering construction,WSLIT,0.475478558075547
+2015,NT,Transformers,EMPLT,0.002344785743023
+2015,NT,Transformers,EMPL_DIR,0.001498158390755
+2015,NT,Transformers,GDPD,0.170144998962477
+2015,NT,Transformers,GDPT,0.260442985560122
+2015,NT,Transformers,IMPT,0.12351741531774
+2015,NT,Transformers,IMP_DIR,0.099576662947463
+2015,NT,Transformers,IMP_INI,0.600059812320649
+2015,NT,Transformers,TAXFND,0
+2015,NT,Transformers,WSLID,0.120418865500858
+2015,NT,Transformers,WSLIT,0.173036055106659
+2015,NT,Waterworks engineering construction,EMPLT,0.005252333094252
+2015,NT,Waterworks engineering construction,EMPL_DIR,0.00142539542071
+2015,NT,Waterworks engineering construction,GDPD,0.26422311712911
+2015,NT,Waterworks engineering construction,GDPT,0.729650884597023
+2015,NT,Waterworks engineering construction,IMPT,0.261417810416345
+2015,NT,Waterworks engineering construction,IMP_DIR,0.164566383348773
+2015,NT,Waterworks engineering construction,IMP_INI,0
+2015,NT,Waterworks engineering construction,TAXFND,0
+2015,NT,Waterworks engineering construction,WSLID,0.167919241510657
+2015,NT,Waterworks engineering construction,WSLIT,0.475478558075547
+2015,NU,Communication engineering construction,EMPLT,0.003650042893411
+2015,NU,Communication engineering construction,EMPL_DIR,0.002089762638163
+2015,NU,Communication engineering construction,GDPD,0.4148244473342
+2015,NU,Communication engineering construction,GDPT,0.607391223231685
+2015,NU,Communication engineering construction,IMPT,0.38111717349189
+2015,NU,Communication engineering construction,IMP_DIR,0.32715428428205
+2015,NU,Communication engineering construction,IMP_INI,0
+2015,NU,Communication engineering construction,TAXFND,0
+2015,NU,Communication engineering construction,WSLID,0.392717815344603
+2015,NU,Communication engineering construction,WSLIT,0.499178051619699
+2015,NU,Electric power engineering construction,EMPLT,0.004984019493399
+2015,NU,Electric power engineering construction,EMPL_DIR,0.0037842232202
+2015,NU,Electric power engineering construction,GDPD,0.727403594486128
+2015,NU,Electric power engineering construction,GDPT,0.8596909480339
+2015,NU,Electric power engineering construction,IMPT,0.132875976986139
+2015,NU,Electric power engineering construction,IMP_DIR,0.104703162736322
+2015,NU,Electric power engineering construction,IMP_INI,0
+2015,NU,Electric power engineering construction,TAXFND,0.001919385796545
+2015,NU,Electric power engineering construction,WSLID,0.533850985866341
+2015,NU,Electric power engineering construction,WSLIT,0.619022879557925
+2015,NU,"Highway, roads, streets, bridges and overpasses",EMPLT,0.00497347408312
+2015,NU,"Highway, roads, streets, bridges and overpasses",EMPL_DIR,0.001333558440125
+2015,NU,"Highway, roads, streets, bridges and overpasses",GDPD,0.317226156534535
+2015,NU,"Highway, roads, streets, bridges and overpasses",GDPT,0.756863525611992
+2015,NU,"Highway, roads, streets, bridges and overpasses",IMPT,0.230120490159282
+2015,NU,"Highway, roads, streets, bridges and overpasses",IMP_DIR,0.133841551647916
+2015,NU,"Highway, roads, streets, bridges and overpasses",IMP_INI,0
+2015,NU,"Highway, roads, streets, bridges and overpasses",TAXFND,0
+2015,NU,"Highway, roads, streets, bridges and overpasses",WSLID,0.156773659523591
+2015,NU,"Highway, roads, streets, bridges and overpasses",WSLIT,0.403443256826243
+2015,NU,"Hospitals, health centres, clinics, nursing homes and other health care buildings",EMPLT,0.004956346585929
+2015,NU,"Hospitals, health centres, clinics, nursing homes and other health care buildings",EMPL_DIR,0.001404752964321
+2015,NU,"Hospitals, health centres, clinics, nursing homes and other health care buildings",GDPD,0.312534347161292
+2015,NU,"Hospitals, health centres, clinics, nursing homes and other health care buildings",GDPT,0.68139063201201
+2015,NU,"Hospitals, health centres, clinics, nursing homes and other health care buildings",IMPT,0.292494347987278
+2015,NU,"Hospitals, health centres, clinics, nursing homes and other health care buildings",IMP_DIR,0.214134701744509
+2015,NU,"Hospitals, health centres, clinics, nursing homes and other health care buildings",IMP_INI,0
+2015,NU,"Hospitals, health centres, clinics, nursing homes and other health care buildings",TAXFND,0.01038374717833
+2015,NU,"Hospitals, health centres, clinics, nursing homes and other health care buildings",WSLID,0.200584880066555
+2015,NU,"Hospitals, health centres, clinics, nursing homes and other health care buildings",WSLIT,0.427491023696214
+2015,NU,Marine engineering construction,EMPLT,0.004061892934406
+2015,NU,Marine engineering construction,EMPL_DIR,0.000939284844691
+2015,NU,Marine engineering construction,GDPD,0.284522495104258
+2015,NU,Marine engineering construction,GDPT,0.675882500279818
+2015,NU,Marine engineering construction,IMPT,0.315580911500193
+2015,NU,Marine engineering construction,IMP_DIR,0.228025326576038
+2015,NU,Marine engineering construction,IMP_INI,0
+2015,NU,Marine engineering construction,TAXFND,0
+2015,NU,Marine engineering construction,WSLID,0.125786561464895
+2015,NU,Marine engineering construction,WSLIT,0.386994932662543
+2015,NU,Other commercial buildings,EMPLT,0.00499832909947
+2015,NU,Other commercial buildings,EMPL_DIR,0.001416651861891
+2015,NU,Other commercial buildings,GDPD,0.315181655462767
+2015,NU,Other commercial buildings,GDPT,0.687162321085728
+2015,NU,Other commercial buildings,IMPT,0.294971908366143
+2015,NU,Other commercial buildings,IMP_DIR,0.215948520221457
+2015,NU,Other commercial buildings,IMP_INI,0
+2015,NU,Other commercial buildings,TAXFND,0.002001246678259
+2015,NU,Other commercial buildings,WSLID,0.20228392538101
+2015,NU,Other commercial buildings,WSLIT,0.431112067418659
+2015,NU,Other engine and power transmission equipment,EMPLT,2.33669994112078E-05
+2015,NU,Other engine and power transmission equipment,EMPL_DIR,1.64198635203145E-05
+2015,NU,Other engine and power transmission equipment,GDPD,0.001939355864582
+2015,NU,Other engine and power transmission equipment,GDPT,0.002710629041484
+2015,NU,Other engine and power transmission equipment,IMPT,0.000298624309317
+2015,NU,Other engine and power transmission equipment,IMP_DIR,0.000167568380692
+2015,NU,Other engine and power transmission equipment,IMP_INI,0.99698568198945
+2015,NU,Other engine and power transmission equipment,TAXFND,0
+2015,NU,Other engine and power transmission equipment,WSLID,0.001482311936002
+2015,NU,Other engine and power transmission equipment,WSLIT,0.001930409538845
+2015,NU,Other engineering construction,EMPLT,0.004061892934406
+2015,NU,Other engineering construction,EMPL_DIR,0.000939284844691
+2015,NU,Other engineering construction,GDPD,0.284522495104258
+2015,NU,Other engineering construction,GDPT,0.675882500279818
+2015,NU,Other engineering construction,IMPT,0.315580911500193
+2015,NU,Other engineering construction,IMP_DIR,0.228025326576038
+2015,NU,Other engineering construction,IMP_INI,0
+2015,NU,Other engineering construction,TAXFND,0
+2015,NU,Other engineering construction,WSLID,0.125786561464895
+2015,NU,Other engineering construction,WSLIT,0.386994932662543
+2015,NU,Other institutional buildings,EMPLT,0.005004028601245
+2015,NU,Other institutional buildings,EMPL_DIR,0.001418267243679
+2015,NU,Other institutional buildings,GDPD,0.315541051246604
+2015,NU,Other institutional buildings,GDPT,0.687945879509035
+2015,NU,Other institutional buildings,IMPT,0.295308259350979
+2015,NU,Other institutional buildings,IMP_DIR,0.2161947623055
+2015,NU,Other institutional buildings,IMP_INI,0
+2015,NU,Other institutional buildings,TAXFND,0.000863247248399
+2015,NU,Other institutional buildings,WSLID,0.202514585981523
+2015,NU,Other institutional buildings,WSLIT,0.431603656496597
+2015,NU,Other miscellaneous general-purpose machinery,EMPLT,0.001412191660082
+2015,NU,Other miscellaneous general-purpose machinery,EMPL_DIR,0.000966846411861
+2015,NU,Other miscellaneous general-purpose machinery,GDPD,0.13262945571932
+2015,NU,Other miscellaneous general-purpose machinery,GDPT,0.180399668130979
+2015,NU,Other miscellaneous general-purpose machinery,IMPT,0.022045890092294
+2015,NU,Other miscellaneous general-purpose machinery,IMP_DIR,0.013871684274188
+2015,NU,Other miscellaneous general-purpose machinery,IMP_INI,0.793563528808164
+2015,NU,Other miscellaneous general-purpose machinery,TAXFND,0
+2015,NU,Other miscellaneous general-purpose machinery,WSLID,0.087721025973161
+2015,NU,Other miscellaneous general-purpose machinery,WSLIT,0.114811801741149
+2015,NU,Other oil and gas engineering construction,EMPLT,0.005323474503598
+2015,NU,Other oil and gas engineering construction,EMPL_DIR,0.001573285467773
+2015,NU,Other oil and gas engineering construction,GDPD,0.259095828823578
+2015,NU,Other oil and gas engineering construction,GDPT,0.6906578974427
+2015,NU,Other oil and gas engineering construction,IMPT,0.30643623288449
+2015,NU,Other oil and gas engineering construction,IMP_DIR,0.199660498999022
+2015,NU,Other oil and gas engineering construction,IMP_INI,0
+2015,NU,Other oil and gas engineering construction,TAXFND,0
+2015,NU,Other oil and gas engineering construction,WSLID,0.200815918741154
+2015,NU,Other oil and gas engineering construction,WSLIT,0.477272060292995
+2015,NU,Other transportation construction,EMPLT,0.00497347408312
+2015,NU,Other transportation construction,EMPL_DIR,0.001333558440125
+2015,NU,Other transportation construction,GDPD,0.317226156534535
+2015,NU,Other transportation construction,GDPT,0.756863525611992
+2015,NU,Other transportation construction,IMPT,0.230120490159282
+2015,NU,Other transportation construction,IMP_DIR,0.133841551647916
+2015,NU,Other transportation construction,IMP_INI,0
+2015,NU,Other transportation construction,TAXFND,0
+2015,NU,Other transportation construction,WSLID,0.156773659523591
+2015,NU,Other transportation construction,WSLIT,0.403443256826243
+2015,NU,"Schools, colleges, universities and other educational buildings",EMPLT,0.004994270814409
+2015,NU,"Schools, colleges, universities and other educational buildings",EMPL_DIR,0.001415501642092
+2015,NU,"Schools, colleges, universities and other educational buildings",GDPD,0.314925750543624
+2015,NU,"Schools, colleges, universities and other educational buildings",GDPT,0.68660439452126
+2015,NU,"Schools, colleges, universities and other educational buildings",IMPT,0.294732412313465
+2015,NU,"Schools, colleges, universities and other educational buildings",IMP_DIR,0.215773185497343
+2015,NU,"Schools, colleges, universities and other educational buildings",IMP_INI,0
+2015,NU,"Schools, colleges, universities and other educational buildings",TAXFND,0.002811550151976
+2015,NU,"Schools, colleges, universities and other educational buildings",WSLID,0.202119685328737
+2015,NU,"Schools, colleges, universities and other educational buildings",WSLIT,0.430762035312279
+2015,NU,Sewage engineering construction,EMPLT,0.004061892934406
+2015,NU,Sewage engineering construction,EMPL_DIR,0.000939284844691
+2015,NU,Sewage engineering construction,GDPD,0.284522495104258
+2015,NU,Sewage engineering construction,GDPT,0.675882500279818
+2015,NU,Sewage engineering construction,IMPT,0.315580911500193
+2015,NU,Sewage engineering construction,IMP_DIR,0.228025326576038
+2015,NU,Sewage engineering construction,IMP_INI,0
+2015,NU,Sewage engineering construction,TAXFND,0
+2015,NU,Sewage engineering construction,WSLID,0.125786561464895
+2015,NU,Sewage engineering construction,WSLIT,0.386994932662543
+2015,NU,Waterworks engineering construction,EMPLT,0.004061892934406
+2015,NU,Waterworks engineering construction,EMPL_DIR,0.000939284844691
+2015,NU,Waterworks engineering construction,GDPD,0.284522495104258
+2015,NU,Waterworks engineering construction,GDPT,0.675882500279818
+2015,NU,Waterworks engineering construction,IMPT,0.315580911500193
+2015,NU,Waterworks engineering construction,IMP_DIR,0.228025326576038
+2015,NU,Waterworks engineering construction,IMP_INI,0
+2015,NU,Waterworks engineering construction,TAXFND,0
+2015,NU,Waterworks engineering construction,WSLID,0.125786561464895
+2015,NU,Waterworks engineering construction,WSLIT,0.386994932662543
+2015,ON,Buses,EMPLT,0.001798996663253
+2015,ON,Buses,EMPL_DIR,0.000995063395274
+2015,ON,Buses,GDPD,0.116562881789186
+2015,ON,Buses,GDPT,0.196954294856688
+2015,ON,Buses,IMPT,0.224086903103141
+2015,ON,Buses,IMP_DIR,0.199604446999551
+2015,ON,Buses,IMP_INI,0.524550812950433
+2015,ON,Buses,TAXFND,0.006883577267752
+2015,ON,Buses,WSLID,0.078412179670407
+2015,ON,Buses,WSLIT,0.126418741568864
+2015,ON,Communication engineering construction,EMPLT,0.00588176559818
+2015,ON,Communication engineering construction,EMPL_DIR,0.00264176331163
+2015,ON,Communication engineering construction,GDPD,0.241072385179151
+2015,ON,Communication engineering construction,GDPT,0.579330984441567
+2015,ON,Communication engineering construction,IMPT,0.411693373321795
+2015,ON,Communication engineering construction,IMP_DIR,0.331831075170712
+2015,ON,Communication engineering construction,IMP_INI,0
+2015,ON,Communication engineering construction,TAXFND,1.39957742414049E-05
+2015,ON,Communication engineering construction,WSLID,0.19260743204569
+2015,ON,Communication engineering construction,WSLIT,0.397929287937097
+2015,ON,Electric power engineering construction,EMPLT,0.005633634057411
+2015,ON,Electric power engineering construction,EMPL_DIR,0.003235955412444
+2015,ON,Electric power engineering construction,GDPD,0.514896343799618
+2015,ON,Electric power engineering construction,GDPT,0.756709842319622
+2015,ON,Electric power engineering construction,IMPT,0.235117242679489
+2015,ON,Electric power engineering construction,IMP_DIR,0.177844826615904
+2015,ON,Electric power engineering construction,IMP_INI,0
+2015,ON,Electric power engineering construction,TAXFND,0.000464909477545
+2015,ON,Electric power engineering construction,WSLID,0.240913456149186
+2015,ON,Electric power engineering construction,WSLIT,0.393435498278622
+2015,ON,"Highway, roads, streets, bridges and overpasses",EMPLT,0.007574805481285
+2015,ON,"Highway, roads, streets, bridges and overpasses",EMPL_DIR,0.003944036862641
+2015,ON,"Highway, roads, streets, bridges and overpasses",GDPD,0.35672636411324
+2015,ON,"Highway, roads, streets, bridges and overpasses",GDPT,0.746534978670959
+2015,ON,"Highway, roads, streets, bridges and overpasses",IMPT,0.234397574932509
+2015,ON,"Highway, roads, streets, bridges and overpasses",IMP_DIR,0.146002892827258
+2015,ON,"Highway, roads, streets, bridges and overpasses",IMP_INI,0
+2015,ON,"Highway, roads, streets, bridges and overpasses",TAXFND,0.008643648496547
+2015,ON,"Highway, roads, streets, bridges and overpasses",WSLID,0.258708324232723
+2015,ON,"Highway, roads, streets, bridges and overpasses",WSLIT,0.484562092595637
+2015,ON,"Hospitals, health centres, clinics, nursing homes and other health care buildings",EMPLT,0.007627048420848
+2015,ON,"Hospitals, health centres, clinics, nursing homes and other health care buildings",EMPL_DIR,0.004864460356087
+2015,ON,"Hospitals, health centres, clinics, nursing homes and other health care buildings",GDPD,0.47707170112451
+2015,ON,"Hospitals, health centres, clinics, nursing homes and other health care buildings",GDPT,0.739236848783147
+2015,ON,"Hospitals, health centres, clinics, nursing homes and other health care buildings",IMPT,0.195186671082883
+2015,ON,"Hospitals, health centres, clinics, nursing homes and other health care buildings",IMP_DIR,0.136621112161971
+2015,ON,"Hospitals, health centres, clinics, nursing homes and other health care buildings",IMP_INI,0
+2015,ON,"Hospitals, health centres, clinics, nursing homes and other health care buildings",TAXFND,0.058634055384137
+2015,ON,"Hospitals, health centres, clinics, nursing homes and other health care buildings",WSLID,0.310827884917071
+2015,ON,"Hospitals, health centres, clinics, nursing homes and other health care buildings",WSLIT,0.474534974940568
+2015,ON,Marine engineering construction,EMPLT,0.007086198401465
+2015,ON,Marine engineering construction,EMPL_DIR,0.003750768899581
+2015,ON,Marine engineering construction,GDPD,0.385091225263972
+2015,ON,Marine engineering construction,GDPT,0.731355853632402
+2015,ON,Marine engineering construction,IMPT,0.244342854413083
+2015,ON,Marine engineering construction,IMP_DIR,0.162600610946787
+2015,ON,Marine engineering construction,IMP_INI,0
+2015,ON,Marine engineering construction,TAXFND,0.013476672016087
+2015,ON,Marine engineering construction,WSLID,0.304416660596832
+2015,ON,Marine engineering construction,WSLIT,0.522409290049672
+2015,ON,Other commercial buildings,EMPLT,0.0075840596373
+2015,ON,Other commercial buildings,EMPL_DIR,0.004837042510836
+2015,ON,Other commercial buildings,GDPD,0.474382753714596
+2015,ON,Other commercial buildings,GDPT,0.735070244465259
+2015,ON,Other commercial buildings,IMPT,0.194086528918884
+2015,ON,Other commercial buildings,IMP_DIR,0.135851066517215
+2015,ON,Other commercial buildings,IMP_INI,0
+2015,ON,Other commercial buildings,TAXFND,0.063939931864735
+2015,ON,Other commercial buildings,WSLID,0.309075947348553
+2015,ON,Other commercial buildings,WSLIT,0.471860325430291
+2015,ON,Other engine and power transmission equipment,EMPLT,0.001930814945342
+2015,ON,Other engine and power transmission equipment,EMPL_DIR,0.001406124142901
+2015,ON,Other engine and power transmission equipment,GDPD,0.12856614290633
+2015,ON,Other engine and power transmission equipment,GDPT,0.180612510137824
+2015,ON,Other engine and power transmission equipment,IMPT,0.021059403919167
+2015,ON,Other engine and power transmission equipment,IMP_DIR,0.012456878058279
+2015,ON,Other engine and power transmission equipment,IMP_INI,0.797451053321467
+2015,ON,Other engine and power transmission equipment,TAXFND,0.000472483124528
+2015,ON,Other engine and power transmission equipment,WSLID,0.091115730278542
+2015,ON,Other engine and power transmission equipment,WSLIT,0.12007222521842
+2015,ON,Other engineering construction,EMPLT,0.00708719094662
+2015,ON,Other engineering construction,EMPL_DIR,0.003751294259907
+2015,ON,Other engineering construction,GDPD,0.385145163978097
+2015,ON,Other engineering construction,GDPT,0.731458292721441
+2015,ON,Other engineering construction,IMPT,0.24437707887344
+2015,ON,Other engineering construction,IMP_DIR,0.162623385986297
+2015,ON,Other engineering construction,IMP_INI,0
+2015,ON,Other engineering construction,TAXFND,0.013338492290674
+2015,ON,Other engineering construction,WSLID,0.30445929943707
+2015,ON,Other engineering construction,WSLIT,0.522482462543626
+2015,ON,Other institutional buildings,EMPLT,0.007979841454943
+2015,ON,Other institutional buildings,EMPL_DIR,0.005089468463229
+2015,ON,Other institutional buildings,GDPD,0.499138897192177
+2015,ON,Other institutional buildings,GDPT,0.773430628133486
+2015,ON,Other institutional buildings,IMPT,0.204215130600454
+2015,ON,Other institutional buildings,IMP_DIR,0.142940591732767
+2015,ON,Other institutional buildings,IMP_INI,0
+2015,ON,Other institutional buildings,TAXFND,0.015090691100952
+2015,ON,Other institutional buildings,WSLID,0.325205388054641
+2015,ON,Other institutional buildings,WSLIT,0.49648483343835
+2015,ON,Other miscellaneous general-purpose machinery,EMPLT,0.002327682648182
+2015,ON,Other miscellaneous general-purpose machinery,EMPL_DIR,0.00165445034102
+2015,ON,Other miscellaneous general-purpose machinery,GDPD,0.152412565679544
+2015,ON,Other miscellaneous general-purpose machinery,GDPT,0.219405410176865
+2015,ON,Other miscellaneous general-purpose machinery,IMPT,0.038607963931616
+2015,ON,Other miscellaneous general-purpose machinery,IMP_DIR,0.026051231987558
+2015,ON,Other miscellaneous general-purpose machinery,IMP_INI,0.73186674531386
+2015,ON,Other miscellaneous general-purpose machinery,TAXFND,0.003222490344307
+2015,ON,Other miscellaneous general-purpose machinery,WSLID,0.104998997545593
+2015,ON,Other miscellaneous general-purpose machinery,WSLIT,0.142909717581016
+2015,ON,Other oil and gas engineering construction,EMPLT,0.005463575690857
+2015,ON,Other oil and gas engineering construction,EMPL_DIR,0.002657589067859
+2015,ON,Other oil and gas engineering construction,GDPD,0.453463673092499
+2015,ON,Other oil and gas engineering construction,GDPT,0.742883387040606
+2015,ON,Other oil and gas engineering construction,IMPT,0.24881809781794
+2015,ON,Other oil and gas engineering construction,IMP_DIR,0.183079508949305
+2015,ON,Other oil and gas engineering construction,IMP_INI,0
+2015,ON,Other oil and gas engineering construction,TAXFND,0.000947350272333
+2015,ON,Other oil and gas engineering construction,WSLID,0.2546867520486
+2015,ON,Other oil and gas engineering construction,WSLIT,0.431987393271677
+2015,ON,Other transportation construction,EMPLT,0.007615548950345
+2015,ON,Other transportation construction,EMPL_DIR,0.003965251102964
+2015,ON,Other transportation construction,GDPD,0.358645128841221
+2015,ON,Other transportation construction,GDPT,0.750550451395657
+2015,ON,Other transportation construction,IMPT,0.235658355868122
+2015,ON,Other transportation construction,IMP_DIR,0.146788215217535
+2015,ON,Other transportation construction,IMP_INI,0
+2015,ON,Other transportation construction,TAXFND,0.003311327167135
+2015,ON,Other transportation construction,WSLID,0.260099868164741
+2015,ON,Other transportation construction,WSLIT,0.48716846191768
+2015,ON,Railroad rolling stocks,EMPLT,0.003434248614883
+2015,ON,Railroad rolling stocks,EMPL_DIR,0.002034789573121
+2015,ON,Railroad rolling stocks,GDPD,0.231089931086291
+2015,ON,Railroad rolling stocks,GDPT,0.384942936127114
+2015,ON,Railroad rolling stocks,IMPT,0.154926288350039
+2015,ON,Railroad rolling stocks,IMP_DIR,0.107611433121756
+2015,ON,Railroad rolling stocks,IMP_INI,0.42799926697413
+2015,ON,Railroad rolling stocks,TAXFND,0.004840484345811
+2015,ON,Railroad rolling stocks,WSLID,0.160717536112031
+2015,ON,Railroad rolling stocks,WSLIT,0.256505287195895
+2015,ON,"Schools, colleges, universities and other educational buildings",EMPLT,0.007902893293459
+2015,ON,"Schools, colleges, universities and other educational buildings",EMPL_DIR,0.005040391643422
+2015,ON,"Schools, colleges, universities and other educational buildings",GDPD,0.494325791483126
+2015,ON,"Schools, colleges, universities and other educational buildings",GDPT,0.765972577092453
+2015,ON,"Schools, colleges, universities and other educational buildings",IMPT,0.202245921195022
+2015,ON,"Schools, colleges, universities and other educational buildings",IMP_DIR,0.141562241574135
+2015,ON,"Schools, colleges, universities and other educational buildings",IMP_INI,0
+2015,ON,"Schools, colleges, universities and other educational buildings",TAXFND,0.024587992642119
+2015,ON,"Schools, colleges, universities and other educational buildings",WSLID,0.322069491576396
+2015,ON,"Schools, colleges, universities and other educational buildings",WSLIT,0.491697320383923
+2015,ON,Sewage engineering construction,EMPLT,0.007146025501842
+2015,ON,Sewage engineering construction,EMPL_DIR,0.003782435756016
+2015,ON,Sewage engineering construction,GDPD,0.388342459576458
+2015,ON,Sewage engineering construction,GDPT,0.737530518464968
+2015,ON,Sewage engineering construction,IMPT,0.246405783454725
+2015,ON,Sewage engineering construction,IMP_DIR,0.163973409522446
+2015,ON,Sewage engineering construction,IMP_INI,0
+2015,ON,Sewage engineering construction,TAXFND,0.005147688430937
+2015,ON,Sewage engineering construction,WSLID,0.306986778603407
+2015,ON,Sewage engineering construction,WSLIT,0.526819868368632
+2015,ON,Transformers,EMPLT,0.004386250837647
+2015,ON,Transformers,EMPL_DIR,0.002712046273799
+2015,ON,Transformers,GDPD,0.309509087160284
+2015,ON,Transformers,GDPT,0.483405138201476
+2015,ON,Transformers,IMPT,0.295214558205613
+2015,ON,Transformers,IMP_DIR,0.244134486366368
+2015,ON,Transformers,IMP_INI,0.190210236685881
+2015,ON,Transformers,TAXFND,0.000286089862135
+2015,ON,Transformers,WSLID,0.221661705138514
+2015,ON,Transformers,WSLIT,0.324280852997836
+2015,ON,Turbines and turbine generator set units,EMPLT,0.003651353155885
+2015,ON,Turbines and turbine generator set units,EMPL_DIR,0.002299545599701
+2015,ON,Turbines and turbine generator set units,GDPD,0.275635922748053
+2015,ON,Turbines and turbine generator set units,GDPT,0.413527271587383
+2015,ON,Turbines and turbine generator set units,IMPT,0.103704556469514
+2015,ON,Turbines and turbine generator set units,IMP_DIR,0.070253542541607
+2015,ON,Turbines and turbine generator set units,IMP_INI,0.46400513506006
+2015,ON,Turbines and turbine generator set units,TAXFND,0.000165590329525
+2015,ON,Turbines and turbine generator set units,WSLID,0.201717833646976
+2015,ON,Turbines and turbine generator set units,WSLIT,0.283737793612223
+2015,ON,Waterworks engineering construction,EMPLT,0.007139579366907
+2015,ON,Waterworks engineering construction,EMPL_DIR,0.003779023776691
+2015,ON,Waterworks engineering construction,GDPD,0.38799215185719
+2015,ON,Waterworks engineering construction,GDPT,0.73686522259674
+2015,ON,Waterworks engineering construction,IMPT,0.24618351095815
+2015,ON,Waterworks engineering construction,IMP_DIR,0.16382549587125
+2015,ON,Waterworks engineering construction,IMP_INI,0
+2015,ON,Waterworks engineering construction,TAXFND,0.006045103677917
+2015,ON,Waterworks engineering construction,WSLID,0.306709858489199
+2015,ON,Waterworks engineering construction,WSLIT,0.526344645889086
+2015,PE,Buses,EMPLT,0.00060106749176
+2015,PE,Buses,EMPL_DIR,0.000377619542593
+2015,PE,Buses,GDPD,0.036537984532275
+2015,PE,Buses,GDPT,0.055702926882479
+2015,PE,Buses,IMPT,0.012708281398835
+2015,PE,Buses,IMP_DIR,0.009052411595804
+2015,PE,Buses,IMP_INI,0.929078014184397
+2015,PE,Buses,TAXFND,0.002364066193853
+2015,PE,Buses,WSLID,0.021851900545695
+2015,PE,Buses,WSLIT,0.033069202084443
+2015,PE,Communication engineering construction,EMPLT,0.011630257832522
+2015,PE,Communication engineering construction,EMPL_DIR,0.007736792816804
+2015,PE,Communication engineering construction,GDPD,0.384901450353291
+2015,PE,Communication engineering construction,GDPT,0.746003710621017
+2015,PE,Communication engineering construction,IMPT,0.238392027517287
+2015,PE,Communication engineering construction,IMP_DIR,0.127156067057308
+2015,PE,Communication engineering construction,IMP_INI,0
+2015,PE,Communication engineering construction,TAXFND,0
+2015,PE,Communication engineering construction,WSLID,0.322052807735218
+2015,PE,Communication engineering construction,WSLIT,0.536721245073466
+2015,PE,Electric power engineering construction,EMPLT,0.008598747702476
+2015,PE,Electric power engineering construction,EMPL_DIR,0.006528263048633
+2015,PE,Electric power engineering construction,GDPD,0.653821965582299
+2015,PE,Electric power engineering construction,GDPT,0.850779223537722
+2015,PE,Electric power engineering construction,IMPT,0.135072177803934
+2015,PE,Electric power engineering construction,IMP_DIR,0.081410907956756
+2015,PE,Electric power engineering construction,IMP_INI,0
+2015,PE,Electric power engineering construction,TAXFND,0.001372134240467
+2015,PE,Electric power engineering construction,WSLID,0.383625864730433
+2015,PE,Electric power engineering construction,WSLIT,0.504656769472066
+2015,PE,"Highway, roads, streets, bridges and overpasses",EMPLT,0.010154901668199
+2015,PE,"Highway, roads, streets, bridges and overpasses",EMPL_DIR,0.006854461265618
+2015,PE,"Highway, roads, streets, bridges and overpasses",GDPD,0.430506554174741
+2015,PE,"Highway, roads, streets, bridges and overpasses",GDPT,0.80220864228707
+2015,PE,"Highway, roads, streets, bridges and overpasses",IMPT,0.164147352267135
+2015,PE,"Highway, roads, streets, bridges and overpasses",IMP_DIR,0.025701999310852
+2015,PE,"Highway, roads, streets, bridges and overpasses",IMP_INI,0
+2015,PE,"Highway, roads, streets, bridges and overpasses",TAXFND,0.01938860473415
+2015,PE,"Highway, roads, streets, bridges and overpasses",WSLID,0.293026778363212
+2015,PE,"Highway, roads, streets, bridges and overpasses",WSLIT,0.48529643860812
+2015,PE,"Hospitals, health centres, clinics, nursing homes and other health care buildings",EMPLT,0.011259987650415
+2015,PE,"Hospitals, health centres, clinics, nursing homes and other health care buildings",EMPL_DIR,0.007926748661804
+2015,PE,"Hospitals, health centres, clinics, nursing homes and other health care buildings",GDPD,0.507982585364681
+2015,PE,"Hospitals, health centres, clinics, nursing homes and other health care buildings",GDPT,0.801017410821371
+2015,PE,"Hospitals, health centres, clinics, nursing homes and other health care buildings",IMPT,0.115079298158489
+2015,PE,"Hospitals, health centres, clinics, nursing homes and other health care buildings",IMP_DIR,0.057482727750629
+2015,PE,"Hospitals, health centres, clinics, nursing homes and other health care buildings",IMP_INI,0
+2015,PE,"Hospitals, health centres, clinics, nursing homes and other health care buildings",TAXFND,0.074058489375132
+2015,PE,"Hospitals, health centres, clinics, nursing homes and other health care buildings",WSLID,0.347839223703623
+2015,PE,"Hospitals, health centres, clinics, nursing homes and other health care buildings",WSLIT,0.520929774475183
+2015,PE,Marine engineering construction,EMPLT,0.009222348812416
+2015,PE,Marine engineering construction,EMPL_DIR,0.005512278688896
+2015,PE,Marine engineering construction,GDPD,0.503584131854179
+2015,PE,Marine engineering construction,GDPT,0.838525159105622
+2015,PE,Marine engineering construction,IMPT,0.142320756275367
+2015,PE,Marine engineering construction,IMP_DIR,0.072448725439441
+2015,PE,Marine engineering construction,IMP_INI,0
+2015,PE,Marine engineering construction,TAXFND,0.005181347150259
+2015,PE,Marine engineering construction,WSLID,0.438236190995023
+2015,PE,Marine engineering construction,WSLIT,0.626300010363754
+2015,PE,Other commercial buildings,EMPLT,0.011898765126825
+2015,PE,Other commercial buildings,EMPL_DIR,0.008376431970839
+2015,PE,Other commercial buildings,GDPD,0.536800364212562
+2015,PE,Other commercial buildings,GDPT,0.846459013079804
+2015,PE,Other commercial buildings,IMPT,0.121607730155661
+2015,PE,Other commercial buildings,IMP_DIR,0.060743714610447
+2015,PE,Other commercial buildings,IMP_INI,0
+2015,PE,Other commercial buildings,TAXFND,0.021529960941221
+2015,PE,Other commercial buildings,WSLID,0.367572092727298
+2015,PE,Other commercial buildings,WSLIT,0.550482045495114
+2015,PE,Other engine and power transmission equipment,EMPLT,0.002623853367167
+2015,PE,Other engine and power transmission equipment,EMPL_DIR,0.001888150752834
+2015,PE,Other engine and power transmission equipment,GDPD,0.171662426370892
+2015,PE,Other engine and power transmission equipment,GDPT,0.24157213006581
+2015,PE,Other engine and power transmission equipment,IMPT,0.028227558998422
+2015,PE,Other engine and power transmission equipment,IMP_DIR,0.015729611793478
+2015,PE,Other engine and power transmission equipment,IMP_INI,0.729414017617771
+2015,PE,Other engine and power transmission equipment,TAXFND,0
+2015,PE,Other engine and power transmission equipment,WSLID,0.125330276865403
+2015,PE,Other engine and power transmission equipment,WSLIT,0.164393310190478
+2015,PE,Other engineering construction,EMPLT,0.009215023095681
+2015,PE,Other engineering construction,EMPL_DIR,0.005507900043818
+2015,PE,Other engineering construction,GDPD,0.503184112859358
+2015,PE,Other engineering construction,GDPT,0.837859081741266
+2015,PE,Other engineering construction,IMPT,0.142207704647513
+2015,PE,Other engineering construction,IMP_DIR,0.072391176234664
+2015,PE,Other engineering construction,IMP_INI,0
+2015,PE,Other engineering construction,TAXFND,0.005971575301565
+2015,PE,Other engineering construction,WSLID,0.4378880807399
+2015,PE,Other engineering construction,WSLIT,0.625802512756592
+2015,PE,Other institutional buildings,EMPLT,0.01207346365593
+2015,PE,Other institutional buildings,EMPL_DIR,0.00849941535011
+2015,PE,Other institutional buildings,GDPD,0.544681705935975
+2015,PE,Other institutional buildings,GDPT,0.858886785454234
+2015,PE,Other institutional buildings,IMPT,0.123393183634202
+2015,PE,Other institutional buildings,IMP_DIR,0.061635558216211
+2015,PE,Other institutional buildings,IMP_INI,0
+2015,PE,Other institutional buildings,TAXFND,0.007163993147485
+2015,PE,Other institutional buildings,WSLID,0.372968812744476
+2015,PE,Other institutional buildings,WSLIT,0.558564262651421
+2015,PE,Other miscellaneous general-purpose machinery,EMPLT,0.004003310319102
+2015,PE,Other miscellaneous general-purpose machinery,EMPL_DIR,0.002962422738595
+2015,PE,Other miscellaneous general-purpose machinery,GDPD,0.212343736303143
+2015,PE,Other miscellaneous general-purpose machinery,GDPT,0.310596331696488
+2015,PE,Other miscellaneous general-purpose machinery,IMPT,0.077158135780617
+2015,PE,Other miscellaneous general-purpose machinery,IMP_DIR,0.056819919263227
+2015,PE,Other miscellaneous general-purpose machinery,IMP_INI,0.563958434900083
+2015,PE,Other miscellaneous general-purpose machinery,TAXFND,0.002937892943181
+2015,PE,Other miscellaneous general-purpose machinery,WSLID,0.158447533391195
+2015,PE,Other miscellaneous general-purpose machinery,WSLIT,0.21402685062195
+2015,PE,Other oil and gas engineering construction,EMPLT,0.006636693970959
+2015,PE,Other oil and gas engineering construction,EMPL_DIR,0.001307018545969
+2015,PE,Other oil and gas engineering construction,GDPD,0.31578947368421
+2015,PE,Other oil and gas engineering construction,GDPT,0.748280309040793
+2015,PE,Other oil and gas engineering construction,IMPT,0.245319889872846
+2015,PE,Other oil and gas engineering construction,IMP_DIR,0.178092888764129
+2015,PE,Other oil and gas engineering construction,IMP_INI,0
+2015,PE,Other oil and gas engineering construction,TAXFND,0
+2015,PE,Other oil and gas engineering construction,WSLID,0.157894736842105
+2015,PE,Other oil and gas engineering construction,WSLIT,0.452293955826269
+2015,PE,Other transportation construction,EMPLT,0.010216494630539
+2015,PE,Other transportation construction,EMPL_DIR,0.006896035924673
+2015,PE,Other transportation construction,GDPD,0.433117724114627
+2015,PE,Other transportation construction,GDPT,0.807074312906816
+2015,PE,Other transportation construction,IMPT,0.165142962270735
+2015,PE,Other transportation construction,IMP_DIR,0.025857890753955
+2015,PE,Other transportation construction,IMP_INI,0
+2015,PE,Other transportation construction,TAXFND,0.013440860215054
+2015,PE,Other transportation construction,WSLID,0.294804086299233
+2015,PE,Other transportation construction,WSLIT,0.488239927993216
+2015,PE,Railroad rolling stocks,EMPLT,0
+2015,PE,Railroad rolling stocks,EMPL_DIR,0
+2015,PE,Railroad rolling stocks,GDPD,0
+2015,PE,Railroad rolling stocks,GDPT,0
+2015,PE,Railroad rolling stocks,IMPT,0
+2015,PE,Railroad rolling stocks,IMP_DIR,0
+2015,PE,Railroad rolling stocks,IMP_INI,1
+2015,PE,Railroad rolling stocks,TAXFND,0
+2015,PE,Railroad rolling stocks,WSLID,0
+2015,PE,Railroad rolling stocks,WSLIT,0
+2015,PE,"Schools, colleges, universities and other educational buildings",EMPLT,0.01116602857303
+2015,PE,"Schools, colleges, universities and other educational buildings",EMPL_DIR,0.007860603829851
+2015,PE,"Schools, colleges, universities and other educational buildings",GDPD,0.503743719698885
+2015,PE,"Schools, colleges, universities and other educational buildings",GDPT,0.794333313180509
+2015,PE,"Schools, colleges, universities and other educational buildings",IMPT,0.114119017826324
+2015,PE,"Schools, colleges, universities and other educational buildings",IMP_DIR,0.057003062565132
+2015,PE,"Schools, colleges, universities and other educational buildings",IMP_INI,0
+2015,PE,"Schools, colleges, universities and other educational buildings",TAXFND,0.081785017392042
+2015,PE,"Schools, colleges, universities and other educational buildings",WSLID,0.344936675889871
+2015,PE,"Schools, colleges, universities and other educational buildings",WSLIT,0.51658287086287
+2015,PE,Sewage engineering construction,EMPLT,0.009035257324962
+2015,PE,Sewage engineering construction,EMPL_DIR,0.0054004524676
+2015,PE,Sewage engineering construction,GDPD,0.493368046320743
+2015,PE,Sewage engineering construction,GDPT,0.821514208590125
+2015,PE,Sewage engineering construction,IMPT,0.139433530631582
+2015,PE,Sewage engineering construction,IMP_DIR,0.070978976237549
+2015,PE,Sewage engineering construction,IMP_INI,0
+2015,PE,Sewage engineering construction,TAXFND,0.025362984745451
+2015,PE,Sewage engineering construction,WSLID,0.429345802819828
+2015,PE,Sewage engineering construction,WSLIT,0.613594418446253
+2015,PE,Transformers,EMPLT,0.005410577125447
+2015,PE,Transformers,EMPL_DIR,0.003352980292168
+2015,PE,Transformers,GDPD,0.374016364623656
+2015,PE,Transformers,GDPT,0.585851736236712
+2015,PE,Transformers,IMPT,0.371130992441749
+2015,PE,Transformers,IMP_DIR,0.307406322715334
+2015,PE,Transformers,IMP_INI,0.00166061177657
+2015,PE,Transformers,TAXFND,0.001212121212121
+2015,PE,Transformers,WSLID,0.273037883676405
+2015,PE,Transformers,WSLIT,0.398414876620505
+2015,PE,Turbines and turbine generator set units,EMPLT,0.002340493376843
+2015,PE,Turbines and turbine generator set units,EMPL_DIR,0.001706490545064
+2015,PE,Turbines and turbine generator set units,GDPD,0.149262931272713
+2015,PE,Turbines and turbine generator set units,GDPT,0.208964903768094
+2015,PE,Turbines and turbine generator set units,IMPT,0.022339814095475
+2015,PE,Turbines and turbine generator set units,IMP_DIR,0.011499436432542
+2015,PE,Turbines and turbine generator set units,IMP_INI,0.767152245777588
+2015,PE,Turbines and turbine generator set units,TAXFND,0.001053740779768
+2015,PE,Turbines and turbine generator set units,WSLID,0.113179585852795
+2015,PE,Turbines and turbine generator set units,WSLIT,0.146490108861186
+2015,PE,Waterworks engineering construction,EMPLT,0.009100734985255
+2015,PE,Waterworks engineering construction,EMPL_DIR,0.005439589038855
+2015,PE,Waterworks engineering construction,GDPD,0.496943438163449
+2015,PE,Waterworks engineering construction,GDPT,0.827467644816821
+2015,PE,Waterworks engineering construction,IMPT,0.140443992317817
+2015,PE,Waterworks engineering construction,IMP_DIR,0.071493354204537
+2015,PE,Waterworks engineering construction,IMP_INI,0
+2015,PE,Waterworks engineering construction,TAXFND,0.018299881936246
+2015,PE,Waterworks engineering construction,WSLID,0.432457231483581
+2015,PE,Waterworks engineering construction,WSLIT,0.618041079503455
+2015,QC,Buses,EMPLT,0.002880043155972
+2015,QC,Buses,EMPL_DIR,0.001636824752886
+2015,QC,Buses,GDPD,0.185799967604705
+2015,QC,Buses,GDPT,0.311063605468922
+2015,QC,Buses,IMPT,0.414606863740222
+2015,QC,Buses,IMP_DIR,0.376740085981904
+2015,QC,Buses,IMP_INI,0.267468436560425
+2015,QC,Buses,TAXFND,0.003575291431318
+2015,QC,Buses,WSLID,0.125200550216573
+2015,QC,Buses,WSLIT,0.199600072713802
+2015,QC,Communication engineering construction,EMPLT,0.007637175150274
+2015,QC,Communication engineering construction,EMPL_DIR,0.003877291309412
+2015,QC,Communication engineering construction,GDPD,0.317729419299539
+2015,QC,Communication engineering construction,GDPT,0.668365397459992
+2015,QC,Communication engineering construction,IMPT,0.320032330932047
+2015,QC,Communication engineering construction,IMP_DIR,0.241907538101299
+2015,QC,Communication engineering construction,IMP_INI,0
+2015,QC,Communication engineering construction,TAXFND,0.004076529946159
+2015,QC,Communication engineering construction,WSLID,0.254356603411189
+2015,QC,Communication engineering construction,WSLIT,0.466979159194407
+2015,QC,Electric power engineering construction,EMPLT,0.005816582286754
+2015,QC,Electric power engineering construction,EMPL_DIR,0.003602155571993
+2015,QC,Electric power engineering construction,GDPD,0.661907884010496
+2015,QC,Electric power engineering construction,GDPT,0.865729016551646
+2015,QC,Electric power engineering construction,IMPT,0.128028259873336
+2015,QC,Electric power engineering construction,IMP_DIR,0.080152170247783
+2015,QC,Electric power engineering construction,IMP_INI,0
+2015,QC,Electric power engineering construction,TAXFND,0.000495278921009
+2015,QC,Electric power engineering construction,WSLID,0.265142349854856
+2015,QC,Electric power engineering construction,WSLIT,0.394350320393496
+2015,QC,"Highway, roads, streets, bridges and overpasses",EMPLT,0.008464155494087
+2015,QC,"Highway, roads, streets, bridges and overpasses",EMPL_DIR,0.004606529949891
+2015,QC,"Highway, roads, streets, bridges and overpasses",GDPD,0.403058525237112
+2015,QC,"Highway, roads, streets, bridges and overpasses",GDPT,0.784036425279723
+2015,QC,"Highway, roads, streets, bridges and overpasses",IMPT,0.164468674715559
+2015,QC,"Highway, roads, streets, bridges and overpasses",IMP_DIR,0.079038523622975
+2015,QC,"Highway, roads, streets, bridges and overpasses",IMP_INI,0
+2015,QC,"Highway, roads, streets, bridges and overpasses",TAXFND,0.045665714027765
+2015,QC,"Highway, roads, streets, bridges and overpasses",WSLID,0.315900413595878
+2015,QC,"Highway, roads, streets, bridges and overpasses",WSLIT,0.531021909767961
+2015,QC,"Hospitals, health centres, clinics, nursing homes and other health care buildings",EMPLT,0.008851342772854
+2015,QC,"Hospitals, health centres, clinics, nursing homes and other health care buildings",EMPL_DIR,0.005027187243213
+2015,QC,"Hospitals, health centres, clinics, nursing homes and other health care buildings",GDPD,0.41212878827906
+2015,QC,"Hospitals, health centres, clinics, nursing homes and other health care buildings",GDPT,0.745581682638385
+2015,QC,"Hospitals, health centres, clinics, nursing homes and other health care buildings",IMPT,0.18485364766699
+2015,QC,"Hospitals, health centres, clinics, nursing homes and other health care buildings",IMP_DIR,0.111124048144726
+2015,QC,"Hospitals, health centres, clinics, nursing homes and other health care buildings",IMP_INI,0
+2015,QC,"Hospitals, health centres, clinics, nursing homes and other health care buildings",TAXFND,0.061844539953462
+2015,QC,"Hospitals, health centres, clinics, nursing homes and other health care buildings",WSLID,0.308794629485538
+2015,QC,"Hospitals, health centres, clinics, nursing homes and other health care buildings",WSLIT,0.515480994615994
+2015,QC,Marine engineering construction,EMPLT,0.008723872031967
+2015,QC,Marine engineering construction,EMPL_DIR,0.005224302311512
+2015,QC,Marine engineering construction,GDPD,0.479287174538053
+2015,QC,Marine engineering construction,GDPT,0.818306496578734
+2015,QC,Marine engineering construction,IMPT,0.170717101756405
+2015,QC,Marine engineering construction,IMP_DIR,0.091766571893894
+2015,QC,Marine engineering construction,IMP_INI,0
+2015,QC,Marine engineering construction,TAXFND,0.002849786982724
+2015,QC,Marine engineering construction,WSLID,0.362125640250253
+2015,QC,Marine engineering construction,WSLIT,0.578218591584195
+2015,QC,Other commercial buildings,EMPLT,0.009002533718052
+2015,QC,Other commercial buildings,EMPL_DIR,0.005113057286944
+2015,QC,Other commercial buildings,GDPD,0.419168414089738
+2015,QC,Other commercial buildings,GDPT,0.758317061011216
+2015,QC,Other commercial buildings,IMPT,0.188011157033779
+2015,QC,Other commercial buildings,IMP_DIR,0.113022172565428
+2015,QC,Other commercial buildings,IMP_INI,0
+2015,QC,Other commercial buildings,TAXFND,0.045819783666598
+2015,QC,Other commercial buildings,WSLID,0.314069190995794
+2015,QC,Other commercial buildings,WSLIT,0.524285992999547
+2015,QC,Other engine and power transmission equipment,EMPLT,0.001018927494597
+2015,QC,Other engine and power transmission equipment,EMPL_DIR,0.000739834230282
+2015,QC,Other engine and power transmission equipment,GDPD,0.06573599348198
+2015,QC,Other engine and power transmission equipment,GDPT,0.091505983064495
+2015,QC,Other engine and power transmission equipment,IMPT,0.012471783879384
+2015,QC,Other engine and power transmission equipment,IMP_DIR,0.007793131937731
+2015,QC,Other engine and power transmission equipment,IMP_INI,0.863624213625059
+2015,QC,Other engine and power transmission equipment,TAXFND,0.031911720847003
+2015,QC,Other engine and power transmission equipment,WSLID,0.046688374499893
+2015,QC,Other engine and power transmission equipment,WSLIT,0.061357144918368
+2015,QC,Other engineering construction,EMPLT,0.00837822621472
+2015,QC,Other engineering construction,EMPL_DIR,0.005017311856426
+2015,QC,Other engineering construction,GDPD,0.460297486641184
+2015,QC,Other engineering construction,GDPT,0.785884629690709
+2015,QC,Other engineering construction,IMPT,0.163953172627409
+2015,QC,Other engineering construction,IMP_DIR,0.088130717124131
+2015,QC,Other engineering construction,IMP_INI,0
+2015,QC,Other engineering construction,TAXFND,0.042357565069515
+2015,QC,Other engineering construction,WSLID,0.347777973020405
+2015,QC,Other engineering construction,WSLIT,0.555309172818851
+2015,QC,Other institutional buildings,EMPLT,0.008987134398801
+2015,QC,Other institutional buildings,EMPL_DIR,0.00510431112681
+2015,QC,Other institutional buildings,GDPD,0.418451403920076
+2015,QC,Other institutional buildings,GDPT,0.757019918797497
+2015,QC,Other institutional buildings,IMPT,0.187689553813995
+2015,QC,Other institutional buildings,IMP_DIR,0.112828842046232
+2015,QC,Other institutional buildings,IMP_INI,0
+2015,QC,Other institutional buildings,TAXFND,0.047451960366475
+2015,QC,Other institutional buildings,WSLID,0.313531958713131
+2015,QC,Other institutional buildings,WSLIT,0.523389173544271
+2015,QC,Other miscellaneous general-purpose machinery,EMPLT,0.003037166001581
+2015,QC,Other miscellaneous general-purpose machinery,EMPL_DIR,0.002155716327353
+2015,QC,Other miscellaneous general-purpose machinery,GDPD,0.184794665245143
+2015,QC,Other miscellaneous general-purpose machinery,GDPT,0.267283613986718
+2015,QC,Other miscellaneous general-purpose machinery,IMPT,0.060578920266412
+2015,QC,Other miscellaneous general-purpose machinery,IMP_DIR,0.04273324864168
+2015,QC,Other miscellaneous general-purpose machinery,IMP_INI,0.656548268039686
+2015,QC,Other miscellaneous general-purpose machinery,TAXFND,0.002064797746471
+2015,QC,Other miscellaneous general-purpose machinery,WSLID,0.132162306818533
+2015,QC,Other miscellaneous general-purpose machinery,WSLIT,0.179774504238105
+2015,QC,Other oil and gas engineering construction,EMPLT,0.007244241813793
+2015,QC,Other oil and gas engineering construction,EMPL_DIR,0.003255979006088
+2015,QC,Other oil and gas engineering construction,GDPD,0.415007807966138
+2015,QC,Other oil and gas engineering construction,GDPT,0.798297526494591
+2015,QC,Other oil and gas engineering construction,IMPT,0.193697427297183
+2015,QC,Other oil and gas engineering construction,IMP_DIR,0.113788372232727
+2015,QC,Other oil and gas engineering construction,IMP_INI,0
+2015,QC,Other oil and gas engineering construction,TAXFND,0.000676255856064
+2015,QC,Other oil and gas engineering construction,WSLID,0.278162695366163
+2015,QC,Other oil and gas engineering construction,WSLIT,0.512858327487368
+2015,QC,Other transportation construction,EMPLT,0.008808166149971
+2015,QC,Other transportation construction,EMPL_DIR,0.004793754226491
+2015,QC,Other transportation construction,GDPD,0.419440127361885
+2015,QC,Other transportation construction,GDPT,0.815902201503425
+2015,QC,Other transportation construction,IMPT,0.171153213616191
+2015,QC,Other transportation construction,IMP_DIR,0.082250904866516
+2015,QC,Other transportation construction,IMP_INI,0
+2015,QC,Other transportation construction,TAXFND,0.006878481931311
+2015,QC,Other transportation construction,WSLID,0.328739628157919
+2015,QC,Other transportation construction,WSLIT,0.552604357726947
+2015,QC,Railroad rolling stocks,EMPLT,0.00413068269457
+2015,QC,Railroad rolling stocks,EMPL_DIR,0.002121799284642
+2015,QC,Railroad rolling stocks,GDPD,0.221382645174751
+2015,QC,Railroad rolling stocks,GDPT,0.434184206528006
+2015,QC,Railroad rolling stocks,IMPT,0.179509304832468
+2015,QC,Railroad rolling stocks,IMP_DIR,0.108050220697613
+2015,QC,Railroad rolling stocks,IMP_INI,0.280964910412748
+2015,QC,Railroad rolling stocks,TAXFND,0.007795806977089
+2015,QC,Railroad rolling stocks,WSLID,0.198826246637348
+2015,QC,Railroad rolling stocks,WSLIT,0.333163759723311
+2015,QC,"Schools, colleges, universities and other educational buildings",EMPLT,0.008796570688083
+2015,QC,"Schools, colleges, universities and other educational buildings",EMPL_DIR,0.004996079022357
+2015,QC,"Schools, colleges, universities and other educational buildings",GDPD,0.409578536468944
+2015,QC,"Schools, colleges, universities and other educational buildings",GDPT,0.740968025233676
+2015,QC,"Schools, colleges, universities and other educational buildings",IMPT,0.183709773802857
+2015,QC,"Schools, colleges, universities and other educational buildings",IMP_DIR,0.110436412839967
+2015,QC,"Schools, colleges, universities and other educational buildings",IMP_INI,0
+2015,QC,"Schools, colleges, universities and other educational buildings",TAXFND,0.067649843363942
+2015,QC,"Schools, colleges, universities and other educational buildings",WSLID,0.306883809166269
+2015,QC,"Schools, colleges, universities and other educational buildings",WSLIT,0.512291199636882
+2015,QC,Sewage engineering construction,EMPLT,0.008299732370159
+2015,QC,Sewage engineering construction,EMPL_DIR,0.004970305713732
+2015,QC,Sewage engineering construction,GDPD,0.455985056009442
+2015,QC,Sewage engineering construction,GDPT,0.778521841388685
+2015,QC,Sewage engineering construction,IMPT,0.162417129732696
+2015,QC,Sewage engineering construction,IMP_DIR,0.087305038915682
+2015,QC,Sewage engineering construction,IMP_INI,0
+2015,QC,Sewage engineering construction,TAXFND,0.05132951623263
+2015,QC,Sewage engineering construction,WSLID,0.34451971411736
+2015,QC,Sewage engineering construction,WSLIT,0.55010659762248
+2015,QC,Transformers,EMPLT,0.005427781086989
+2015,QC,Transformers,EMPL_DIR,0.003368333900405
+2015,QC,Transformers,GDPD,0.36419159543027
+2015,QC,Transformers,GDPT,0.56332951690418
+2015,QC,Transformers,IMPT,0.403442189502868
+2015,QC,Transformers,IMP_DIR,0.345329144120977
+2015,QC,Transformers,IMP_INI,0.001549893737158
+2015,QC,Transformers,TAXFND,0.009966295799659
+2015,QC,Transformers,WSLID,0.271265808462403
+2015,QC,Transformers,WSLIT,0.390853763574965
+2015,QC,Turbines and turbine generator set units,EMPLT,0.003507258703327
+2015,QC,Turbines and turbine generator set units,EMPL_DIR,0.002352176362461
+2015,QC,Turbines and turbine generator set units,GDPD,0.276775450862893
+2015,QC,Turbines and turbine generator set units,GDPT,0.385580909378644
+2015,QC,Turbines and turbine generator set units,IMPT,0.083806920485377
+2015,QC,Turbines and turbine generator set units,IMP_DIR,0.05953885332827
+2015,QC,Turbines and turbine generator set units,IMP_INI,0.503065545523893
+2015,QC,Turbines and turbine generator set units,TAXFND,0.000124700718276
+2015,QC,Turbines and turbine generator set units,WSLID,0.187263544047078
+2015,QC,Turbines and turbine generator set units,WSLIT,0.250831862188067
+2015,QC,Waterworks engineering construction,EMPLT,0.008419819486094
+2015,QC,Waterworks engineering construction,EMPL_DIR,0.005042220042033
+2015,QC,Waterworks engineering construction,GDPD,0.462582609742922
+2015,QC,Waterworks engineering construction,GDPT,0.789786113350139
+2015,QC,Waterworks engineering construction,IMPT,0.164767109686045
+2015,QC,Waterworks engineering construction,IMP_DIR,0.088568237518045
+2015,QC,Waterworks engineering construction,IMP_INI,0
+2015,QC,Waterworks engineering construction,TAXFND,0.037603398655892
+2015,QC,Waterworks engineering construction,WSLID,0.349504498807508
+2015,QC,Waterworks engineering construction,WSLIT,0.558065976530023
+2015,SK,Buses,EMPLT,0.004024186909904
+2015,SK,Buses,EMPL_DIR,0.002458640643416
+2015,SK,Buses,GDPD,0.235525810028005
+2015,SK,Buses,GDPT,0.399722327733197
+2015,SK,Buses,IMPT,0.495048291844581
+2015,SK,Buses,IMP_DIR,0.4395843467905
+2015,SK,Buses,IMP_INI,0.059688000816329
+2015,SK,Buses,TAXFND,0.027655254498355
+2015,SK,Buses,WSLID,0.194946692734702
+2015,SK,Buses,WSLIT,0.29300519203294
+2015,SK,Communication engineering construction,EMPLT,0.00531714164269
+2015,SK,Communication engineering construction,EMPL_DIR,0.001142406459798
+2015,SK,Communication engineering construction,GDPD,0.169536591542163
+2015,SK,Communication engineering construction,GDPT,0.633218213617323
+2015,SK,Communication engineering construction,IMPT,0.356810332218545
+2015,SK,Communication engineering construction,IMP_DIR,0.266957546865637
+2015,SK,Communication engineering construction,IMP_INI,0
+2015,SK,Communication engineering construction,TAXFND,0
+2015,SK,Communication engineering construction,WSLID,0.107875411496581
+2015,SK,Communication engineering construction,WSLIT,0.374308009920569
+2015,SK,Electric power engineering construction,EMPLT,0.006614475608013
+2015,SK,Electric power engineering construction,EMPL_DIR,0.003689759052143
+2015,SK,Electric power engineering construction,GDPD,0.500253514400533
+2015,SK,Electric power engineering construction,GDPT,0.820487357775014
+2015,SK,Electric power engineering construction,IMPT,0.170454386396141
+2015,SK,Electric power engineering construction,IMP_DIR,0.111388472480484
+2015,SK,Electric power engineering construction,IMP_INI,0
+2015,SK,Electric power engineering construction,TAXFND,6.4013656246666E-05
+2015,SK,Electric power engineering construction,WSLID,0.269257695609984
+2015,SK,Electric power engineering construction,WSLIT,0.457635792282477
+2015,SK,"Highway, roads, streets, bridges and overpasses",EMPLT,0.006792722664001
+2015,SK,"Highway, roads, streets, bridges and overpasses",EMPL_DIR,0.003802423696524
+2015,SK,"Highway, roads, streets, bridges and overpasses",GDPD,0.477795710108291
+2015,SK,"Highway, roads, streets, bridges and overpasses",GDPT,0.862078391491452
+2015,SK,"Highway, roads, streets, bridges and overpasses",IMPT,0.128864039424607
+2015,SK,"Highway, roads, streets, bridges and overpasses",IMP_DIR,0.069187630322903
+2015,SK,"Highway, roads, streets, bridges and overpasses",IMP_INI,0
+2015,SK,"Highway, roads, streets, bridges and overpasses",TAXFND,0.000120380251118
+2015,SK,"Highway, roads, streets, bridges and overpasses",WSLID,0.270023098800508
+2015,SK,"Highway, roads, streets, bridges and overpasses",WSLIT,0.477041396190578
+2015,SK,"Hospitals, health centres, clinics, nursing homes and other health care buildings",EMPLT,0.007166841097616
+2015,SK,"Hospitals, health centres, clinics, nursing homes and other health care buildings",EMPL_DIR,0.004075176171694
+2015,SK,"Hospitals, health centres, clinics, nursing homes and other health care buildings",GDPD,0.462037901549347
+2015,SK,"Hospitals, health centres, clinics, nursing homes and other health care buildings",GDPT,0.786476592464361
+2015,SK,"Hospitals, health centres, clinics, nursing homes and other health care buildings",IMPT,0.186553913516981
+2015,SK,"Hospitals, health centres, clinics, nursing homes and other health care buildings",IMP_DIR,0.131116927925771
+2015,SK,"Hospitals, health centres, clinics, nursing homes and other health care buildings",IMP_INI,0
+2015,SK,"Hospitals, health centres, clinics, nursing homes and other health care buildings",TAXFND,0.017558296069324
+2015,SK,"Hospitals, health centres, clinics, nursing homes and other health care buildings",WSLID,0.25713070207571
+2015,SK,"Hospitals, health centres, clinics, nursing homes and other health care buildings",WSLIT,0.455633543166453
+2015,SK,Marine engineering construction,EMPLT,0.006273318011739
+2015,SK,Marine engineering construction,EMPL_DIR,0.003064900971085
+2015,SK,Marine engineering construction,GDPD,0.404637782974087
+2015,SK,Marine engineering construction,GDPT,0.830524012945071
+2015,SK,Marine engineering construction,IMPT,0.158695836022101
+2015,SK,Marine engineering construction,IMP_DIR,0.100231562340823
+2015,SK,Marine engineering construction,IMP_INI,0
+2015,SK,Marine engineering construction,TAXFND,0.004261121527186
+2015,SK,Marine engineering construction,WSLID,0.230966637049894
+2015,SK,Marine engineering construction,WSLIT,0.480445821601047
+2015,SK,Other commercial buildings,EMPLT,0.007279872556589
+2015,SK,Other commercial buildings,EMPL_DIR,0.004139447599229
+2015,SK,Other commercial buildings,GDPD,0.46932490811217
+2015,SK,Other commercial buildings,GDPT,0.798880466846911
+2015,SK,Other commercial buildings,IMPT,0.189496138792353
+2015,SK,Other commercial buildings,IMP_DIR,0.133184831686671
+2015,SK,Other commercial buildings,IMP_INI,0
+2015,SK,Other commercial buildings,TAXFND,0.002063768195901
+2015,SK,Other commercial buildings,WSLID,0.261186025475037
+2015,SK,Other commercial buildings,WSLIT,0.462819543726499
+2015,SK,Other engine and power transmission equipment,EMPLT,0.001916620689402
+2015,SK,Other engine and power transmission equipment,EMPL_DIR,0.001445798509398
+2015,SK,Other engine and power transmission equipment,GDPD,0.147496297202934
+2015,SK,Other engine and power transmission equipment,GDPT,0.196660574262442
+2015,SK,Other engine and power transmission equipment,IMPT,0.017719904541998
+2015,SK,Other engine and power transmission equipment,IMP_DIR,0.010903678923396
+2015,SK,Other engine and power transmission equipment,IMP_INI,0.742150685016007
+2015,SK,Other engine and power transmission equipment,TAXFND,0.042769058295964
+2015,SK,Other engine and power transmission equipment,WSLID,0.094931159794695
+2015,SK,Other engine and power transmission equipment,WSLIT,0.121482082016294
+2015,SK,Other engineering construction,EMPLT,0.006292869353844
+2015,SK,Other engineering construction,EMPL_DIR,0.003074453001971
+2015,SK,Other engineering construction,GDPD,0.405898871876126
+2015,SK,Other engineering construction,GDPT,0.833112413385344
+2015,SK,Other engineering construction,IMPT,0.159190425420392
+2015,SK,Other engineering construction,IMP_DIR,0.100543942736872
+2015,SK,Other engineering construction,IMP_INI,0
+2015,SK,Other engineering construction,TAXFND,0.001157814565239
+2015,SK,Other engineering construction,WSLID,0.231686464695706
+2015,SK,Other engineering construction,WSLIT,0.481943172859742
+2015,SK,Other institutional buildings,EMPLT,0.007268141508157
+2015,SK,Other institutional buildings,EMPL_DIR,0.004132777144507
+2015,SK,Other institutional buildings,GDPD,0.468568621077648
+2015,SK,Other institutional buildings,GDPT,0.797593122133756
+2015,SK,Other institutional buildings,IMPT,0.189190777899753
+2015,SK,Other institutional buildings,IMP_DIR,0.132970212859375
+2015,SK,Other institutional buildings,IMP_INI,0
+2015,SK,Other institutional buildings,TAXFND,0.003671878527035
+2015,SK,Other institutional buildings,WSLID,0.260765140920966
+2015,SK,Other institutional buildings,WSLIT,0.46207373967009
+2015,SK,Other miscellaneous general-purpose machinery,EMPLT,0.002683515414514
+2015,SK,Other miscellaneous general-purpose machinery,EMPL_DIR,0.001897089976815
+2015,SK,Other miscellaneous general-purpose machinery,GDPD,0.192791193232764
+2015,SK,Other miscellaneous general-purpose machinery,GDPT,0.277644738197779
+2015,SK,Other miscellaneous general-purpose machinery,IMPT,0.061527604745888
+2015,SK,Other miscellaneous general-purpose machinery,IMP_DIR,0.046264986791151
+2015,SK,Other miscellaneous general-purpose machinery,IMP_INI,0.594189343875189
+2015,SK,Other miscellaneous general-purpose machinery,TAXFND,0.041749356854098
+2015,SK,Other miscellaneous general-purpose machinery,WSLID,0.1281310765517
+2015,SK,Other miscellaneous general-purpose machinery,WSLIT,0.17604949733728
+2015,SK,Other oil and gas engineering construction,EMPLT,0.00619808963462
+2015,SK,Other oil and gas engineering construction,EMPL_DIR,0.002522573890167
+2015,SK,Other oil and gas engineering construction,GDPD,0.277585336815533
+2015,SK,Other oil and gas engineering construction,GDPT,0.751336276447711
+2015,SK,Other oil and gas engineering construction,IMPT,0.242292337791763
+2015,SK,Other oil and gas engineering construction,IMP_DIR,0.166701189325489
+2015,SK,Other oil and gas engineering construction,IMP_INI,0
+2015,SK,Other oil and gas engineering construction,TAXFND,1.46306902869408E-05
+2015,SK,Other oil and gas engineering construction,WSLID,0.173660171432293
+2015,SK,Other oil and gas engineering construction,WSLIT,0.465354767953518
+2015,SK,Other transportation construction,EMPLT,0.006793039379376
+2015,SK,Other transportation construction,EMPL_DIR,0.00380260098715
+2015,SK,Other transportation construction,GDPD,0.477817987662567
+2015,SK,Other transportation construction,GDPT,0.862118586490592
+2015,SK,Other transportation construction,IMPT,0.128870047799256
+2015,SK,Other transportation construction,IMP_DIR,0.06919085624385
+2015,SK,Other transportation construction,IMP_INI,0
+2015,SK,Other transportation construction,TAXFND,7.37601747402333E-05
+2015,SK,Other transportation construction,WSLID,0.270035688813586
+2015,SK,Other transportation construction,WSLIT,0.477063638574447
+2015,SK,Railroad rolling stocks,EMPLT,0.00240661245246
+2015,SK,Railroad rolling stocks,EMPL_DIR,0.00144653264093
+2015,SK,Railroad rolling stocks,GDPD,0.165598517101703
+2015,SK,Railroad rolling stocks,GDPT,0.272093177901099
+2015,SK,Railroad rolling stocks,IMPT,0.101302052612043
+2015,SK,Railroad rolling stocks,IMP_DIR,0.07042593805682
+2015,SK,Railroad rolling stocks,IMP_INI,0.565236064023333
+2015,SK,Railroad rolling stocks,TAXFND,0.044292828095806
+2015,SK,Railroad rolling stocks,WSLID,0.113198272139311
+2015,SK,Railroad rolling stocks,WSLIT,0.178966092771415
+2015,SK,"Schools, colleges, universities and other educational buildings",EMPLT,0.007193401338489
+2015,SK,"Schools, colleges, universities and other educational buildings",EMPL_DIR,0.004090278733512
+2015,SK,"Schools, colleges, universities and other educational buildings",GDPD,0.463750209355591
+2015,SK,"Schools, colleges, universities and other educational buildings",GDPT,0.789391266789107
+2015,SK,"Schools, colleges, universities and other educational buildings",IMPT,0.187245280440191
+2015,SK,"Schools, colleges, universities and other educational buildings",IMP_DIR,0.131602845939131
+2015,SK,"Schools, colleges, universities and other educational buildings",IMP_INI,0
+2015,SK,"Schools, colleges, universities and other educational buildings",TAXFND,0.013917377016623
+2015,SK,"Schools, colleges, universities and other educational buildings",WSLID,0.258083625865973
+2015,SK,"Schools, colleges, universities and other educational buildings",WSLIT,0.45732211648508
+2015,SK,Sewage engineering construction,EMPLT,0.006299259209119
+2015,SK,Sewage engineering construction,EMPL_DIR,0.003077574838549
+2015,SK,Sewage engineering construction,GDPD,0.406311026475506
+2015,SK,Sewage engineering construction,GDPT,0.833958365756166
+2015,SK,Sewage engineering construction,IMPT,0.159352069294175
+2015,SK,Sewage engineering construction,IMP_DIR,0.100646036266345
+2015,SK,Sewage engineering construction,IMP_INI,0
+2015,SK,Sewage engineering construction,TAXFND,0.000143578189369
+2015,SK,Sewage engineering construction,WSLID,0.231921721920238
+2015,SK,Sewage engineering construction,WSLIT,0.482432543757512
+2015,SK,Transformers,EMPLT,0.004866885986578
+2015,SK,Transformers,EMPL_DIR,0.00289415022228
+2015,SK,Transformers,GDPD,0.382281286716411
+2015,SK,Transformers,GDPT,0.603092352033624
+2015,SK,Transformers,IMPT,0.302171120514101
+2015,SK,Transformers,IMP_DIR,0.249024905247203
+2015,SK,Transformers,IMP_INI,0.01249613722784
+2015,SK,Transformers,TAXFND,0.042163469846207
+2015,SK,Transformers,WSLID,0.228823581493576
+2015,SK,Transformers,WSLIT,0.355936231929832
+2015,SK,Turbines and turbine generator set units,EMPLT,0.002667920420766
+2015,SK,Turbines and turbine generator set units,EMPL_DIR,0.001800159703234
+2015,SK,Turbines and turbine generator set units,GDPD,0.210741186349778
+2015,SK,Turbines and turbine generator set units,GDPT,0.303689831194092
+2015,SK,Turbines and turbine generator set units,IMPT,0.055022009283944
+2015,SK,Turbines and turbine generator set units,IMP_DIR,0.035429392820804
+2015,SK,Turbines and turbine generator set units,IMP_INI,0.589821923142689
+2015,SK,Turbines and turbine generator set units,TAXFND,0.04229329480528
+2015,SK,Turbines and turbine generator set units,WSLID,0.151978656484512
+2015,SK,Turbines and turbine generator set units,WSLIT,0.206061572091866
+2015,SK,Waterworks engineering construction,EMPLT,0.00629909345142
+2015,SK,Waterworks engineering construction,EMPL_DIR,0.003077493855737
+2015,SK,Waterworks engineering construction,GDPD,0.406300334872161
+2015,SK,Waterworks engineering construction,GDPT,0.833936421109155
+2015,SK,Waterworks engineering construction,IMPT,0.159347876129319
+2015,SK,Waterworks engineering construction,IMP_DIR,0.100643387882649
+2015,SK,Waterworks engineering construction,IMP_INI,0
+2015,SK,Waterworks engineering construction,TAXFND,0.000169888251284
+2015,SK,Waterworks engineering construction,WSLID,0.231915619169153
+2015,SK,Waterworks engineering construction,WSLIT,0.482419849104741
+2015,YT,Buses,EMPLT,0.002149745122929
+2015,YT,Buses,EMPL_DIR,0.001233114024505
+2015,YT,Buses,GDPD,0.153226365513986
+2015,YT,Buses,GDPT,0.248831709247532
+2015,YT,Buses,IMPT,0.292900282774371
+2015,YT,Buses,IMP_DIR,0.265778765093395
+2015,YT,Buses,IMP_INI,0.452651490866526
+2015,YT,Buses,TAXFND,0.001694915254237
+2015,YT,Buses,WSLID,0.098915868874983
+2015,YT,Buses,WSLIT,0.154649574503319
+2015,YT,Communication engineering construction,EMPLT,0.00591270310385
+2015,YT,Communication engineering construction,EMPL_DIR,0.00252353746823
+2015,YT,Communication engineering construction,GDPD,0.223717715532921
+2015,YT,Communication engineering construction,GDPT,0.579871686324744
+2015,YT,Communication engineering construction,IMPT,0.411105345046042
+2015,YT,Communication engineering construction,IMP_DIR,0.36648406097097
+2015,YT,Communication engineering construction,IMP_INI,0
+2015,YT,Communication engineering construction,TAXFND,0
+2015,YT,Communication engineering construction,WSLID,0.187756586810788
+2015,YT,Communication engineering construction,WSLIT,0.400497022150222
+2015,YT,Electric power engineering construction,EMPLT,0.005146595962155
+2015,YT,Electric power engineering construction,EMPL_DIR,0.003416713199806
+2015,YT,Electric power engineering construction,GDPD,0.68659365685388
+2015,YT,Electric power engineering construction,GDPT,0.881775864052576
+2015,YT,Electric power engineering construction,IMPT,0.112747670150563
+2015,YT,Electric power engineering construction,IMP_DIR,0.082339285400785
+2015,YT,Electric power engineering construction,IMP_INI,0
+2015,YT,Electric power engineering construction,TAXFND,0
+2015,YT,Electric power engineering construction,WSLID,0.326534713151814
+2015,YT,Electric power engineering construction,WSLIT,0.4485157271381
+2015,YT,"Highway, roads, streets, bridges and overpasses",EMPLT,0.005959523566686
+2015,YT,"Highway, roads, streets, bridges and overpasses",EMPL_DIR,0.004038181992154
+2015,YT,"Highway, roads, streets, bridges and overpasses",GDPD,0.675433670285786
+2015,YT,"Highway, roads, streets, bridges and overpasses",GDPT,0.920310084009879
+2015,YT,"Highway, roads, streets, bridges and overpasses",IMPT,0.074953569487468
+2015,YT,"Highway, roads, streets, bridges and overpasses",IMP_DIR,0.044726070765643
+2015,YT,"Highway, roads, streets, bridges and overpasses",IMP_INI,0
+2015,YT,"Highway, roads, streets, bridges and overpasses",TAXFND,0
+2015,YT,"Highway, roads, streets, bridges and overpasses",WSLID,0.288094346686634
+2015,YT,"Highway, roads, streets, bridges and overpasses",WSLIT,0.421546765545384
+2015,YT,"Hospitals, health centres, clinics, nursing homes and other health care buildings",EMPLT,0.006181137230518
+2015,YT,"Hospitals, health centres, clinics, nursing homes and other health care buildings",EMPL_DIR,0.003606219416675
+2015,YT,"Hospitals, health centres, clinics, nursing homes and other health care buildings",GDPD,0.524969238453898
+2015,YT,"Hospitals, health centres, clinics, nursing homes and other health care buildings",GDPT,0.801502900574704
+2015,YT,"Hospitals, health centres, clinics, nursing homes and other health care buildings",IMPT,0.177563778377445
+2015,YT,"Hospitals, health centres, clinics, nursing homes and other health care buildings",IMP_DIR,0.135986116069968
+2015,YT,"Hospitals, health centres, clinics, nursing homes and other health care buildings",IMP_INI,0
+2015,YT,"Hospitals, health centres, clinics, nursing homes and other health care buildings",TAXFND,0.014487824785744
+2015,YT,"Hospitals, health centres, clinics, nursing homes and other health care buildings",WSLID,0.232413963617637
+2015,YT,"Hospitals, health centres, clinics, nursing homes and other health care buildings",WSLIT,0.392252769718012
+2015,YT,Marine engineering construction,EMPLT,0.00583587509311
+2015,YT,Marine engineering construction,EMPL_DIR,0.001806891832226
+2015,YT,Marine engineering construction,GDPD,0.236207040090412
+2015,YT,Marine engineering construction,GDPT,0.743522223323419
+2015,YT,Marine engineering construction,IMPT,0.242785610226156
+2015,YT,Marine engineering construction,IMP_DIR,0.158734576546753
+2015,YT,Marine engineering construction,IMP_INI,0
+2015,YT,Marine engineering construction,TAXFND,0.001542020046261
+2015,YT,Marine engineering construction,WSLID,0.165024014865061
+2015,YT,Marine engineering construction,WSLIT,0.485696521094664
+2015,YT,Other commercial buildings,EMPLT,0.006258673141193
+2015,YT,Other commercial buildings,EMPL_DIR,0.003651455672745
+2015,YT,Other commercial buildings,GDPD,0.531554429246787
+2015,YT,Other commercial buildings,GDPT,0.811556917333635
+2015,YT,Other commercial buildings,IMPT,0.179791130520907
+2015,YT,Other commercial buildings,IMP_DIR,0.137691919865524
+2015,YT,Other commercial buildings,IMP_INI,0
+2015,YT,Other commercial buildings,TAXFND,0.002125603864734
+2015,YT,Other commercial buildings,WSLID,0.235329354046724
+2015,YT,Other commercial buildings,WSLIT,0.397173171026172
+2015,YT,Other engine and power transmission equipment,EMPLT,0.001550738534918
+2015,YT,Other engine and power transmission equipment,EMPL_DIR,0.001137686480544
+2015,YT,Other engine and power transmission equipment,GDPD,0.120822423850803
+2015,YT,Other engine and power transmission equipment,GDPT,0.16512556731939
+2015,YT,Other engine and power transmission equipment,IMPT,0.014017436994713
+2015,YT,Other engine and power transmission equipment,IMP_DIR,0.007925304333538
+2015,YT,Other engine and power transmission equipment,IMP_INI,0.806890002292301
+2015,YT,Other engine and power transmission equipment,TAXFND,0
+2015,YT,Other engine and power transmission equipment,WSLID,0.089864664280082
+2015,YT,Other engine and power transmission equipment,WSLIT,0.114114847004687
+2015,YT,Other engineering construction,EMPLT,0.005842041029065
+2015,YT,Other engineering construction,EMPL_DIR,0.001808800916834
+2015,YT,Other engineering construction,GDPD,0.236456606343626
+2015,YT,Other engineering construction,GDPT,0.744307797095417
+2015,YT,Other engineering construction,IMPT,0.243042127115133
+2015,YT,Other engineering construction,IMP_DIR,0.158902288709392
+2015,YT,Other engineering construction,IMP_INI,0
+2015,YT,Other engineering construction,TAXFND,0.000487092060399
+2015,YT,Other engineering construction,WSLID,0.165198372179155
+2015,YT,Other engineering construction,WSLIT,0.486209687259916
+2015,YT,Other institutional buildings,EMPLT,0.006249034568758
+2015,YT,Other institutional buildings,EMPL_DIR,0.003645832305108
+2015,YT,Other institutional buildings,GDPD,0.530735817097854
+2015,YT,Other institutional buildings,GDPT,0.810307091698616
+2015,YT,Other institutional buildings,IMPT,0.179514245980742
+2015,YT,Other institutional buildings,IMP_DIR,0.13747986956134
+2015,YT,Other institutional buildings,IMP_INI,0
+2015,YT,Other institutional buildings,TAXFND,0.003662364841298
+2015,YT,Other institutional buildings,WSLID,0.234966938727382
+2015,YT,Other institutional buildings,WSLIT,0.396561510648338
+2015,YT,Other miscellaneous general-purpose machinery,EMPLT,0.002391174003126
+2015,YT,Other miscellaneous general-purpose machinery,EMPL_DIR,0.001690595890011
+2015,YT,Other miscellaneous general-purpose machinery,GDPD,0.196787610098473
+2015,YT,Other miscellaneous general-purpose machinery,GDPT,0.27045335381475
+2015,YT,Other miscellaneous general-purpose machinery,IMPT,0.044812574831436
+2015,YT,Other miscellaneous general-purpose machinery,IMP_DIR,0.032213108820097
+2015,YT,Other miscellaneous general-purpose machinery,IMP_INI,0.663447023059889
+2015,YT,Other miscellaneous general-purpose machinery,TAXFND,0.001946607341491
+2015,YT,Other miscellaneous general-purpose machinery,WSLID,0.129284786109102
+2015,YT,Other miscellaneous general-purpose machinery,WSLIT,0.170760358299443
+2015,YT,Other oil and gas engineering construction,EMPLT,0.007392585143938
+2015,YT,Other oil and gas engineering construction,EMPL_DIR,0.004229520409981
+2015,YT,Other oil and gas engineering construction,GDPD,0.317647058823529
+2015,YT,Other oil and gas engineering construction,GDPT,0.695227097373878
+2015,YT,Other oil and gas engineering construction,IMPT,0.298424962401156
+2015,YT,Other oil and gas engineering construction,IMP_DIR,0.244551493540649
+2015,YT,Other oil and gas engineering construction,IMP_INI,0
+2015,YT,Other oil and gas engineering construction,TAXFND,0
+2015,YT,Other oil and gas engineering construction,WSLID,0.294117647058823
+2015,YT,Other oil and gas engineering construction,WSLIT,0.533736613464813
+2015,YT,Other transportation construction,EMPLT,0.005956527702131
+2015,YT,Other transportation construction,EMPL_DIR,0.004036151989895
+2015,YT,Other transportation construction,GDPD,0.675094128413077
+2015,YT,Other transportation construction,GDPT,0.919847442268515
+2015,YT,Other transportation construction,IMPT,0.074915890176427
+2015,YT,Other transportation construction,IMP_DIR,0.044703586879371
+2015,YT,Other transportation construction,IMP_INI,0
+2015,YT,Other transportation construction,TAXFND,0.000502702023376
+2015,YT,Other transportation construction,WSLID,0.287949521075632
+2015,YT,Other transportation construction,WSLIT,0.421334853133397
+2015,YT,Railroad rolling stocks,EMPLT,0
+2015,YT,Railroad rolling stocks,EMPL_DIR,0
+2015,YT,Railroad rolling stocks,GDPD,0
+2015,YT,Railroad rolling stocks,GDPT,0
+2015,YT,Railroad rolling stocks,IMPT,0
+2015,YT,Railroad rolling stocks,IMP_DIR,0
+2015,YT,Railroad rolling stocks,IMP_INI,1
+2015,YT,Railroad rolling stocks,TAXFND,0
+2015,YT,Railroad rolling stocks,WSLID,0
+2015,YT,Railroad rolling stocks,WSLIT,0
+2015,YT,"Schools, colleges, universities and other educational buildings",EMPLT,0.006267489253624
+2015,YT,"Schools, colleges, universities and other educational buildings",EMPL_DIR,0.003656599198062
+2015,YT,"Schools, colleges, universities and other educational buildings",GDPD,0.532303189168539
+2015,YT,"Schools, colleges, universities and other educational buildings",GDPT,0.812700095267043
+2015,YT,"Schools, colleges, universities and other educational buildings",IMPT,0.180044388485498
+2015,YT,"Schools, colleges, universities and other educational buildings",IMP_DIR,0.137885875903649
+2015,YT,"Schools, colleges, universities and other educational buildings",IMP_INI,0
+2015,YT,"Schools, colleges, universities and other educational buildings",TAXFND,0.000719974800882
+2015,YT,"Schools, colleges, universities and other educational buildings",WSLID,0.235660844443619
+2015,YT,"Schools, colleges, universities and other educational buildings",WSLIT,0.397732638384728
+2015,YT,Sewage engineering construction,EMPLT,0.005844888027617
+2015,YT,Sewage engineering construction,EMPL_DIR,0.001809682398762
+2015,YT,Sewage engineering construction,GDPD,0.236571838607926
+2015,YT,Sewage engineering construction,GDPT,0.744670520193417
+2015,YT,Sewage engineering construction,IMPT,0.243160568697548
+2015,YT,Sewage engineering construction,IMP_DIR,0.158979726471921
+2015,YT,Sewage engineering construction,IMP_INI,0
+2015,YT,Sewage engineering construction,TAXFND,0
+2015,YT,Sewage engineering construction,WSLID,0.165278878208482
+2015,YT,Sewage engineering construction,WSLIT,0.486446631551952
+2015,YT,Transformers,EMPLT,0.003516196928793
+2015,YT,Transformers,EMPL_DIR,0.00186216139966
+2015,YT,Transformers,GDPD,0.240862089807198
+2015,YT,Transformers,GDPT,0.415301147034129
+2015,YT,Transformers,IMPT,0.226720912778488
+2015,YT,Transformers,IMP_DIR,0.181513513169972
+2015,YT,Transformers,IMP_INI,0.331836722340771
+2015,YT,Transformers,TAXFND,0
+2015,YT,Transformers,WSLID,0.143487485812752
+2015,YT,Transformers,WSLIT,0.240971869110866
+2015,YT,Turbines and turbine generator set units,EMPLT,0.002249255155034
+2015,YT,Turbines and turbine generator set units,EMPL_DIR,0.001610001991299
+2015,YT,Turbines and turbine generator set units,GDPD,0.203407667304037
+2015,YT,Turbines and turbine generator set units,GDPT,0.271418001860092
+2015,YT,Turbines and turbine generator set units,IMPT,0.022206562509871
+2015,YT,Turbines and turbine generator set units,IMP_DIR,0.012395372802477
+2015,YT,Turbines and turbine generator set units,IMP_INI,0.684277717764902
+2015,YT,Turbines and turbine generator set units,TAXFND,0
+2015,YT,Turbines and turbine generator set units,WSLID,0.139849528291367
+2015,YT,Turbines and turbine generator set units,WSLIT,0.177820391614698
+2015,YT,Waterworks engineering construction,EMPLT,0.005844888027617
+2015,YT,Waterworks engineering construction,EMPL_DIR,0.001809682398762
+2015,YT,Waterworks engineering construction,GDPD,0.236571838607926
+2015,YT,Waterworks engineering construction,GDPT,0.744670520193417
+2015,YT,Waterworks engineering construction,IMPT,0.243160568697548
+2015,YT,Waterworks engineering construction,IMP_DIR,0.158979726471921
+2015,YT,Waterworks engineering construction,IMP_INI,0
+2015,YT,Waterworks engineering construction,TAXFND,0
+2015,YT,Waterworks engineering construction,WSLID,0.165278878208482
+2015,YT,Waterworks engineering construction,WSLIT,0.486446631551952

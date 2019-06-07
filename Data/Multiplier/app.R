@@ -90,9 +90,9 @@ server <- function(input, output) {
     
     
     ###### bring in the multiplier table and raw project data
-    multiplier <- read.csv("http://35.183.198.35/docs/infea_multiplier_tool_2015.csv", header = TRUE)
+    multiplier <- read.csv("/data/infea_multiplier_tool_2015.csv", header = TRUE,fileEncoding="UTF-8-BOM")
     
-    data <- read.csv(input$file1$datapath, header = TRUE)
+    data <- read.csv(input$file1$datapath, header = TRUE, fileEncoding="UTF-8-BOM")
     
     ##   data <- read.csv("http://35.183.198.35/docs/MapProjectCwwfPtif.csv", header = TRUE)
     data$Project.Name <- gsub("[;]","-",data$Project.Name)
@@ -202,7 +202,7 @@ server <- function(input, output) {
     #Load and format data into DTM
     #read csv
     #gtf_raw <- read.csv("http://35.183.198.35/docs/gtf_data.csv", stringsAsFactors = FALSE)
-    gtf_raw<-read.csv(input$file1$datapath)
+    gtf_raw<-read.csv(input$file1$datapath,fileEncoding="UTF-8-BOM")
     names(gtf_raw)<-str_replace_all(names(gtf_raw), c(" " = "." , "," = "" ))
     gtf_raw<-gtf_raw %>% 
       rename(Std.Cat=Standardized.Category,Title=Project.Title,Descr=Project.Description)
@@ -225,7 +225,7 @@ server <- function(input, output) {
     
     #clean corpus
     #Removing specific words
-    stopwords <- read.csv("http://35.183.198.35/docs/stopwords.csv",header=FALSE)
+    stopwords <- read.csv("/data/stopwords.csv",header=FALSE)
     stopwords <- as.character(stopwords$V1)
     
     clean_corpus <- function(corpus){
@@ -274,7 +274,7 @@ server <- function(input, output) {
     
     #apply multiplier effect
     #load multiplier table and rename columns
-    multiplier <- read.csv("http://35.183.198.35/docs/infea_multiplier_tool_2015.csv", header = TRUE)
+    multiplier <- read.csv("/data/infea_multiplier_tool_2015.csv", header = TRUE)
     multiplier <- multiplier %>% 
       rename(Region=geo,INFEA.Multiplier.Category=Asset)
     
@@ -370,6 +370,12 @@ server <- function(input, output) {
     
     write_csv(combined, paste(getwd(),"/data/Output_gtf.csv",sep=""), append = FALSE)
     
+    combined <- combined %>% 
+      rename(Project.Num = Project..) 
+    
+    
+    write_csv(combined, paste(getwd(),"/data/Output_gtf_map.csv",sep=""), append = FALSE)
+    
     shinyalert(title = "That was easy!", text = paste("Your file has been saved to: ",getwd(),"/data/Output_gtf.csv",sep = ""),
                type = "success") 
     
@@ -382,7 +388,7 @@ server <- function(input, output) {
     shinyalert(title = "Hang in there!", text = "We are currently processing your file - this could take a while.", type = "info", showConfirmButton = FALSE)
     
     #pims_raw <- read.csv("http://35.183.198.35/docs/pims_data.csv", stringsAsFactors = FALSE)
-    pims_raw<-read.csv(input$file1$datapath)
+    pims_raw<-read.csv(input$file1$datapath,fileEncoding="UTF-8-BOM")
     names(pims_raw)<-str_replace_all(names(pims_raw), c(" " = "." , "," = "" ))
     pims_raw<-pims_raw %>% 
       rename(Std.Cat=Standardized.Category,Title=Title..EN.,Descr=Description..EN.)
@@ -405,7 +411,7 @@ server <- function(input, output) {
     
     #clean corpus
     #Removing specific words
-    stopwords <- read.csv("http://35.183.198.35/docs/stopwords.csv",header=FALSE)
+    stopwords <- read.csv("/data/stopwords.csv",header=FALSE)
     stopwords <- as.character(stopwords$V1)
     
     clean_corpus <- function(corpus){
@@ -454,7 +460,7 @@ server <- function(input, output) {
     
     #apply multiplier effect
     #load multiplier table and rename columns
-    multiplier <- read.csv("http://35.183.198.35/docs/infea_multiplier_tool_2015.csv", header = TRUE)
+    multiplier <- read.csv("/data/infea_multiplier_tool_2015.csv", header = TRUE)
     multiplier <- multiplier %>% 
       rename(Region=geo,INFEA.Multiplier.Category=Asset)
     

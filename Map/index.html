@@ -144,7 +144,7 @@ filteredMarkers=[];
                 if( (myJSON[key].Region == theName) ){
                     console.log("FOUND");
 					if (thisChecked == true){
-                    	filteredMarkers.push(theName);
+                    	filteredMarkers.push(key);
 					}else{
 						//filteredMarkers.splice(theName, 1);
 					}
@@ -154,7 +154,7 @@ filteredMarkers=[];
 			console.log(filteredMarkers);
 			
             for(i=0;i<filteredMarkers.length;i++){
-                myMarkers[i].setMap(map);
+                myMarkers[filteredMarkers[i]].setMap(map);
 			}
 			
         });	

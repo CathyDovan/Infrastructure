@@ -7,7 +7,7 @@ A tool to:
 ## Motivation
 The team wanted to answer the question: "How might we improve our ability to report on past federal infrastructure investment in order to tell our (Infrastructure Canada's) story to Canadians?"
 
-## Setup and Installation
+## Setup
 ### Setup
 1. Install R version 3.5.2 (2018-12-20) [suggestion to use RStudio](https://www.rstudio.com/).
 
@@ -18,15 +18,20 @@ The team wanted to answer the question: "How might we improve our ability to rep
 ## Table of Contents (Repository Structure)
 ### 1. Data Folder
 The data folder contains the application and all snippets of code used to create the classifier and multiplier.
-- *Multiplier Folder* - contains the code for the classifier/multiplier app. 
-- *GeoCode gtf.R* -  code to generate Latitude and Longitude coordinates for GTF projects, based on city
-- *Matching - v2 - cwwf and ptif.R*	- code to match Latitude and Longitude coordinates for PTIF and CWWF projects, based on existing INFC map
-- *MultiplierScript.R* - code to automate the running of the INFEA multiplier
-- *Test.txt* - to delete
-- *classify_PIMS.R*	- code to classify PIMS data into INFEA categories
-- *classify_gtf.R* - code to classify GTF data into INFEA categories
-- *model.R	NB* - code to train a Naive Bayes classification model using 12996 PIMS projects (excluding all Capacity Building projects)
-- *project_classifier.rds* - stored Naive Bayes classifier model used in classify_gtf and classify_pims scripts
+   - *Multiplier Folder* - contains the code for the classifier/multiplier app
+   - *GeoCode gtf.R* -  code to generate Latitude and Longitude coordinates for GTF projects, based on city
+   - *Matching - v2 - cwwf and ptif.R*	- code to match Latitude and Longitude coordinates for PTIF and CWWF projects, based on existing INFC map
+   - *MultiplierScript.R* - code to automate the running of the INFEA multiplier (part of the app)
+   - *Test.txt* - to delete
+   - *classify_PIMS.R*	- code to classify PIMS data into INFEA categories (part of the app)
+   - *classify_gtf.R* - code to classify GTF data into INFEA categories (part of the app)
+   - *model.R* - code to train a Naive Bayes classification model using 12996 PIMS projects (excludes all Capacity Building projects)
+   - *project_classifier.rds* - stored Naive Bayes classifier model used in classify_gtf and classify_pims scripts (part of app)
+### 2. Map
+
+
+## Requirements for Project Datasets
+
 
 
 

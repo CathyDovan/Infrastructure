@@ -11,8 +11,8 @@ The team wanted to answer the question: "How might we improve our ability to rep
 1. Install R version 3.5.2 (2018-12-20) [suggestion to use RStudio](https://www.rstudio.com/).
 
 2. Clone Git repository to your computer:
-- using the clone feature and [URL](https://github.com/CathyDovan/Infrastructure.git)
-- downloading the repository and extracting all files from .zip folder onto your local drive
+   - using the clone feature and [URL](https://github.com/CathyDovan/Infrastructure.git)
+   - downloading the repository and extracting all files from .zip folder onto your local drive
 
 ## Table of Contents (Repository Structure)
 ### 1. Data Folder

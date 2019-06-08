@@ -60,9 +60,11 @@ The app and map both use a selection of columns available in each dataset (PIMS 
 2. Click on File > Open Script
 3. Navigate to where you cloned the GitHub repository (as unzipped files) and navigate through Infrastructure > Data > Multiplier. Select the file **app.R**
 4. Click the **Run App** button in the R interface:
-![](images/RunApp.png?raw=true "RunApp")
+![](images/RunApp.PNG?raw=true "RunApp")
+
 5. Select the list of projects you wish to classify or to which to apply the multiplier by using the **Browse** option:
 ![](images/OpenApp.png?raw=true "OpenApp")
+
 6. Choose the function you wish to perform on your data using one of three option buttons below:
 ![](images/FunctionOptions.png?raw=true "Functions")
 

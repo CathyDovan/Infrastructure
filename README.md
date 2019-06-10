@@ -89,7 +89,15 @@ In order to map the data, you will need to use another R program to attach Longi
 ![](images/RunCoordGenerator.png?raw=true "GenerateCoordinates")
 
 #### Viewing your datafile on the map
+An interactive map was created using Google Maps to visualize project data. The map also uses responsive design and is mostly compliant with the Web Experience Toolkit (WET), version 4. 
 
+To view your project data:
+1. Convert the CSV project data file with longitute and latitude into a JSON file using the following free online conversion tool, or a conversion tool of your choice:
+       http://www.convertcsv.com/csv-to-json.htm
+2. Save the converted CSV file to a server (e.g. http://35.183.198.35/uploads.html) using the folder structure `/GMAP/JSON`
+3. Open the HTML file or access the map (or via the temporary server: http://35.183.198.35/gmap/)
+
+![](images/maps.png?raw=true "OpenApp")
 
 
 

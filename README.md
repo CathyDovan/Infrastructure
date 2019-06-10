@@ -75,7 +75,7 @@ Once the app has finished processing your request, it will provide you with a li
 In order to map the data, you will need to use another R program to attach Longitude and Latitude coordinates to each project. Note that coordinates are calculated using the *Location* and *Province/Terrority* for GTF and *Region* and *Location* for PIMS data.
 
 1. Open the R Script **GeoCode gtf.R**
-2. Modify the following lines of code to read the app output file and write the same output files with map coordinates 
+2. Modify the `PATH` in the following lines of code to read the app output file and write the same output files with map coordinates 
    ```R
    #Load input data
    input.data<- read.csv("PATH/gtf_data.csv", header = T, stringsAsFactors = F)

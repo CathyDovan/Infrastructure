@@ -6,7 +6,7 @@
 <meta charset="utf-8">
 <!-- Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW)
 		wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html -->
-<title>INFC - Enhanced Google Map Concept</title>
+<title>Infrastructure Canada (INFC) Map Beta</title>
 <meta content="width=device-width,initial-scale=1" name="viewport">
 <meta name="description" content="Web Experience Toolkit (WET) includes reusable components for building and maintaining innovative Web sites that are accessible, usable, and interoperable. These reusable components are open source software and free for use by departments and external Web communities">
 <!--[if gte IE 9 | !IE ]><!-->
@@ -23,148 +23,14 @@
 <!--[if lte IE 9]>
 		<![endif]-->
 <noscript><link rel="stylesheet" href="./wet-boew/css/noscript.min.css" /></noscript>
-<link href="css/infc-gmap.css?v=5" rel="stylesheet" type="text/css" />
+<link href="css/infc-gmap.css?v=9" rel="stylesheet" type="text/css" />
 <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css" />	
 <script
   src="https://code.jquery.com/jquery-2.2.4.min.js"
   integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
   crossorigin="anonymous"></script>
-	  
-<script src="js/infc-gmap.js"></script>
-
-<script>
-var map;
-
-function initMap() {
-        map = new google.maps.Map(document.getElementById('map'), {
-          	center: new google.maps.LatLng(58.7897104,-96.0892755),
-          	zoom: 4,
-          	mapTypeId: 'terrain',
-			mapTypeControl: true,
-    		mapTypeControlOptions: {
-        	style: google.maps.MapTypeControlStyle.DROPDOWN_MENU,
-        	position: google.maps.ControlPosition.RIGHT_TOP
-    		}			
-        });
-}
-
-var myJSON = {};
-var myMarkers=[];
-
-$.getJSON("json/infc-projects.json", function(json1) {
-    myJSON=json1;
-    $.each(json1, function(key, data) {
-        var latLng = new google.maps.LatLng(data.Latitude, data.Longitude); 
-        // Creating a marker and putting it on the map
-		
-        var marker = new google.maps.Marker({
-            position: latLng
-        });
-        myMarkers[key]=marker;
-        marker.setMap(map);
-
-        infoWindow = new google.maps.InfoWindow();
-
-        google.maps.event.addListener(marker, 'click', function() {
-
-            if (infoWindow) {infoWindow.close();}
-			
-            infoWindow = new google.maps.InfoWindow({
-                content: "<h3 class='mrgn-tp-0'>" + data['Project.Name'] + " (" + data['Project.Num'] + ")</h3>" +
-                "<dl class=\"mrgn-tp-md dl-horizontal\">" +
-    			"<dt>Asset Type:</dt> <dd>"+ data['INFEA.Multiplier.Category'] +"</dd>" +
-    			"<dt>Program:</dt> <dd>"+ data['Program'] +"</dd>" +
-    			"<dt>INFEA Asset Category:</dt> <dd>"+ data['Asset.Category'] +"</dd>" +
-    			"<dt>Total Eligible Cost:</dt> <dd>"+ data['Total.Eligible.Costs'] +"</dd>" +
-    			"<dt>Federal Contribution:</dt> <dd>"+ data['Program.Contribution'] +"</dd>" +
-    			"<dt>Forecasted Start Date:</dt> <dd>"+ data['Construction.Start.Date'] +"</dd>" +
-    			"<dt>Forecasted End Date:</dt> <dd>"+ data['Construction.End.Date'] +"</dd>" +
-    			"<dt>Jobs created:</dt> <dd>"+ data['Total.Jobs.Eligible'] +" ("+ data['Direct.Jobs.Eligible'] +" direct)</dd>" +
-    			"<dt>Value Added:</dt> <dd>"+ data['Total.Value.Added.Eligible'] +" ("+ data['Direct.Value.Added.Eligible'] +" direct)</dd>" +
-    			"<dt>Employee compensation:</dt> <dd>"+ data['Total.Compensation.Eligible'] +" ("+ data['Direct.Compensation.Eligible'] +" direct)</dd>" +
-    			"<dt>Imports:</dt> <dd>"+ data['Imports.Contribution'] +"</dd>" +
-				"<dt>Taxes on products:</dt> <dd>"+ data['Taxes.Contribution'] +"</dd>" +
-    			"</dl>"
-            });
-            infoWindow.open(map, marker);
-            map.panTo(this.getPosition());
-
-            google.maps.event.addListener(infoWindow,'closeclick',function(){
-              //resetMapOrigin();
-            });
-        
-        });
-		
-		
-    });
-	
-        function setMapOnAll(map) {
-            for (var i = 0; i < myMarkers.length; i++) {
-                myMarkers[i].setMap(map);
-            }
-        }
-		
-        
-        function resetMapOrigin(){
-          console.log("Reseting Map.");
-          map.setZoom(2);
-          map.setCenter({lat:58,lng:16});
-        }
-	
-		function arrayRemove(arr, value) {
-   			return arr.filter(function(ele){
-       		return ele != value;
-   		});
-
-		}	
-	
-/* Filtering */
-filteredMarkers=[];	
-	
-        $(document).on("change", ".ion-tabs input", function(){
-   
-			theName = $(this).val();
-			theType = $(this).attr("data-type");
-			theCheckedLength = $(".ion-tabs input:checked").length;
-			thisChecked = $(this).prop("checked");
-			
-            // Clear markers
-            if (theCheckedLength == 1){
-				setMapOnAll(null);
-			}
-            // Reset Map Origin
-           	// resetMapOrigin();
-            
-            
-			
-			
-			$.each(myJSON, function(key, data) {
-                //console.log(key);
-				
-                if( (myJSON[key].Region == theName) ){
-                    console.log("FOUND");
-					if (thisChecked == true){
-                    	filteredMarkers.push(key);
-					}else{
-						//filteredMarkers.splice(theName, 1);
-					}
-                }
-            });
-
-			console.log(filteredMarkers);
-			
-            for(i=0;i<filteredMarkers.length;i++){
-                myMarkers[filteredMarkers[i]].setMap(map);
-			}
-			
-        });	
-
-
-});
-
-
-</script>	
-	
+<script src='https://cdnjs.cloudflare.com/ajax/libs/js-marker-clusterer/1.0.0/markerclusterer.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/typeahead.js/0.11.1/typeahead.bundle.min.js'></script>	  
 </head>
 <body class="page-type-nav" vocab="http://schema.org/" typeof="WebPage">
 <ul id="wb-tphp">
@@ -177,26 +43,28 @@ filteredMarkers=[];
 </ul>
 <header>
 <ul id="themenu">
-	<li><a href="#" class="ion-btnPanel" id="ion-btnPanel-show" title="Shoq filters">Show filters</a></li>
-	<li class="mrgn-tp-sm col-md-3 ion-search-wrapper">
+	<li id="ion-logo" class="mrgn-tp-sm"><strong><abbr title="Infrastructure Canada">INFC</abbr> Map Beta</strong></li>
+	<li><a href="#" class="ion-btnPanel" id="ion-btnPanel-show" title="Show filters">Show filters</a></li>
+	<li class="ion-mrgn-tp-md col-md-3 ion-search-wrapper">
 		<label for="searchfield" class="wb-inv">Search</label>
 		<div id="searchfield" class="input-group">
-    	<input type="text" class="form-control full-width" placeholder="Search">
+    	<input type="text" class="form-control full-width typeahead" placeholder="Search" title="Search is not functional for demo">
     	<span class="input-group-btn"> 
 		<button class="btn btn-default" title="Search by Voice" type="button"><i class="ion-font-rez fa fa-microphone"><span class="wb-inv">Search by Voice</span></i></button>
 		<button class="btn btn-default" title="Search" type="button"><i class="ion-font-rez fa fa-search"><span class="wb-inv">Search</span></i></button>
     	</span>
   		</div>
 	</li>
-	<li class="ion-aggregate">
+	<li class="ion-aggregate ion-aggregate-show ion-mrgn-tp-sm" title="Dummy data aggregation for demo">
 		<ul>
-			<li>1001 projects</li>
-			<li>1 billion $ federal spending</li>
-			<li>1345 jobs</li>
-			<li>457k economic benefits</li>
+			<li id="ion-aggregate-projects" class="text-center"><strong>1001</strong> <span class="ion-block">projects</span></li>
+			<li id="ion-aggregate-spending" class="text-center"><strong>1 billion $</strong> <span class="ion-block">federal spending</span></li>
+			<li id="ion-aggregate-jobs" class="text-center"><strong>1345</strong>  <span class="ion-block">jobs</span></li>
+			<li id="ion-aggregate-econob" class="text-center"><strong>457k</strong>  <span class="ion-block">economic benefits</span></li>
+			<li id="ion-aggregate-toggle" class="pull-left"><a href="#" id="ion-btnAggregate-hide"><span class="fa fa-angle-double-down"><span class="wb-inv">Hide aggregate bar</span></span></a></li>
 		</ul>
 	</li>
-	<li class="pull-right mrgn-rght-md ion-menu-links">
+	<li class="pull-right mrgn-rght-md ion-menu-links ion-mrgn-tp-lg">
 		<ul class="pull-left">
 			<li><a href="#" title="Data Table View"><i class="fa fa-table"><span class="wb-inv">Data Table View</span></i></a></li>
 			<li><a href="#">Français</a></li>
@@ -206,93 +74,80 @@ filteredMarkers=[];
 <div class="clearfix"></div>
 </header>
 
-<section id="ion-panelLeft" class="ion-hidden">
+<section id="ion-panelLeft" class="ion-hidden mrgn-tp-md">
 
 	<h2 class="ion-heading">Filters</h2>
 	
 	<div class="ion-tabs">
-			<details class="ion-mrgn-tp-md ion-filters-details">
+			<details class="mrgn-tp-md ion-filters-details">
 				<summary>Provinces</summary>			
-				<label for="prov-chk1" class="ion-block"><input data-type="Region" id="prov-chk1" type="checkbox" value="AB" /> Alberta</label>
-				<label for="prov-chk2" class="ion-block"><input data-type="Region"  id="prov-chk2" type="checkbox" value="BC" /> British Columbia</label>
-				<label for="prov-chk3" class="ion-block"><input data-type="Region"  id="prov-chk3" type="checkbox" value="MB" /> Manitoba</label>		
-				<label for="prov-chk4" class="ion-block"><input data-type="Region"  id="prov-chk4" type="checkbox" value="NB" /> New Brunswick</label>
-				<label for="prov-chk5" class="ion-block"><input data-type="Region"  id="prov-chk5" type="checkbox" value="NL" /> Newfoundland and Labrador</label>
-				<label for="prov-chk6" class="ion-block"><input data-type="Region"  id="prov-chk6" type="checkbox" value="NS" /> Nova Scotia</label>
-				<label for="prov-chk7" class="ion-block"><input data-type="Region"  id="prov-chk7" type="checkbox" value="PE" /> Prince Edward Island</label>	
-				<label for="prov-chk8" class="ion-block"><input  data-type="Region" id="prov-chk8" type="checkbox" value="ON" /> Ontario</label>	
-				<label for="prov-chk9" class="ion-block"><input data-type="Region"  id="prov-chk9" type="checkbox" value="QC" /> Quebec</label>	
-				<label for="prov-chk10" class="ion-block"><input data-type="Region"  id="prov-chk10" type="checkbox"value="SK" /> Saskatchewan</label>
-				<label for="prov-chk11" class="ion-block"><input data-type="Region"  id="prov-chk11" type="checkbox" value="NT" /> Northwest Territories</label>
-				<label for="prov-chk12" class="ion-block"><input data-type="Region"  id="prov-chk12" type="checkbox" value="NU" /> Nunavut</label>	
-				<label for="prov-chk13" class="ion-block"><input data-type="Region"  id="prov-chk13" type="checkbox" value="YT" /> Yukon</label>	
+				<div class="checkbox"><label for="prov-chk1"><input data-type="Region" id="prov-chk1" type="checkbox" value="AB" /> Alberta</label></div>
+				<div class="checkbox"><label for="prov-chk2"><input data-type="Region" id="prov-chk2" type="checkbox" value="BC" /> British Columbia</label></div>
+				<div class="checkbox"><label for="prov-chk3"><input data-type="Region" id="prov-chk3" type="checkbox" value="MB" /> Manitoba</label></div>		
+				<div class="checkbox"><label for="prov-chk4"><input data-type="Region" id="prov-chk4" type="checkbox" value="NB" /> New Brunswick</label></div>
+				<div class="checkbox"><label for="prov-chk5"><input data-type="Region" id="prov-chk5" type="checkbox" value="NL" /> Newfoundland and Labrador</label>
+				<div class="checkbox"><label for="prov-chk6"><input data-type="Region" id="prov-chk6" type="checkbox" value="NS" /> Nova Scotia</label>
+				<div class="checkbox"><label for="prov-chk7"><input data-type="Region" id="prov-chk7" type="checkbox" value="PE" /> Prince Edward Island</label>	
+				<div class="checkbox"><label for="prov-chk8"><input  data-type="Region"id="prov-chk8" type="checkbox" value="ON" /> Ontario</label>	
+				<div class="checkbox"><label for="prov-chk9"><input data-type="Region" id="prov-chk9" type="checkbox" value="QC" /> Quebec</label>	
+				<div class="checkbox"><label for="prov-chk10"><input data-type="Region" id="prov-chk10" type="checkbox"value="SK" /> Saskatchewan</label>
+				<div class="checkbox"><label for="prov-chk11"><input data-type="Region" id="prov-chk11" type="checkbox" value="NT" /> Northwest Territories</label>
+				<div class="checkbox"><label for="prov-chk12"><input data-type="Region" id="prov-chk12" type="checkbox" value="NU" /> Nunavut</label>	
+				<div class="checkbox"><label for="prov-chk13"><input data-type="Region" id="prov-chk13" type="checkbox" value="YT" /> Yukon</label>	
 			</details>		
-			<details class="ion-mrgn-tp-md ion-filters-details">
-				<summary>Asset category</summary>			
-				<label for="assets-chk1" class="ion-block"><input id="assets-chk1" type="checkbox" /> Buses</label>
-				<label for="assets-chk2" class="ion-block"><input id="assets-chk2" type="checkbox" /> Highways, bridges, road networks, etc.</label>
-				<label for="assets-chk3" class="ion-block"><input id="assets-chk3" type="checkbox" /> Railroad rolling stock</label>		
-				<label for="assets-chk4" class="ion-block"><input id="assets-chk4" type="checkbox" /> Railway lines, runways, etc.</label>
-				<label for="assets-chk5" class="ion-block"><input id="assets-chk5" type="checkbox" /> Sewage treatment plants and other sewage infrastructure</label>
-				<label for="assets-chk6" class="ion-block"><input id="assets-chk6" type="checkbox" /> Sports facilities, airports, communication buildings, etc.</label>
-				<label for="assets-chk7" class="ion-block"><input id="assets-chk7" type="checkbox" /> Water filtration plants and other water</label>							
+			<details class="mrgn-tp-md ion-filters-details">
+				<summary>Asset category</summary>
+				<p class="mrgn-tp-md alert alert-info">Disabled selections since they are not functional for this demo</p>
+				<div class="checkbox"><label for="assets-chk1"><input disabled data-type="Asset.Category" id="assets-chk1" type="checkbox" value="Buses" /> Buses</label></div>
+				<div class="checkbox"><label for="assets-chk2"><input disabled data-type="Asset.Category" id="assets-chk2" type="checkbox" value="Highways, bridges, road networks, etc." /> Highways, bridges, road networks, etc.</label></div>
+				<div class="checkbox"><label for="assets-chk3"><input disabled data-type="Asset.Category" id="assets-chk3" type="checkbox" value="Railroad rolling stock" /> Railroad rolling stock</label></div>
+				<div class="checkbox"><label for="assets-chk4"><input disabled data-type="Asset.Category" id="assets-chk4" type="checkbox" value= "Railway lines, runways, etc." /> Railway lines, runways, etc.</label></div>
+				<div class="checkbox"><label for="assets-chk5"><input disabled data-type="Asset.Category" id="assets-chk5" type="checkbox" value="Sewage treatment plants and other sewage infrastructure" /> Sewage treatment plants and other sewage infrastructure</label></div>
+				<div class="checkbox"><label for="assets-chk6"><input disabled data-type="Asset.Category" id="assets-chk6" type="checkbox" value="Sports facilities, airports, communication buildings, etc." /> Sports facilities, airports, communication buildings, etc.</label></div>
+				<div class="checkbox"><label for="assets-chk7"><input disabled data-type="Asset.Category" id="assets-chk7" type="checkbox" value="Water filtration plants and other water" /> Water filtration plants and other water</label></div>
 			</details>
-			<details class="ion-mrgn-tp-md ion-filters-details">
-				<summary>Program</summary>			
-				<label for="program-chk1" class="ion-block"><input id="program-chk1" type="checkbox" /> CWWF</label>
-				<label for="program-chk2" class="ion-block"><input id="program-chk2" type="checkbox" /> GTF</label>
-				<label for="program-chk3" class="ion-block"><input id="program-chk3" type="checkbox" /> PTIF</label>
-				<label for="program-chk4" class="ion-block"><input id="program-chk4" type="checkbox" /> PTIS</label>
+			<details class="mrgn-tp-md ion-filters-details">
+				<summary>Program</summary>	
+				<p class="mrgn-tp-md alert alert-info">Disabled selections since they are not functional for this demo</p>
+				<div class="checkbox"><label for="program-chk1"><input disabled data-type="program" id="program-chk1" type="checkbox" /> Clean Water and Wastewater Fund (CWWF)</label></div>
+				<div class="checkbox"><label for="program-chk2"><input disabled data-type="program" id="program-chk2" type="checkbox" /> Gas Tax Fund (GTF)</label></div>
+				<div class="checkbox"><label for="program-chk3"><input disabled data-type="program" id="program-chk3" type="checkbox" /> Public Transit Infrastructure Fund (PTIF)</label></div>
+				<div class="checkbox"><label for="program-chk4"><input disabled data-type="program" id="program-chk4" type="checkbox" /> Public Transit Infrastructure Stream (PTIS)</label></div>
 			</details>				
-			<details class="ion-mrgn-tp-md ion-filters-details">
+			<details class="mrgn-tp-md ion-filters-details">
 				<summary>Date</summary>			
-				<label for="date-chk1" class="ion-block"><input id="date-chk1" type="checkbox" /> 2019</label>
-				<label for="date-chk2" class="ion-block"><input id="date-chk2" type="checkbox" /> 2018</label>
-				<label for="date-chk3" class="ion-block"><input id="date-chk3" type="checkbox" /> 2017</label>
-				<label for="date-chk4" class="ion-block"><input id="date-chk4" type="checkbox" /> 2016</label>
+				<p class="mrgn-tp-md alert alert-info">Disabled selections since they are not functional for this demo</p>
+				<div class="checkbox"><label for="date-chk1"><input disabled data-type="Construction.Start.Date" id="date-chk1" type="checkbox" /> 2019</label></div>
+				<div class="checkbox"><label for="date-chk2"><input disabled data-type="Construction.Start.Date" id="date-chk2" type="checkbox" /> 2018</label></div>
+				<div class="checkbox"><label for="date-chk3"><input disabled data-type="Construction.Start.Date" id="date-chk3" type="checkbox" /> 2017</label></div>
+				<div class="checkbox"><label for="date-chk4"><input disabled data-type="Construction.Start.Date" id="date-chk4" type="checkbox" /> 2016</label></div>
 			</details>	
-			<details class="ion-mrgn-tp-md ion-filters-details">
-				<summary>Range of costs</summary>			
+			<details class="mrgn-tp-md ion-filters-details">
+				<summary>Range of costs</summary>
+				<p class="mrgn-tp-md alert alert-info">Disabled selections since they are not functional for this demo</p>
+				<div class="form-group mrgn-tp-md">
+				<label for="range-txt1">Between</label>
+				<input class="form-control" disabled data-type="Total.Eligible.Costs" id="range-txt1" type="number" value="0" min="0" max="100000000">
+				</div>
+				<div class="form-group">
+				<label for="range-txt2">And</label>
+				<input class="form-control" disabled data-type="Total.Eligible.Costs" id="range-txt2" type="number" value="100000000" min="0" max="100000000">	
+				</div>
 			</details>	
 	</div>
 	
-	<div id="ion-filter-btns" class="mrgn-tp-md mrgn-bttm-lg">
-	<button type="submit" class="btn btn-primary mrgn-rght-sm">Filter</button>
-	<button type="reset" class="btn btn-default">Reset</button>	
+	<div id="ion-filter-btns" class="mrgn-tp-md ion-mrgn-bttm-lg">
+	<!--<button type="submit" class="btn btn-primary mrgn-rght-sm">Filter</button>-->
+	<button type="reset" class="btn btn-default">Reset selections</button>	
 	</div>
+	
 </section>
 	
 <div id="map" class="dl-horizontal mrgn-tp-md"></div>
 
-	<script>
-
-
-/*
-$(function(){		
-		
-googleMapsLoaded = false;
-
-
-google.maps.event.addListener(map, 'tilesloaded', function() {
-   googleMapsLoaded = true;	
- 
-   google.maps.event.clearListeners(map, 'tilesloaded');
-});
-});
-
-function toggleLayer( layer, map ){
-     layer.setMap( layer.getMap() ? null : map );
-}
-
-layersArray["prov.kml", "infc-map17.kml"]		
-		
-toggleLayer( layersArray[index], map );	
-		*/
-		
-</script>
-    <script async defer
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDNPCiKh5yYMM-qoqRcxSxlQY4pkmuulBw&callback=initMap">
-    </script>
+<script src="js/infc-gmap.js?v=3"></script>
+<script src="js/infc-data.js?v=3"></script>
+<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDNPCiKh5yYMM-qoqRcxSxlQY4pkmuulBw&callback=initMap"></script>
 
 <!--[if gte IE 9 | !IE ]><!-->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.js"></script>
